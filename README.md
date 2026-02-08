@@ -13,13 +13,14 @@ by a global constraint. Local cosmology remains exactly Einstein gravity once Λ
 ## Key papers (archival record)
 
 • **Radiatively stable vacuum energy from a gauged constant vacuum mode**  
-  Zenodo DOI: https://doi.org/10.5281/zenodo.17636209
+  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.17636209
 
 • **Residual Λ_eff in a GCV framework (“squashing remnant”)**  
-  Zenodo DOI: https://doi.org/10.5281/zenodo.17707787
+  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.17707787
 
 • **DESI growth-ratio likelihood test of the GCV response sector**  
   (ShapeFit+BAO, one-parameter null test)
+  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18502989
 
 ## What is testable
 
