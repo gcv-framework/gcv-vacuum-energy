@@ -11,6 +11,7 @@ rather than a dynamical substance, while strictly constant vacuum contributions 
 by a global constraint. Local cosmology remains exactly Einstein gravity once Λ_eff is fixed.
 
 ## Key papers (archival record)
+The authoritative, citable versions of all papers are the Zenodo records linked below.
 
 • **Radiatively stable vacuum energy from a gauged constant vacuum mode**  
   Zenodo Concept DOI: https://doi.org/10.5281/zenodo.17636209
