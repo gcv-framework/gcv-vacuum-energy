@@ -23,6 +23,9 @@ The authoritative, citable versions of all papers are the Zenodo records linked 
   (ShapeFit+BAO, one-parameter null test)
   Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18502989
 
+• **GCV: Numerical selection of Λ_eff on the GR-exact branch**  
+  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18604646
+
 ## What is testable
 
 • **GR-exact limit:** flat growth relative to GR (ε = 0)  
