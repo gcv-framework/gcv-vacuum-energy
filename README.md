@@ -24,6 +24,7 @@ The authoritative, citable versions of all papers are the Zenodo records linked 
   Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18502989
 
 • **GCV: Numerical selection of Λ_eff on the GR-exact branch**  
+  Zenodo Version DOI: https://doi.org/10.5281/zenodo.18620244  
   Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18604646
 
 ## What is testable
