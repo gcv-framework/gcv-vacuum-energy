@@ -45,4 +45,5 @@ The framework treats null results as meaningful outcomes.
 
 ## How to cite
 
-Please cite the relevant Zenodo DOI(s) listed above.
+Please cite the relevant Zenodo **concept DOI** above (preferred).  
+For exact reproducibility of a specific release, cite the corresponding Zenodo **version DOI**.
