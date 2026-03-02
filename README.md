@@ -25,6 +25,12 @@ The authoritative, citable versions of all papers are the Zenodo records linked 
 • **Residual Λ_eff in a GCV framework (“squashing remnant”)**  
   Zenodo Concept DOI: https://doi.org/10.5281/zenodo.17707787
 
+• **From order-unity to near-unity: a three-bottleneck closeout for Λ selection in flux-fixed GR (closeout / acceptance gate)”**  
+  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18776606
+
+• **A UV-anchored budget-partition mechanism for derived-Λ within flux-fixed GR (UV candidate passing the fixed gate)”**  
+  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18827508
+
 • **DESI growth-ratio likelihood test of the GCV response sector**  
   (ShapeFit+BAO, one-parameter null test)
   Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18502989
