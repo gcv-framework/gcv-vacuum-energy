@@ -19,6 +19,9 @@ The authoritative, citable versions of all papers are the Zenodo records linked 
 • **Radiatively Stable General Relativity with a Flux-Fixed Cosmological Constant (GCV): A minimal structural claim, modular mapping, and survey-facing falsifiers**  
   Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18666397
 
+• **The Positive-Λ Module of the Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology**  
+  Zenodo DOI: https://doi.org/10.5281/zenodo.18871624
+
 • **Radiatively stable vacuum energy from a gauged constant vacuum mode**  
   Zenodo Concept DOI: https://doi.org/10.5281/zenodo.17636209
 
