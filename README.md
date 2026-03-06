@@ -1,64 +1,100 @@
-# GCV Framework — Vacuum Energy, Dark Energy, and Testable Null Tests
+# GCV Framework — Vacuum Energy, Dark Energy, and the Cosmological Constant Problem
 
 GR-exact, radiatively stable approach to the cosmological constant (vacuum energy) problem.
 
-This repository provides a high-level entry point to the **Gauged Constant Vacuum-Mode (GCV)**
-framework: a GR-exact, radiatively stable approach to the cosmological constant (vacuum energy)
-problem with concrete late-time observational tests.
+This repository provides a high-level entry point to the **Gauged Constant Vacuum-Mode (GCV)** framework: a GR-exact, radiatively stable approach to the cosmological constant problem with concrete late-time observational tests and a modular research record.
 
-The core idea is that dark energy can be understood as a **geometric integration constant**
-rather than a dynamical substance, while strictly constant vacuum contributions are handled
-by a global constraint. Local cosmology remains exactly Einstein gravity once Λ_eff is fixed.
+The central idea is that the cosmological constant can be interpreted as a **flux-fixed integration constant** in the local Einstein equations rather than a locally renormalized vacuum-energy parameter. Strictly spacetime-constant vacuum contributions are isolated into a global constant mode, while local cosmology remains exactly Einstein gravity once **Λ_eff** is fixed by late-time geometry.
 
-## Key papers (archival record)
-The authoritative, citable versions of all papers are the Zenodo records linked below.
+---
 
-• **Radiatively Stable General Relativity with a Flux-Fixed Cosmological Constant (GCV): A minimal structural statement and empirical falsifier interface**  
-  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18656287
+# Program synthesis (entry point)
 
-• **Radiatively Stable General Relativity with a Flux-Fixed Cosmological Constant (GCV): A minimal structural claim, modular mapping, and survey-facing falsifiers**  
-  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18666397
+**The Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology (GCV):  
+Radiative stability, observed-value localization of residual Λ_eff, and positive-Λ realization via a four-step route**
 
-• **The Positive-Λ Module of the Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology**  
-  Zenodo DOI: https://doi.org/10.5281/zenodo.18871624
+This synthesis paper summarizes the full GCV programme and its three CCP pillars:
 
-• **Radiatively stable vacuum energy from a gauged constant vacuum mode**  
-  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.17636209
+1. **Radiative stability** of the strictly constant vacuum mode  
+2. **Observed-value localization** of the residual Λ_eff  
+3. **Positive-Λ realization** via late-time viability
 
-• **Residual Λ_eff in a GCV framework (“squashing remnant”)**  
-  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.17707787
+Concept DOI (canonical record)  
+https://doi.org/10.5281/zenodo.18850394  
 
-• **From order-unity to near-unity: a three-bottleneck closeout for Λ selection in flux-fixed GR (closeout / acceptance gate)”**  
-  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18776606
+Version DOI (v1.0.0 preprint)  
+https://doi.org/10.5281/zenodo.18850395  
 
-• **A UV-anchored budget-partition mechanism for derived-Λ within flux-fixed GR (UV candidate passing the fixed gate)”**  
-  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18827508
+---
 
-• **DESI growth-ratio likelihood test of the GCV response sector**  
-  (ShapeFit+BAO, one-parameter null test)
-  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18502989
+# Core theoretical modules
 
-• **GCV: Numerical selection of Λ_eff on the GR-exact branch**  
-  Zenodo Version DOI: https://doi.org/10.5281/zenodo.18645843
-  Zenodo Concept DOI: https://doi.org/10.5281/zenodo.18604646
+### Radiative-stability backbone
+**Radiatively stable vacuum energy from a gauged constant vacuum mode: Local Einstein equations with a flux-fixed Λ_eff**  
+Concept DOI: https://doi.org/10.5281/zenodo.17636209
 
-## What is testable
+### Residual Λ interpretation
+**Residual Λ_eff in a Gauged Constant Vacuum-Mode (GCV) Framework (“squashing remnant”)**  
+Concept DOI: https://doi.org/10.5281/zenodo.17707787
 
-• **GR-exact limit:** flat growth relative to GR (ε = 0)  
-• **Allowed excitation:** small, smooth downward growth tilt at late times  
-• **Falsifier:** large deviations, opposite tilt, or geometry-modifying effects
+### Sign-selection module
+**The Positive-Λ Module of the Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology**  
+Concept DOI: https://doi.org/10.5281/zenodo.18871623
 
-The framework treats null results as meaningful outcomes.
+---
 
-## Additional material
+# Value-selection programme
 
-• Project homepage and summaries:  
-  https://johansson.digital
+### Numerical selection pipeline
+**GCV: Numerical selection of Λ_eff on the GR-exact branch**  
+Concept DOI: https://doi.org/10.5281/zenodo.18604646
 
-• “Cite / Index” page with DOIs and versioning:  
-  https://johansson.digital/cite-index
+### Robustness closeout
+**From order-unity to near-unity: a three-bottleneck closeout for Λ selection in flux-fixed GR**  
+Concept DOI: https://doi.org/10.5281/zenodo.18776606
 
-## How to cite
+### UV-anchored candidate mechanism
+**A UV-anchored budget-partition mechanism for derived-Λ within flux-fixed GR**  
+Concept DOI: https://doi.org/10.5281/zenodo.18827508
 
-Please cite the relevant Zenodo **concept DOI** above (preferred).  
-For exact reproducibility of a specific release, cite the corresponding Zenodo **version DOI**.
+---
+
+# Observational interfaces
+
+### Late-time geometry and growth
+**RulerFree: AP Geometry and Growth – A ruler-free AP+RSD compression for late-time cosmology**  
+Concept DOI: https://doi.org/10.5281/zenodo.17687754
+
+### Growth-sector test (DESI)
+**DESI growth-ratio likelihood test of the GCV response sector**  
+Concept DOI: https://doi.org/10.5281/zenodo.18502989
+
+---
+
+# What is testable
+
+The minimal GR-exact branch predicts:
+
+• **Background cosmology:** identical to flat ΛCDM once Λ_eff is fixed  
+• **Growth sector:** ε = 0 baseline (GR-exact limit)  
+• **Allowed excitation:** small smooth downward growth tilt  
+• **Falsifier:** geometry requiring w(a) ≠ −1 or strong non-GR growth behaviour
+
+Null results therefore carry physical meaning within the framework.
+
+---
+
+# Additional resources
+
+Project homepage  
+https://johansson.digital
+
+Citable record index  
+https://johansson.digital/cite-index
+
+---
+
+# How to cite
+
+Please cite the **Zenodo concept DOI** of the relevant record (preferred).  
+For exact reproducibility of a specific release, cite the corresponding **version DOI**.
