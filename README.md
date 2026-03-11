@@ -23,10 +23,10 @@ This synthesis paper summarizes the full GCV programme and its three CCP pillars
 Within the GR-exact branch, these modules jointly support a **programme-level CCP closure claim**, up to a narrow UV-selected discretuum rather than a unique continuous endpoint. 
 
 **Concept DOI (canonical record):**  
-https://doi.org/10.5281/zenodo.18850394
+https://zenodo.org/records/18850394
 
 **Version DOI (v1.0.0 preprint):**  
-https://doi.org/10.5281/zenodo.18850395
+https://zenodo.org/records/18850395
 
 ---
 
@@ -40,7 +40,7 @@ Local Einstein equations with a flux-fixed `Λ_eff`**
 This is the main structural backbone of the framework. It states the operator-level claim that strictly spacetime-constant vacuum shifts renormalize only the gauge/flux-controlled global mode and do not reappear as a freely running local cosmological-constant coupling in the local Einstein equations. :contentReference[oaicite:3]{index=3}
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.17636209
+https://zenodo.org/records/17636209
 
 ---
 
@@ -67,7 +67,7 @@ A parallel logic paper explaining why the modular CCP closure claim follows from
 Interpretation layer for the observed small positive residual: `Λ_eff` is treated as a flux-fixed integration constant (a curvature label), not a propagating dark-energy component. The note sharpens the “squashing-remnant” picture and records the sign-selection context. :contentReference[oaicite:6]{index=6}
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.17707787
+https://zenodo.org/records/17707787
 
 ---
 
@@ -80,7 +80,7 @@ https://doi.org/10.5281/zenodo.17707787
 Late-time viability and the suppression of `Λ < 0` once the magnitude window is already fixed near the observed scale. This note closes the sign step in a modular operational sense; it is **not** a UV theorem for positivity. 
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.18871623
+https://zenodo.org/records/18871623
 
 ---
 
@@ -93,7 +93,7 @@ https://doi.org/10.5281/zenodo.18871623
 Numerical selection / posterior programme for the residual cosmological constant on the GR-exact branch.
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.18604646
+https://zenodo.org/records/18604646
 
 ---
 
@@ -104,7 +104,7 @@ https://doi.org/10.5281/zenodo.18604646
 Closeout note for the magnitude-selection programme.
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.18776606
+https://zenodo.org/records/18776606
 
 ---
 
@@ -115,7 +115,7 @@ https://doi.org/10.5281/zenodo.18776606
 UV-anchored derived-`Λ` candidate mechanism and geometry closure. This note supplies a quantitative existence proof that the constrained UV class is nonempty under the imported acceptance gate. 
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.18827508
+https://zenodo.org/records/18827508
 
 ---
 
@@ -126,7 +126,7 @@ https://doi.org/10.5281/zenodo.18827508
 Operational capability-conditioning layer for `x ≡ Λ/Λ_obs` on the GR-exact branch. This note replaces heuristic detectability windows with an explicit measurement-capability model. :contentReference[oaicite:9]{index=9}
 
 **Version DOI:**  
-https://doi.org/10.5281/zenodo.18775993
+https://zenodo.org/records/18775993
 
 ---
 
@@ -139,7 +139,7 @@ https://doi.org/10.5281/zenodo.18775993
 Model-agnostic late-time geometry + growth interface built around ruler-free AP observables and compressed growth summaries. This is the main late-time observational interface for the GCV programme. 
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.17687754
+https://zenodo.org/records/17687754
 
 ---
 
@@ -150,7 +150,7 @@ https://doi.org/10.5281/zenodo.17687754
 One-parameter likelihood-level constraint on the optional growth-response sector using public DESI compressed growth ratios. The current result is consistent with the GR-exact null case and does not claim a detection of modified growth. :contentReference[oaicite:11]{index=11}
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.18502989
+https://zenodo.org/records/18502989
 
 ---
 
@@ -172,7 +172,7 @@ an admissible extension class and falsifier interface**
 This note defines the conservative requirement set for admissible late-time geometry departures around the GR-exact branch: they must be excitation-driven, vacuum-subtracted, bounded by a small parameter, and transient relative to the flux-fixed `Λ_eff` background. It is an extension-class / falsifier paper, not a data claim. 
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.18833996
+https://zenodo.org/records/18833996
 
 ---
 
@@ -188,10 +188,10 @@ This paper realizes that extension class explicitly. It studies two minimal benc
 The note shows that the bounded-transient class is not merely a formal envelope: it admits explicit realized profiles with calculable ruler-free late-time geometry signatures. At the same time, it keeps the proper claim boundary: it does **not** claim evidence for departures in current data, does **not** modify the branch-scoped CCP closure claim, and does **not** replace the published GR-exact default or the growth-only optional response sector. :contentReference[oaicite:14]{index=14}
 
 **Version DOI (v2.0.0):**  
-https://doi.org/10.5281/zenodo.18927184
+https://zenodo.org/records/18927184
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.18833996
+https://zenodo.org/records/18833996
 
 ---
 
@@ -204,7 +204,7 @@ https://doi.org/10.5281/zenodo.18833996
 Late-time bridge between the GR-exact baseline, observational interfaces, and small modified-growth phenomenology. Listed in the programme map as one of the main observational interface notes. :contentReference[oaicite:15]{index=15}
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.17749448
+https://zenodo.org/records/17749448
 
 ---
 
@@ -215,7 +215,7 @@ https://doi.org/10.5281/zenodo.17749448
 Early-universe bookkeeping and cosmology interface for the broader GCV stack. Included here for completeness of the programme map. :contentReference[oaicite:16]{index=16}
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.17692514
+https://zenodo.org/records/17692514
 
 ---
 
@@ -228,7 +228,7 @@ https://doi.org/10.5281/zenodo.17692514
 Semi-explicit UV benchmark package tying a controlled compactification benchmark to the low-energy response sector and late-time prediction card. It provides an auditable UV anchor for the GR-exact framework and the optional growth-response layer. :contentReference[oaicite:17]{index=17}
 
 **Concept DOI:**  
-https://doi.org/10.5281/zenodo.18438489
+https://zenodo.org/records/18438489
 
 ---
 
