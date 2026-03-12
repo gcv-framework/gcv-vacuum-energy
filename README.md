@@ -2,15 +2,15 @@
 
 **GR-exact, radiatively stable approach to the cosmological constant (vacuum energy) problem.**
 
-This repository provides a high-level entry point to the **Gauged Constant Vacuum-Mode (GCV)** framework: a GR-exact, radiatively stable approach to the cosmological constant problem with a modular late-time/UV research record.
+This repository provides a high-level entry point to the **Gauged Constant Vacuum-Mode (GCV)** framework: a GR-exact, radiatively stable approach to the cosmological constant problem with a modular late-time / UV research record.
 
-The central idea is that the cosmological constant can be interpreted as a **flux-fixed integration constant** in the local Einstein equations rather than as a locally renormalized vacuum-energy parameter. Strictly spacetime-constant vacuum contributions are isolated into a global constant mode, while local cosmology remains exactly Einstein gravity once `Λ_eff` is fixed by late-time geometry. 
+The central idea is that the cosmological constant can be interpreted as a **flux-fixed integration constant** in the local Einstein equations rather than as a locally renormalized vacuum-energy parameter. Strictly spacetime-constant vacuum contributions are isolated into a global constant mode, while local cosmology remains exactly Einstein gravity once `Λ_eff` is fixed by late-time geometry.
 
 ---
 
-## Programme synthesis (entry point)
+# Programme synthesis (entry point)
 
-### The Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology (GCV)
+## The Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology (GCV)
 
 Radiative stability, observed-value localization of residual `Λ_eff`, and positive-Λ realization via a four-step route.
 
@@ -20,247 +20,256 @@ This synthesis paper summarizes the full GCV programme and its three CCP pillars
 2. **Observed-value localization** of the residual `Λ_eff`  
 3. **Positive-Λ realization** via late-time viability  
 
-Within the GR-exact branch, these modules jointly support a **programme-level CCP closure claim**, up to a narrow UV-selected discretuum rather than a unique continuous endpoint. 
+Within the GR-exact branch, these modules jointly support a **programme-level CCP closure claim**, up to a narrow UV-selected discretuum rather than a unique continuous endpoint.
 
-**Concept DOI (canonical record):**  
+**Concept DOI (canonical record)**  
 https://zenodo.org/records/18850394
 
-**Version DOI (v1.0.0 preprint):**  
+**Version DOI (v1.0.0 preprint)**  
 https://zenodo.org/records/18850395
 
 ---
 
-## Core theoretical modules
+# Core theoretical modules
 
-### Radiative-stability backbone
+## Radiative-stability backbone
 
 **Radiatively stable vacuum energy from a gauged constant vacuum mode:  
 Local Einstein equations with a flux-fixed `Λ_eff`**
 
-This is the main structural backbone of the framework. It states the operator-level claim that strictly spacetime-constant vacuum shifts renormalize only the gauge/flux-controlled global mode and do not reappear as a freely running local cosmological-constant coupling in the local Einstein equations. :contentReference[oaicite:3]{index=3}
+This paper states the structural backbone of the framework: strictly spacetime-constant vacuum shifts renormalize only the gauge/flux-controlled global mode and do not reappear as a freely running local cosmological-constant coupling in the local Einstein equations.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/17636209
 
 ---
 
-### One-page backbone / synthesis interface
+## One-page backbone / synthesis interface
 
 **Radiatively Stable General Relativity with a Flux-Fixed Cosmological Constant (GCV)**
 
-A compact entry note stating the GR-exact structural claim, the branch-scoped CCP positioning, and the minimal falsifier map. It is the shortest route into the late-time backbone and the current programme map. :contentReference[oaicite:4]{index=4}
+A compact entry note stating the GR-exact structural claim, the branch-scoped CCP positioning, and the minimal falsifier map.
 
 ---
 
-### Logic spine / proof map
+## Logic spine / proof map
 
 **Logical Closure of the Cosmological Constant Problem in Flux-Fixed GR (GCV)**
 
-A parallel logic paper explaining why the modular CCP closure claim follows from the completed modules. It does not replace the flagship or the technical records; it states the dependency chain, claim boundary, and falsifiers in one place. :contentReference[oaicite:5]{index=5}
+A companion logic paper explaining how the modular CCP closure claim follows from the completed modules. It provides a dependency map, claim boundary, and falsifier logic.
 
 ---
 
-### Residual `Λ_eff` interpretation
+## Residual `Λ_eff` interpretation
 
 **Residual `Λ_eff` in a Gauged Constant Vacuum-Mode (GCV) Framework (“squashing remnant”)**
 
-Interpretation layer for the observed small positive residual: `Λ_eff` is treated as a flux-fixed integration constant (a curvature label), not a propagating dark-energy component. The note sharpens the “squashing-remnant” picture and records the sign-selection context. :contentReference[oaicite:6]{index=6}
+Interpretation layer for the observed small positive residual:
 
-**Concept DOI:**  
+`Λ_eff` is treated as a **flux-fixed integration constant (curvature label)** rather than a propagating dark-energy component.
+
+**Concept DOI**  
 https://zenodo.org/records/17707787
 
 ---
 
-## Sign-selection module
+# Sign-selection module
 
-### Positive-Λ realization
+## Positive-Λ realization
 
 **The Positive-Λ Module of the Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology**
 
-Late-time viability and the suppression of `Λ < 0` once the magnitude window is already fixed near the observed scale. This note closes the sign step in a modular operational sense; it is **not** a UV theorem for positivity. 
+This module addresses late-time viability and the suppression of `Λ < 0` once the magnitude window is fixed near the observed scale.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/18871623
 
 ---
 
-## Value-selection programme
+# Value-selection programme
 
-### Numerical selection pipeline
+## Numerical selection pipeline
 
 **GCV: Numerical selection of `Λ_eff` on the GR-exact branch**
 
-Numerical selection / posterior programme for the residual cosmological constant on the GR-exact branch.
+Posterior / selection programme for the residual cosmological constant.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/18604646
 
 ---
 
-### Robustness closeout
+## Robustness closeout
 
 **From order-unity to near-unity: a three-bottleneck closeout for `Λ` selection in flux-fixed GR**
 
-Closeout note for the magnitude-selection programme.
+Robustness and closure analysis of the magnitude-selection programme.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/18776606
 
 ---
 
-### UV-anchored candidate mechanism
+## UV-anchored candidate mechanism
 
 **A UV-anchored budget-partition mechanism for derived-`Λ` within flux-fixed GR**
 
-UV-anchored derived-`Λ` candidate mechanism and geometry closure. This note supplies a quantitative existence proof that the constrained UV class is nonempty under the imported acceptance gate. 
+Provides a quantitative existence proof that the constrained UV class is non-empty.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/18827508
 
 ---
 
-### Operational measurement conditioning
+## Operational measurement conditioning
 
 **Operational measurement conditioning of the cosmological constant in the GCV framework**
 
-Operational capability-conditioning layer for `x ≡ Λ/Λ_obs` on the GR-exact branch. This note replaces heuristic detectability windows with an explicit measurement-capability model. :contentReference[oaicite:9]{index=9}
+Measurement-capability conditioning layer for
 
-**Version DOI:**  
+`x ≡ Λ / Λ_obs`
+
+on the GR-exact branch.
+
+**Version DOI**  
 https://zenodo.org/records/18775993
 
 ---
 
-## Observational interfaces
+# Observational interfaces
 
-### Late-time geometry and growth
+## RulerFree late-time interface
 
-**RulerFree: AP Geometry and Growth — A ruler-free AP+RSD compression for late-time cosmology**
+**RulerFree: AP Geometry and Growth — a ruler-free AP+RSD compression for late-time cosmology**
 
-Model-agnostic late-time geometry + growth interface built around ruler-free AP observables and compressed growth summaries. This is the main late-time observational interface for the GCV programme. 
+Model-agnostic late-time geometry + growth interface based on ruler-free AP observables and compressed growth summaries.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/17687754
 
 ---
 
-### Growth-sector test (DESI)
+## DESI growth-sector test
 
 **DESI growth-ratio likelihood test of the GCV response sector**
 
-One-parameter likelihood-level constraint on the optional growth-response sector using public DESI compressed growth ratios. The current result is consistent with the GR-exact null case and does not claim a detection of modified growth. :contentReference[oaicite:11]{index=11}
+Likelihood-level constraint on the optional perturbation-sector response using public DESI compressed growth ratios.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/18502989
 
 ---
 
-### Growth-sector observational target
+## Growth-sector observational target
 
 **A growth-sector observational target for GCV on the GR-exact branch**
 
-Survey-facing note explaining why the most natural near-term observational target of the GR-exact branch is a **small coherent perturbation-sector response** rather than a large persistent background departure from `GR+Λ`. It clarifies the expected geometry–growth–lensing split and the associated falsifier interface. :contentReference[oaicite:12]{index=12}
+Survey-facing note explaining why the most natural near-term observational signature of the GR-exact branch is a **small coherent perturbation-sector response** rather than a large persistent background deviation from GR+Λ.
+
+In practical terms:
+
+> **Geometry stays Λ-like; growth tilts.**
+
+The paper introduces a growth-tilt diagnostic and Fisher-style detectability estimate using the public DESI growth block.
+
+**Version DOI (v1.0.0)**  
+https://doi.org/10.5281/zenodo.18933387
 
 ---
 
-## Bounded-transient extension programme
+# Bounded-transient extension programme
 
-### Extension-class definition
+## Extension-class definition
 
-**Bounded transient departures around the GR-exact branch in flux-fixed GR:  
-an admissible extension class and falsifier interface**
+**Bounded transient departures around the GR-exact branch in flux-fixed GR**
 
-This note defines the conservative requirement set for admissible late-time geometry departures around the GR-exact branch: they must be excitation-driven, vacuum-subtracted, bounded by a small parameter, and transient relative to the flux-fixed `Λ_eff` background. It is an extension-class / falsifier paper, not a data claim. 
+Defines the conservative extension class for late-time geometry departures around the GR-exact branch.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/18833996
 
 ---
 
-### Realized bounded-transient paper
+## Realized bounded-transient model
 
 **A minimal realized bounded-transient extension around the GR-exact branch in flux-fixed GR**
 
-This paper realizes that extension class explicitly. It studies two minimal benchmark profiles:
+Explicit realization of the bounded-transient extension class.
 
-- **BD-A** — a matter-tracking transient proving the bounded-transient class is non-empty  
-- **BD-B** — a normalized hump-shaped transient producing a localized late-time geometry excursion inside the survey window  
-
-The note shows that the bounded-transient class is not merely a formal envelope: it admits explicit realized profiles with calculable ruler-free late-time geometry signatures. At the same time, it keeps the proper claim boundary: it does **not** claim evidence for departures in current data, does **not** modify the branch-scoped CCP closure claim, and does **not** replace the published GR-exact default or the growth-only optional response sector. :contentReference[oaicite:14]{index=14}
-
-**Version DOI (v2.0.0):**  
+**Version DOI (v2.0.0)**  
 https://zenodo.org/records/18927184
-
-**Concept DOI:**  
-https://zenodo.org/records/18833996
 
 ---
 
-## Practical late-time / early-universe interfaces
+# Practical late-time / early-universe interfaces
 
-### Practical late-time cosmology
+## Practical late-time cosmology
 
 **Practical Late-Time Cosmology with a Flux-Fixed Cosmological Constant**
 
-Late-time bridge between the GR-exact baseline, observational interfaces, and small modified-growth phenomenology. Listed in the programme map as one of the main observational interface notes. :contentReference[oaicite:15]{index=15}
+Bridge between the GR-exact baseline, observational interfaces, and small modified-growth phenomenology.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/17749448
 
 ---
 
-### Early-universe interface
+## Early-universe interface
 
 **Early-Universe Cosmology in a Gauged Constant Vacuum-Mode Framework**
 
-Early-universe bookkeeping and cosmology interface for the broader GCV stack. Included here for completeness of the programme map. :contentReference[oaicite:16]{index=16}
+Early-universe bookkeeping and cosmology interface for the broader GCV stack.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/17692514
 
 ---
 
-## UV / existence-proof layer
+# UV / existence-proof layer
 
-### Semi-explicit UV existence proof
+## Semi-explicit UV existence proof
 
-**A Semi-Explicit UV Existence Proof and Parameter Mapping for the Gauged Constant Vacuum-Mode (GCV) Framework**
+**A Semi-Explicit UV Existence Proof and Parameter Mapping for the GCV Framework**
 
-Semi-explicit UV benchmark package tying a controlled compactification benchmark to the low-energy response sector and late-time prediction card. It provides an auditable UV anchor for the GR-exact framework and the optional growth-response layer. :contentReference[oaicite:17]{index=17}
+Provides a semi-explicit UV benchmark tying compactification physics to the low-energy response sector.
 
-**Concept DOI:**  
+**Concept DOI**  
 https://zenodo.org/records/18438489
 
 ---
 
-## Current programme picture in one sentence
+# Programme summary
 
-The GCV programme is a **GR-exact, radiatively stable framework** in which the cosmological constant is treated as a **flux-fixed integration constant**, with separate completed modules for:
+The GCV programme is a **GR-exact, radiatively stable framework** in which the cosmological constant is treated as a **flux-fixed integration constant**.
 
-- structural radiative stability of the strictly constant vacuum mode,
-- observed-value localization of residual `Λ_eff`,
-- positive-Λ realization via late-time viability,
+The research stack currently includes modules for:
 
-plus optional late-time extension layers for **growth-only response** and **bounded transient departures** around the GR-exact baseline. 
+- radiative stability of the constant vacuum mode  
+- observed-value localization of residual `Λ_eff`  
+- positive-Λ realization  
+- optional growth-only perturbation responses  
+- bounded transient geometry departures
 
 ---
 
-## Project links
+# Project links
 
 **Homepage**  
 https://johansson.digital
 
-**Zenodo community / record trail**  
-Use the DOI links above for the versioned archive.
+**GitHub repository**  
+https://github.com/gcv-framework/gcv-vacuum-energy
+
+**Zenodo archive**  
+See the DOIs listed above for versioned publications.
 
 **OSF mirrors / registrations**  
-Used as archival redundancy and immutable timestamped mirrors of selected releases.
-
----
+Used as archival redundancy and immutable timestamped snapshots of selected releases.
 
 ---
 
 # How to cite
 
-Please cite the **Zenodo concept DOI** of the relevant record (preferred).
+Please cite the **Zenodo concept DOI** of the relevant record.
 
 For exact reproducibility of a specific release, cite the corresponding **version DOI**.
