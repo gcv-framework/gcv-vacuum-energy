@@ -22,10 +22,20 @@ This synthesis paper summarizes the full GCV programme and its three CCP pillars
 
 Within the GR-exact branch, these modules jointly support a **programme-level CCP closure claim**, up to a narrow UV-selected discretuum rather than a unique continuous endpoint.
 
-**Concept DOI (canonical record)**  
+### Project page (recommended entry point)
+
+https://johansson.digital/cosmological-constant-problem-gcv
+
+### Direct PDF
+
+https://johansson.digital/onewebmedia/cosmological_constant_problem_gcv_johansson_2026.pdf
+
+### Concept DOI (canonical archive)
+
 https://zenodo.org/records/18850394
 
-**Version DOI (v1.0.0 preprint)**  
+### Version DOI (v1.0.0 preprint)
+
 https://zenodo.org/records/18850395
 
 ---
@@ -256,6 +266,9 @@ The research stack currently includes modules for:
 
 **Homepage**  
 https://johansson.digital
+
+**Flagship paper page**  
+https://johansson.digital/cosmological-constant-problem-gcv
 
 **GitHub repository**  
 https://github.com/gcv-framework/gcv-vacuum-energy
