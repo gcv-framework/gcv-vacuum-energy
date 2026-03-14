@@ -40,34 +40,30 @@ https://zenodo.org/records/18850395
 
 ---
 
-# New comparison / positioning note
+# Comparison / positioning note
 
 ## Sequestering Vacuum Energy with a Gauged Constant Vacuum Mode
 
-**Structural Comparison with Kaloper–Padilla-Type Sequester Models**
+Structural Comparison with Kaloper–Padilla-Type Sequester Models
 
-This positioning note revisits the relationship between the GCV framework and Kaloper–Padilla-type vacuum-energy sequester models. It clarifies where the frameworks belong to the same broader **constant-mode-control** family and where their structural emphases differ.
+This paper revisits the relationship between the **GCV framework** and **Kaloper–Padilla–type vacuum-energy sequester models**.
 
-The paper argues that GCV and Kaloper–Padilla-type sequester are closest neighbours in spirit, while differing in several respects:
+The goal is positioning rather than polemic: to clarify where the frameworks belong to the same broader **constant-mode control family** and where their structural emphases differ.
+
+The comparison highlights differences including:
 
 - the explicit **global/local split** in the GR-exact Einstein equation  
 - the interpretation of the residual constant as a **flux-fixed curvature label**  
 - an **operator-audit formulation of radiative stability**  
-- a broader modular programme including **observed-value localization** and **positive-Λ realization**
+- the broader modular programme including **observed-value localization** and **positive-Λ realization**
 
-A broader comparison matrix also positions GCV relative to standard GR / EFT, unimodular gravity, and Brown–Teitelboim / Bousso–Polchinski flux-discretuum models.
-
-### Zenodo record
+### Version DOI (v2.0.0)
 
 https://zenodo.org/records/19015178
 
-### Zenodo concept record (all versions)
+### Concept DOI (canonical archive)
 
 https://zenodo.org/records/17681816
-
-### OSF mirror
-
-_Add OSF project link here_
 
 ---
 
@@ -91,9 +87,6 @@ https://zenodo.org/records/17636209
 
 A compact entry note stating the GR-exact structural claim, the branch-scoped CCP positioning, and the minimal falsifier map.
 
-**Version DOI (v1.2.0)**  
-https://zenodo.org/records/18656287
-
 ---
 
 ## Logic spine / proof map
@@ -101,9 +94,6 @@ https://zenodo.org/records/18656287
 **Logical Closure of the Cosmological Constant Problem in Flux-Fixed GR (GCV)**
 
 A companion logic paper explaining how the modular CCP closure claim follows from the completed modules. It provides a dependency map, claim boundary, and falsifier logic.
-
-**Version DOI (v1.2.0)**  
-https://zenodo.org/records/18666397
 
 ---
 
@@ -220,7 +210,7 @@ In practical terms:
 The paper introduces a growth-tilt diagnostic and Fisher-style detectability estimate using the public DESI growth block.
 
 **Version DOI (v1.0.0)**  
-https://zenodo.org/records/18933387
+https://doi.org/10.5281/zenodo.18933387
 
 ---
 
@@ -295,8 +285,7 @@ The research stack currently includes modules for:
 - observed-value localization of residual `Λ_eff`  
 - positive-Λ realization  
 - optional growth-only perturbation responses  
-- bounded transient geometry departures  
-- structural comparison with neighbouring constant-mode-control frameworks
+- bounded transient geometry departures
 
 ---
 
@@ -312,7 +301,7 @@ https://johansson.digital/cosmological-constant-problem-gcv
 https://github.com/gcv-framework/gcv-vacuum-energy
 
 **Zenodo archive**  
-See the record links above for versioned publications.
+See the DOIs listed above for versioned publications.
 
 **OSF mirrors / registrations**  
 Used as archival redundancy and immutable timestamped snapshots of selected releases.
@@ -322,5 +311,3 @@ Used as archival redundancy and immutable timestamped snapshots of selected rele
 # How to cite
 
 Please cite the **Zenodo concept DOI** of the relevant record.
-
-For exact reproducibility of a specific release, cite the corresponding **version DOI** / Zenodo **record**.
