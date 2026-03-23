@@ -105,6 +105,9 @@ Interpretation layer for the observed small positive residual:
 
 `Λ_eff` is treated as a **flux-fixed integration constant (curvature label)** rather than a propagating dark-energy component.
 
+**Version DOI (v3.3.0)**  
+https://zenodo.org/records/19185470
+
 **Concept DOI**  
 https://zenodo.org/records/17707787
 
