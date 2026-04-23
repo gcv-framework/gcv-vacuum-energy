@@ -48,6 +48,48 @@ Public OSF companion archive and registration are used as archival redundancy an
 
 ---
 
+# New benchmark-local baryogenesis paper
+
+## Visible matter-branch baryogenesis from a thin-shell selection mechanism in radiatively stable flux-fixed GR (GCV)
+
+This paper adds a **benchmark-local visible baryogenesis mechanism** inside the retained GCV admissibility stack.
+
+The setup starts from:
+
+- the **GCV Einstein/source split**
+- the associated **governance / foundation admissibility layers**
+- the retained **UV benchmark realization**
+- the official **A2+M1** benchmark route at the canonical **E5** reduced benchmark
+
+The central mechanism claim is that a lawful **thin-shell selector** can:
+
+- transmit the constructive visible matter branch
+- strongly suppress the visible antimatter partner
+- preserve an observed-scale visible baryon asymmetry at the benchmark level
+
+The scope is deliberately disciplined:
+
+- this is a **benchmark-local mechanism paper**
+- it is **not** a theorem over arbitrary UV completions
+- it is **not** a full dark-sector theory
+- it is **not** a replacement for the bridge law or the GR-exact structural core
+
+In programme terms, this paper sits **downstream of the bridge-law landing** and studies one explicit visible-channel matter / antimatter branch-selection mechanism inside the retained admissibility stack.
+
+### Version DOI: v1.0.0
+
+https://doi.org/10.5281/zenodo.19708255
+
+### Concept DOI
+
+https://doi.org/10.5281/zenodo.19708254
+
+### OSF companion archive / registration
+
+A public OSF backup / registration is used as archival redundancy and timestamped preservation for this release.
+
+---
+
 # Programme synthesis: broad CCP entry point
 
 ## The Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology (GCV)
@@ -236,6 +278,30 @@ https://zenodo.org/records/18871623
 
 ---
 
+# Matter / antimatter asymmetry module
+
+## Benchmark-local visible baryogenesis mechanism
+
+**Visible matter-branch baryogenesis from a thin-shell selection mechanism in radiatively stable flux-fixed GR (GCV)**
+
+This module studies a retained visible-sector matter / antimatter branch-selection mechanism inside the GCV admissibility stack.
+
+It is framed as:
+
+- a **benchmark-local visible baryogenesis mechanism**
+- a **thin-shell / branch-selection** result
+- a **downstream realization layer** rather than a new bridge-law landing
+
+### Version DOI: v1.0.0
+
+https://doi.org/10.5281/zenodo.19708255
+
+### Concept DOI
+
+https://doi.org/10.5281/zenodo.19708254
+
+---
+
 # Observational interfaces
 
 ## RulerFree late-time interface
@@ -360,6 +426,7 @@ The research stack currently includes modules for:
 - radiative stability of the exact constant vacuum mode
 - observed-value localization of residual `Λ_eff`
 - positive-Λ realization
+- benchmark-local visible baryogenesis / matter-antimatter branch selection
 - optional growth-only perturbation responses
 - bounded transient geometry departures
 
@@ -368,6 +435,8 @@ The bridge-law result sharpens the overall architecture:
 - **single lawful bridge**
 - **unique GR-exact branch landing**
 - **multiple downstream realization layers**
+
+The new baryogenesis paper fits this architecture as a **downstream visible-sector realization layer** built on the retained GCV admissibility stack rather than as a second bridge outcome.
 
 ---
 
