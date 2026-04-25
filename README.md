@@ -8,7 +8,85 @@ The central structural idea is that the cosmological constant can be interpreted
 
 ---
 
-# New bridge-law result: current theorem-level entry point
+# New matter-shell / growth-viability diagnostic
+
+## Matter-Shell Throughput from Lambda-Support Overlap
+
+**A source-normalized bridge and growth-viability diagnostic**
+
+This paper adds a downstream **matter-shell throughput and growth-viability diagnostic** to the GCV stack.
+
+The central purpose is to connect the overlap-support coordinate used in the Lambda-selection branch to:
+
+- admitted shell support
+- visible matter throughput
+- a matter / partner throughput ratio
+- a first linear-growth viability diagnostic
+
+The key interpretation is disciplined:
+
+- `Λ` is the selected **geometric constant-vacuum curvature** on the GR-exact branch
+- `Λ` is **not** treated as an evolving dark-energy field
+- the Lambda/shell relation is a **shared overlap-support coordinate**, not a direct dynamical force of Lambda on the shell
+- the shell support is a downstream interface of the selected geometry, not a second independent dark-energy fluid
+
+The mechanism chain is:
+
+    Lambda-support overlap
+    → source-normalized shell support
+    → visible matter throughput
+    → linear growth viability
+
+At the benchmark shell selector value:
+
+    q* = 0.8
+
+the matter / partner throughput ratio is:
+
+    T+ / T− = 9
+
+and the normalized positive-throughput share is:
+
+    p+ = 0.9
+
+The growth diagnostic then inserts the selector-induced matter loading and a selected Lambda multiplier `L_Λ` into a flat GR matter-plus-Lambda growth calculation. The benchmark has normalized growth retention:
+
+    G_D = 1
+
+The diagnostic result is a finite galaxy-viability bandwidth:
+
+- for the medium selector range `q ∈ [0.5, 0.9]`, pass-level growth persists around `L_Λ ≲ 2`
+- at the benchmark `q = 0.8`, the approximate thresholds are:
+
+    L_Λ(G_D = 0.8) ≃ 3.08  
+    L_Λ(G_D = 0.5) ≃ 17.87
+
+This is a **diagnostic growth statement**, not a nonlinear galaxy-formation theorem. The paper does not claim a full halo-population simulation, an arbitrary UV theorem, or a new dark-energy component.
+
+In programme terms, this paper sits downstream of:
+
+- the Governance Bridge Law
+- the Lambda value-selection / overlap-support programme
+- the Positive-Λ sign module
+- the benchmark-local thin-shell baryogenesis mechanism
+
+It adds the first compact diagnostic chain linking **Lambda-support overlap**, **matter-shell throughput**, and **growth viability**.
+
+### Version DOI: v1.0.0
+
+https://doi.org/10.5281/zenodo.19768396
+
+### Concept DOI
+
+https://doi.org/10.5281/zenodo.19768395
+
+### OSF companion archive / registration
+
+A public OSF backup / registration is used as archival redundancy and timestamped preservation for this release.
+
+---
+
+# Current theorem-level entry point
 
 ## The Governance Bridge Law for Radiatively Stable Flux-Fixed General Relativity
 
@@ -48,7 +126,7 @@ Public OSF companion archive and registration are used as archival redundancy an
 
 ---
 
-# New benchmark-local baryogenesis paper
+# Benchmark-local baryogenesis paper
 
 ## Visible matter-branch baryogenesis from a thin-shell selection mechanism in radiatively stable flux-fixed GR (GCV)
 
@@ -278,7 +356,7 @@ https://zenodo.org/records/18871623
 
 ---
 
-# Matter / antimatter asymmetry module
+# Matter / antimatter asymmetry and matter-shell modules
 
 ## Benchmark-local visible baryogenesis mechanism
 
@@ -299,6 +377,40 @@ https://doi.org/10.5281/zenodo.19708255
 ### Concept DOI
 
 https://doi.org/10.5281/zenodo.19708254
+
+---
+
+## Matter-shell throughput and growth viability
+
+**Matter-Shell Throughput from Lambda-Support Overlap: A Source-Normalized Bridge and Growth-Viability Diagnostic**
+
+This module links the Lambda-support overlap coordinate to source-normalized shell support, visible matter throughput, and a first GR matter-plus-Lambda growth diagnostic.
+
+It is framed as:
+
+- a **source-normalized bridge** from overlap support to admitted shell-tail size
+- a **matter-throughput diagnostic** via the selector relation `T+ / T− = (1 + q)/(1 − q)`
+- a **growth-viability diagnostic** using a selected Lambda multiplier `L_Λ`
+- a **downstream galaxy-viability bandwidth calculation**, not a full nonlinear galaxy-formation theorem
+
+At the benchmark `q* = 0.8`, the diagnostic gives:
+
+    T+ / T− = 9
+    p+ = 0.9
+    G_D = 1 at L_Λ = 1
+
+The medium selector range `q ∈ [0.5, 0.9]` remains pass-level growth viable around `L_Λ ≲ 2`, and at `q = 0.8` the approximate thresholds are:
+
+    L_Λ(G_D = 0.8) ≃ 3.08
+    L_Λ(G_D = 0.5) ≃ 17.87
+
+### Version DOI: v1.0.0
+
+https://doi.org/10.5281/zenodo.19768396
+
+### Concept DOI
+
+https://doi.org/10.5281/zenodo.19768395
 
 ---
 
@@ -427,6 +539,7 @@ The research stack currently includes modules for:
 - observed-value localization of residual `Λ_eff`
 - positive-Λ realization
 - benchmark-local visible baryogenesis / matter-antimatter branch selection
+- matter-shell throughput and growth-viability diagnostics
 - optional growth-only perturbation responses
 - bounded transient geometry departures
 
@@ -436,7 +549,9 @@ The bridge-law result sharpens the overall architecture:
 - **unique GR-exact branch landing**
 - **multiple downstream realization layers**
 
-The new baryogenesis paper fits this architecture as a **downstream visible-sector realization layer** built on the retained GCV admissibility stack rather than as a second bridge outcome.
+The baryogenesis paper fits this architecture as a **downstream visible-sector realization layer** built on the retained GCV admissibility stack rather than as a second bridge outcome.
+
+The matter-shell throughput paper adds the next downstream diagnostic layer: it links the Lambda-support overlap coordinate to admitted shell support, visible matter throughput, and a first linear-growth viability bandwidth. It should be read as a **source-normalized diagnostic chain**, not as a nonlinear galaxy-formation theorem or a new dark-energy model.
 
 ---
 
@@ -466,6 +581,18 @@ Used as archival redundancy and immutable timestamped snapshots of selected rele
 
 Please cite the **Zenodo concept DOI** of the relevant record.
 
+For the newest matter-shell throughput / growth-viability diagnostic, use the concept DOI:
+
+**10.5281/zenodo.19768395**
+
 For the bridge-law result, use the concept DOI:
 
 **10.5281/zenodo.19676380**
+
+For the benchmark-local baryogenesis paper, use the concept DOI:
+
+**10.5281/zenodo.19708254**
+
+For the broad CCP synthesis, use the concept DOI:
+
+**10.5281/zenodo.18850394**
