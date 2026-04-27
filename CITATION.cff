@@ -7,6 +7,3 @@ authors:
 url: "https://github.com/gcv-framework/gcv-vacuum-energy"
 date-released: "2026-04-27"
 abstract: "Navigation, citation, and provenance index for the Gauged Constant Vacuum-Mode (GCV) framework."
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.18850395"
