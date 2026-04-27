@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or discuss the GCV route map, please cite the relevant DOI records listed in CITATION.md."
+title: "GCV Framework Route Map and Source-Assignment Index"
+authors:
+  - family-names: Johansson
+    given-names: Germund
+url: "https://github.com/gcv-framework/gcv-vacuum-energy"
+date-released: "2026-04-27"
+abstract: "Navigation, citation, and provenance index for the Gauged Constant Vacuum-Mode (GCV) framework."
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18850395"
