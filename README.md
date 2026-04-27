@@ -6,11 +6,12 @@ GCV is a flux-fixed GR framework in which the strictly spacetime-constant vacuum
 
 ## Core local equation
 
-```text
-G_{μν} + Λ_eff g_{μν} = 8πG T^loc_{μν}
-```
+$$
+G_{\mu\nu}+\Lambda_{\rm eff}g_{\mu\nu}
+=8\pi G\,T^{(\mathrm{loc})}_{\mu\nu}.
+$$
 
-Here `T^loc` contains local excitations but excludes strictly spacetime-constant vacuum contributions. `Λ_eff` is the flux-fixed integration constant.
+Here $T^{(\mathrm{loc})}_{\mu\nu}$ contains local excitations but excludes strictly spacetime-constant vacuum contributions. $\Lambda_{\rm eff}$ is the flux-fixed integration constant.
 
 ## What the governance bridge does
 
@@ -28,12 +29,14 @@ The governance bridge assigns sources before solving:
 | 1 | What is the source-assignment law? | Governance Bridge Law | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
 | 2 | What is the GR-exact branch? | Radiative-stability backbone | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371) |
 | 3 | What is the programme-level route? | Flagship CCP synthesis | [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395) |
-| 4 | What is residual Λ_eff? | Squashing-remnant / discretuum | [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
+| 4 | What is residual $\Lambda_{\rm eff}$? | Squashing-remnant / discretuum | [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
 | 5 | Can the bridge be UV anchored? | CFI §6.2 UV benchmark | [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947) |
-| 6 | Why near observed Λ? | Numerical selection / closeout / UV budget | [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993) |
-| 7 | Why positive Λ? | Positive-Λ module | [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624) |
+| 6 | Why near observed $\Lambda$? | Numerical selection / closeout / UV budget | [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993) |
+| 7 | Why positive $\Lambda$? | Positive-$\Lambda$ module | [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624) |
 | 8 | Why visible matter? | Thin-shell visible-branch baryogenesis | [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255) |
-| 9 | What remains observable? | Geometry Λ-like; growth/lensing tilt | [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387) |
+| 9 | What remains observable? | Geometry $\Lambda$-like; growth/lensing tilt | [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387) |
+
+This table is only the front door. See the full [route map](ROUTE_MAP.md), [claim and priority map](CLAIMS_MAP.md), and [non-claims/scope page](NON_CLAIMS.md) for claim boundaries, provenance, and module dependencies.
 
 ## Start here
 
