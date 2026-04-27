@@ -22,6 +22,15 @@ After the January 2026 tombstone event, later GCV modules were archived with a s
 
 OSF backup projects provide public redundancy and file access. OSF registrations provide frozen timestamped snapshots of the v1 module state.
 
+## 2026-04 route-map pointer updates
+
+On **2026-04-27**, the author updated the wiki/overview text of several public OSF backup projects to add a pointer to the GitHub GCV route map and release:
+
+- GCV route-map repository: [https://github.com/gcv-framework/gcv-vacuum-energy](https://github.com/gcv-framework/gcv-vacuum-energy)
+- First public GitHub route-map release: [https://github.com/gcv-framework/gcv-vacuum-energy/releases/tag/gcv-route-map-v1.0.0](https://github.com/gcv-framework/gcv-vacuum-energy/releases/tag/gcv-route-map-v1.0.0)
+
+These edits update the live OSF project/wiki pages for navigation. They do **not** replace the original Zenodo DOI records or the frozen OSF v1 registrations. The registrations remain the timestamped provenance snapshots for the corresponding module releases.
+
 ## Later-module OSF provenance table
 
 | ID | Module | OSF backup/date | OSF registration/date |
