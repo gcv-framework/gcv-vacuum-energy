@@ -8,7 +8,7 @@ Use the most specific DOI for the claim being cited.
 | Governance bridge / source-assignment theorem | The Governance Bridge Law for Radiatively Stable Flux-Fixed General Relativity: A UV-to-IR Source-Assignment Theorem with Unique GR-Exact Branch Landing — [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
 | GR-exact backbone / radiative stability | Radiatively stable vacuum energy from a gauged constant vacuum mode: Local Einstein equations with a flux-fixed Λ_eff — [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371) |
 | Residual Λ_eff / squashing-remnant interpretation | Residual Λeff in a Gauged Constant Vacuum-Mode (GCV) Framework: A "Squashing-Remnant" Interpretation — [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
-| UV benchmark / CFI §6.2 crossing | A Semi‑Explicit UV Existence Proof for the Gauged Constant Vacuum‑Mode (GCV) Framework — [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947) |
+| UV benchmark / CFI §6.2 crossing | A Semi-Explicit UV Existence Proof for the Gauged Constant Vacuum-Mode (GCV) Framework — [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947) |
 | Numerical selection / operational conditioning | GCV: Numerical selection of Lambda_eff (Λ_eff) on the GR-exact branch — [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993) |
 | Three-bottleneck closeout | From order-unity to near-unity: a three-bottleneck closeout for Λ selection in flux-fixed GR — [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607) |
 | UV budget / derived-Λ mechanism | A UV-anchored budget-partition mechanism for derived-Λ within flux-fixed GR — [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689) |
@@ -22,4 +22,4 @@ Use the most specific DOI for the claim being cited.
 
 ## Suggested source-assignment citation sentence
 
-> The source-assignment convention follows the GCV governance bridge: strictly spacetime-constant vacuum contributions are assigned to a global/flux-controlled sector, while local excitations remain in the local stress-energy tensor.
+> The source-assignment convention follows the GCV Governance Bridge Law: strictly spacetime-constant vacuum contributions are assigned to a global/flux-controlled sector, while local excitations remain in the local stress-energy tensor.
