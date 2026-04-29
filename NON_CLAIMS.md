@@ -1,15 +1,28 @@
-# Non-claims and Scope Boundaries
+# Non-Claims and Scope Boundaries
 
-GCV, as indexed here, does **not** claim:
+This file lists common overstatements to avoid.
 
-- a unique UV completion;
-- a complete classification of all flux compactifications;
-- a unique continuous first-principles endpoint for Λ;
-- that every UV construction has been tested;
-- that generic rolling dark-energy models are part of the minimal GR-exact branch;
-- that local dark-matter microphysics is replaced by the bridge;
-- that the shell / baryogenesis / matter-throughput modules remove the need for audit or falsification;
-- that optional bounded transients are the default late-time branch;
-- that journal submission status is evidence of correctness.
+## GCV does not claim
 
-The repository role is navigation, provenance, citation, and route mapping. Scientific claims remain in the linked DOI records.
+- that the Governance Route / Gate Architecture note is a new proof of all downstream modules;
+- that the Governance Route / Gate Architecture note replaces the Governance Bridge Law;
+- that the Governance Route / Gate Architecture note replaces the CCP synthesis;
+- that GCV currently provides a unique UV completion;
+- that GCV currently provides a unique continuous first-principles value of Λ;
+- that the Positive-Λ result is a UV theorem forcing Λ > 0;
+- that matter-shell throughput is a full nonlinear galaxy-population theorem;
+- that the visible-matter selector is universal over all UV completions;
+- that bounded transients are the default late-time branch;
+- that current data detect the GCV growth-response sector;
+- that GitHub is the authoritative archive for scientific priority.
+
+## Correct framing
+
+- The Governance Bridge Law is the upstream source-assignment theorem / UV-facing admissibility law.
+- The Governance Route / Gate Architecture note is the route and claim-boundary ledger connecting source-assignment admissibility to downstream branch-viability gates.
+- The GR-exact backbone is the radiative-stability/source-assignment backbone.
+- The CCP synthesis is the programme-level synthesis of the CCP route.
+- The value-selection records localize viable residual support near the observed scale in a narrow UV-selected discretuum.
+- The Positive-Λ module is a late-time viability / sign-selection result.
+- The matter-shell and visible-matter modules are scoped downstream modules with explicit limitations.
+- GitHub is a navigation and citation hub; Zenodo/OSF records are the archival priority layer.
