@@ -110,11 +110,11 @@ It does claim a narrower organizational result: inside the GCV paper stack, the 
 
 ## OSF provenance
 
-- **OSF backup project:** TODO
-- **OSF v1 registration:** TODO
-- **OSF backup date:** TODO
-- **OSF registration date:** TODO
-- **Shared mirror / provenance coverage:** Zenodo record is live; OSF mirror/registration pending.
+- **OSF backup project:** [https://osf.io/vd24w/overview](https://osf.io/vd24w/overview)
+- **OSF v1 registration:** [https://osf.io/x6jgu/overview](https://osf.io/x6jgu/overview)
+- **OSF backup date:** 2026-04-29
+- **OSF registration date:** 2026-04-29
+- **Shared mirror / provenance coverage:** Zenodo record is live; OSF mirror and OSF registration are live.
 
 ## Notes
 
@@ -122,4 +122,4 @@ It does claim a narrower organizational result: inside the GCV paper stack, the 
 - **Journal/submission status:** Not primarily a journal-target manuscript; public route / architecture / claim-boundary record.
 - **Title changed:** Yes, from internal gate-architecture wording to public Governance Route / Gate Architecture wording.
 - **Title-change notes:** The public title emphasizes that this is the canonical route/gate architecture record connecting the Governance Bridge law to downstream matter-bearing and growth-viability gates.
-- **Action note:** Add OSF backup project URL and OSF registration URL after OSF mirror/registration is complete.
+- **Action note:** OSF backup and registration completed on 2026-04-29.
