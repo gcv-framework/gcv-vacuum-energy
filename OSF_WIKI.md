@@ -21,8 +21,8 @@ Governance Bridge Law:
 Governance Route / Gate Architecture:
 - Concept DOI: https://doi.org/10.5281/zenodo.19874410
 - Version DOI v1.0.0: https://doi.org/10.5281/zenodo.19874411
-- OSF backup: TODO
-- OSF registration: TODO
+- OSF backup: https://osf.io/vd24w/overview
+- OSF registration: https://osf.io/x6jgu/overview
 
 Flagship CCP synthesis:
 - Concept DOI: https://doi.org/10.5281/zenodo.18850394
