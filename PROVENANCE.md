@@ -1,66 +1,144 @@
-# Provenance and Backup Mirrors
+# Provenance Map
 
-## January 2026 tombstone / mirror sequence
+This file records the public provenance trail for the GCV framework records. The authoritative scientific objects are the DOI records. GitHub is a navigation layer.
 
-After a Zenodo tombstone event on **2026-01-04**, the author created a public OSF PDF mirror on **2026-01-05** for the GCV files available locally at that time:
+## Core provenance principle
 
-- OSF PDF mirror: [https://osf.io/3d2e9/overview](https://osf.io/3d2e9/overview)
+- **Zenodo version DOI** = fixed citation / exact version priority anchor.
+- **Zenodo concept DOI** = evolving module-family link.
+- **OSF project** = independent mirror / backup layer.
+- **OSF registration** = immutable preservation / timestamp layer.
+- **GitHub** = route map, citation hub, and human-readable index.
 
-After Zenodo account reinstatement and restored access to tombstoned Zenodo records, the author created a second OSF evidence mirror on **2026-01-17**:
+## Governance Bridge Law
 
-- OSF archived-Zenodo evidence mirror: [https://osf.io/pk6jf/overview](https://osf.io/pk6jf/overview)
+- Concept DOI: [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380)
+- Version DOI v1.0.0: [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)
+- Public release date: 2026-04-21
+- OSF backup: [https://osf.io/e3qy8/overview](https://osf.io/e3qy8/overview)
+- OSF registration: [https://osf.io/fv94u/overview](https://osf.io/fv94u/overview)
+- Role: upstream source-assignment theorem / UV-facing admissibility law.
 
-The Jan 5 mirror serves as an emergency public-access backup for locally available PDFs and checksum/index files. The Jan 17 mirror preserves restored Zenodo version-history evidence for the main radiative-stability paper sequence and the residual-Λ_eff sequence.
+## Governance Route / Gate Architecture
 
-## Later-module backup policy
+- Concept DOI: [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410)
+- Version DOI v1.0.0: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
+- Public release date: 2026-04-29
+- OSF backup: TODO
+- OSF registration: TODO
+- Role: canonical route/gate architecture record connecting Governance Bridge admissibility to downstream matter-bearing, growth-viable branch filtration.
 
-After the January 2026 tombstone event, later GCV modules were archived with a same-day redundancy policy where available:
+## Flagship CCP synthesis
 
-1. canonical Zenodo DOI record;
-2. same-day OSF backup project;
-3. same-day OSF v1 registration of the module package.
+- Concept DOI: [10.5281/zenodo.18850394](https://doi.org/10.5281/zenodo.18850394)
+- Version DOI v1.0.0: [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395)
+- Public release date: 2026-03-06
+- OSF backup: [https://osf.io/jyh7s/overview](https://osf.io/jyh7s/overview)
+- OSF registration: [https://osf.io/j5pyw/overview](https://osf.io/j5pyw/overview)
+- Role: canonical programme-level CCP synthesis gateway.
 
-OSF backup projects provide public redundancy and file access. OSF registrations provide frozen timestamped snapshots of the v1 module state.
+## GR-exact backbone / radiative-stability backbone
 
-## 2026-04 route-map pointer updates
+- Concept DOI: [10.5281/zenodo.17636209](https://doi.org/10.5281/zenodo.17636209)
+- Current canonical DOI: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
+- Current date: 2026-01-04
+- OSF backup: —
+- OSF registration: —
+- Role: GR-exact local equation and radiative-stability backbone.
 
-On **2026-04-27**, the author updated the wiki/overview text of several public OSF backup projects to add a pointer to the GitHub GCV route map and release:
+## Structural interface and logical closure
 
-- GCV route-map repository: [https://github.com/gcv-framework/gcv-vacuum-energy](https://github.com/gcv-framework/gcv-vacuum-energy)
-- First public GitHub route-map release: [https://github.com/gcv-framework/gcv-vacuum-energy/releases/tag/gcv-route-map-v1.0.0](https://github.com/gcv-framework/gcv-vacuum-energy/releases/tag/gcv-route-map-v1.0.0)
+### One-page structural interface
 
-These edits update the live OSF project/wiki pages for navigation. They do **not** replace the original Zenodo DOI records or the frozen OSF v1 registrations. The registrations remain the timestamped provenance snapshots for the corresponding module releases.
+- Concept DOI: [10.5281/zenodo.18656287](https://doi.org/10.5281/zenodo.18656287)
+- Current DOI: [10.5281/zenodo.18899058](https://doi.org/10.5281/zenodo.18899058)
+- Current date: 2026-03-07
+- OSF backup: [https://osf.io/hybvc/overview](https://osf.io/hybvc/overview)
+- OSF registration: no registration as no new science
+- Role: short structural entry note.
 
-## Later-module OSF provenance table
+### Eight-page structural note / logical closure note
 
-| ID | Module | OSF backup/date | OSF registration/date |
-|---:|---|---|---|
-| 01 | Governance Bridge Law | [backup](https://osf.io/e3qy8/overview)<br>2026-04-21 | [registration](https://osf.io/fv94u/overview)<br>2026-04-21 |
-| 03 | One-page structural interface | [backup](https://osf.io/hybvc/overview)<br>2026-02-19 | No registration; treated as structural interface / no new science |
-| 04 | Eight-page structural note / logical closure note | [backup](https://osf.io/6qknj/overview)<br>2026-02-19 | No registration; treated as structural interface / no new science |
-| 05 | Flagship CCP synthesis | [backup](https://osf.io/jyh7s/overview)<br>2026-03-06 | [registration](https://osf.io/j5pyw/overview)<br>2026-03-06 |
-| 07 | Numerical Lambda selection / selection posterior | [backup](https://osf.io/az8cg/overview)<br>2026-02-12 | [registration](https://osf.io/mnjh8/overview)<br>2026-02-12 |
-| 08 | Operational measurement conditioning | Covered under Numerical Lambda selection concept DOI 10.5281/zenodo.18604646 | Covered under Numerical Lambda selection concept DOI 10.5281/zenodo.18604646 |
-| 09 | Three-bottleneck closeout | [backup](https://osf.io/rctxa/overview)<br>2026-03-02 | [registration](https://osf.io/4pjtm/overview)<br>2026-03-02 |
-| 10 | UV budget-partition / derived-Lambda mechanism | [backup](https://osf.io/kjgqe/overview)<br>2026-03-05 | [registration](https://osf.io/n8hks/overview)<br>2026-03-02 |
-| 11 | Positive-Lambda module | [backup](https://osf.io/d5v2a/overview)<br>2026-03-05 | [registration](https://osf.io/exd9c/overview)<br>2026-03-05 |
-| 13 | UV existence proof / CFI 6.2 benchmark crossing | [backup](https://osf.io/gqsy8/overview)<br>2026-03-03 | [registration](https://osf.io/7ht2q/overview)<br>2026-03-03 |
-| 15 | DESI response sector / epsilon constraint | [backup](https://osf.io/2k58y/overview)<br>2026-02-07 | [registration](https://osf.io/bwksy/overview)<br>2026-02-07 |
-| 16 | Growth-sector observational target | [backup](https://osf.io/3q6jg/overview)<br>2026-03-12 | [registration](https://osf.io/mb5ec/overview)<br>2026-03-12 |
-| 17 | Bounded-departure admissible class | [backup](https://osf.io/y2hjw/overview)<br>2026-03-08 | [registration](https://osf.io/pc3t6/overview)<br>2026-03-08 |
-| 18 | Realized bounded-transient extension | [backup](https://osf.io/y2hjw/overview)<br>2026-03-10 | [registration](https://osf.io/u7t8c/overview)<br>2026-03-10 |
-| 19 | Baryogenesis / visible matter branch | [backup](https://osf.io/9uda4/overview)<br>2026-04-23 | [registration](https://osf.io/zdm54/overview)<br>2026-04-23 |
-| 20 | Matter-shell throughput / growth viability diagnostic | [backup](https://osf.io/upx4m/overview)<br>2026-04-25 | [registration](https://osf.io/yeuw4/overview)<br>2026-04-25 |
-| 21 | Gate architecture paper/package | Not created yet, if ever | Not created yet, if ever |
-| 22 | Yukawa / SIDM benchmark | [backup](https://osf.io/54fq7/overview)<br>2026-04-12 | Backup only; no v1 registration because this was treated as non-core / journal-facing at release |
-| 23 | Public-data late-time consistency audit | [backup](https://osf.io/stzf8/overview)<br>2026-04-13 | Backup only; no v1 registration because this was treated as non-core / journal-facing at release |
+- Concept DOI: [10.5281/zenodo.18666397](https://doi.org/10.5281/zenodo.18666397)
+- Current DOI: [10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693)
+- Current date: 2026-03-07
+- OSF backup: [https://osf.io/6qknj/overview](https://osf.io/6qknj/overview)
+- OSF registration: no registration as no new science
+- Role: compact proof spine / modular closure map.
 
-## Provenance columns
+## Lambda/value/sign records
 
-The route-map tables distinguish:
+### Residual Λ_eff / squashing-remnant interpretation
 
-- **Concept DOI / module-family DOI:** stable DOI for all versions of a module family.
-- **First public version DOI:** exact version DOI for the first public release.
-- **Current canonical version DOI:** exact version DOI currently recommended for readers.
-- **OSF backup project URL:** public mirror / redundancy layer.
-- **OSF v1 registration URL:** frozen priority/provenance snapshot.
+- Concept DOI: [10.5281/zenodo.17707787](https://doi.org/10.5281/zenodo.17707787)
+- Current DOI: [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470)
+- Current date: 2026-03-23
+- Role: residual Λ_eff / flux-fixed remnant interpretation.
+
+### Numerical Lambda selection / operational conditioning
+
+- Concept DOI: [10.5281/zenodo.18604646](https://doi.org/10.5281/zenodo.18604646)
+- Current DOI: [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993)
+- Current date: 2026-02-25
+- OSF backup: [https://osf.io/az8cg/overview](https://osf.io/az8cg/overview)
+- OSF registration: [https://osf.io/mnjh8/overview](https://osf.io/mnjh8/overview)
+
+### Three-bottleneck closeout
+
+- Concept DOI: [10.5281/zenodo.18776606](https://doi.org/10.5281/zenodo.18776606)
+- Version DOI v1.0.0: [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607)
+- Public release date: 2026-03-02
+- OSF backup: [https://osf.io/rctxa/overview](https://osf.io/rctxa/overview)
+- OSF registration: [https://osf.io/4pjtm/overview](https://osf.io/4pjtm/overview)
+
+### UV budget-partition / derived-Lambda mechanism
+
+- Concept DOI: [10.5281/zenodo.18827508](https://doi.org/10.5281/zenodo.18827508)
+- Current DOI: [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689)
+- Current date: 2026-03-05
+- OSF backup: [https://osf.io/kjgqe/overview](https://osf.io/kjgqe/overview)
+- OSF registration: [https://osf.io/n8hks/overview](https://osf.io/n8hks/overview)
+
+### Positive-Lambda module
+
+- Concept DOI: [10.5281/zenodo.18871623](https://doi.org/10.5281/zenodo.18871623)
+- Version DOI v1.0.0: [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)
+- Public release date: 2026-03-05
+- OSF backup: [https://osf.io/d5v2a/overview](https://osf.io/d5v2a/overview)
+- OSF registration: [https://osf.io/exd9c/overview](https://osf.io/exd9c/overview)
+
+## UV / response / observational records
+
+### UV existence proof / CFI §6.2 benchmark crossing
+
+- Concept DOI: [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489)
+- Current DOI: [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947)
+- Current date: 2026-03-23
+- OSF backup: [https://osf.io/gqsy8/overview](https://osf.io/gqsy8/overview)
+- OSF registration: [https://osf.io/7ht2q/overview](https://osf.io/7ht2q/overview)
+
+### Growth-sector observational target
+
+- Concept DOI: [10.5281/zenodo.18933386](https://doi.org/10.5281/zenodo.18933386)
+- Version DOI v1.0.0: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+- Public release date: 2026-03-12
+- OSF backup: [https://osf.io/3q6jg/overview](https://osf.io/3q6jg/overview)
+- OSF registration: [https://osf.io/mb5ec/overview](https://osf.io/mb5ec/overview)
+
+## Matter / shell / gate records
+
+### Visible matter-branch baryogenesis
+
+- Concept DOI: [10.5281/zenodo.19708254](https://doi.org/10.5281/zenodo.19708254)
+- Version DOI v1.0.0: [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255)
+- Public release date: 2026-04-23
+- OSF backup: [https://osf.io/9uda4/overview](https://osf.io/9uda4/overview)
+- OSF registration: [https://osf.io/zdm54/overview](https://osf.io/zdm54/overview)
+
+### Matter-shell throughput / growth viability diagnostic
+
+- Concept DOI: [10.5281/zenodo.19768395](https://doi.org/10.5281/zenodo.19768395)
+- Version DOI v1.0.0: [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396)
+- Public release date: 2026-04-25
+- OSF backup: [https://osf.io/upx4m/overview](https://osf.io/upx4m/overview)
+- OSF registration: [https://osf.io/yeuw4/overview](https://osf.io/yeuw4/overview)
