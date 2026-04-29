@@ -11,10 +11,6 @@
 - Clarified that the Governance Route / Gate Architecture record is the route/gate ledger connecting the Governance Bridge Law to downstream matter-bearing, growth-viable branch filtration.
 - Preserved GitHub as a navigation, citation, and provenance hub only; authoritative scientific files remain on Zenodo and OSF mirrors/registrations.
 
-Planned release:
-
-- Publish GitHub release `gcv-route-map-v1.0.1`.
-
 ## v1.0.0 — 2026-04-27
 
 - First public GitHub route-map release for the GCV framework.
