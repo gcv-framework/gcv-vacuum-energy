@@ -1,38 +1,105 @@
-# GCV Claim Map
+# Claims Map
 
-This file maps the main scientific claims to the canonical and first-timestamped records. It is an index, not a replacement for the cited manuscripts.
+This file maps claims to their canonical DOI records. It is not a new scientific record.
 
-## Core source-assignment and branch claims
+## Governance Bridge / source-assignment claim
 
-- **Governance Bridge Law** — Source-assignment theorem / one lawful GR-exact landing. Current: [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381); first: [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381); release 2026-04-21.
-- **GR-exact backbone / radiative-stability backbone** — Flux-fixed local Einstein equation; constant-vacuum source assignment. Current: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371); first: [10.5281/zenodo.17636210](https://doi.org/10.5281/zenodo.17636210); release 2025-11-18.
-- **One-page structural interface** — Compact branch-scoped GCV entry note / 1-pager. Current: [10.5281/zenodo.18899058](https://doi.org/10.5281/zenodo.18899058); first: [10.5281/zenodo.18656288](https://doi.org/10.5281/zenodo.18656288); release 2026-02-17.
-- **Eight-page structural note / logical closure note** — Minimal structural claim / modular mapping / proof spine. Current: [10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693); first: [10.5281/zenodo.18666398](https://doi.org/10.5281/zenodo.18666398); release 2026-02-17.
-- **Flagship CCP synthesis** — Programme-level three-pillar / four-step route. Current: [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395); first: [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395); release 2026-03-06.
-- **UV existence proof / CFI 6.2 benchmark crossing** — Semi-explicit UV existence proof and parameter mapping. Current: [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947); first: [10.5281/zenodo.18438490](https://doi.org/10.5281/zenodo.18438490); release 2026-01-31.
+**Claim:** The strictly spacetime-constant vacuum mode is assigned to the global/flux sector and does not enter the local stress-energy tensor as a freely running local vacuum source. Local excitations remain local sources.
 
-## Value, sign, and residual-Lambda claims
+**Canonical record:** [Governance Bridge Law — 10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)
 
-- **Residual Lambda_eff / squashing-remnant interpretation** — Residual label/discretuum interpretation. Current: [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470); first: [10.5281/zenodo.17707788](https://doi.org/10.5281/zenodo.17707788); release 2025-11-25.
-- **Numerical Lambda selection / selection posterior** — Numerical selection of Lambda_eff on GR-exact branch. Current: [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993); first: [10.5281/zenodo.18604647](https://doi.org/10.5281/zenodo.18604647); release 2026-02-11.
-- **Three-bottleneck closeout** — From order-unity to near-unity closeout for Lambda selection. Current: [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607); first: [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607); release 2026-03-02.
-- **UV budget-partition / derived-Lambda mechanism** — UV overlap-share prior / derived-Lambda candidate. Current: [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689); first: [10.5281/zenodo.18827509](https://doi.org/10.5281/zenodo.18827509); release 2026-03-02.
-- **Positive-Lambda module** — Late-time sign selection. Current: [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624); first: [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624); release 2026-03-05.
-- **Earlier Late-Time Selection and Sign of Lambda_eff bridge note** — Initial sign/selection bridge on near-zero discretuum. Current: [10.5281/zenodo.17931117](https://doi.org/10.5281/zenodo.17931117); first: —; release 2025-12-05.
+**Boundary:** This is the upstream source-assignment theorem / admissibility law. It is not the same as the downstream route/gate architecture.
 
-## Observational and bounded-response claims
+## Governance-route / gate-architecture claim
 
-- **RulerFree AP+RSD compression** — Ruler-free late-time geometry/growth interface. Current: [10.5281/zenodo.18039099](https://doi.org/10.5281/zenodo.18039099); first: [10.5281/zenodo.17687755](https://doi.org/10.5281/zenodo.17687755); release 2025-11-23.
-- **DESI response sector / epsilon constraint** — Compressed growth-response constraint. Current: [10.5281/zenodo.18514836](https://doi.org/10.5281/zenodo.18514836); first: [10.5281/zenodo.18502990](https://doi.org/10.5281/zenodo.18502990); release 2026-02-06.
-- **Growth-sector observational target** — Geometry Lambda-like; growth/lensing tilt target. Current: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387); first: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387); release 2026-03-12.
-- **Bounded-departure admissible class** — Formal bounded-transient extension class / falsifier envelope. Current: [10.5281/zenodo.18833997](https://doi.org/10.5281/zenodo.18833997); first: [10.5281/zenodo.18833997](https://doi.org/10.5281/zenodo.18833997); release 2026-03-08.
-- **Realized bounded-transient extension** — Explicit realized BD-A / BD-B transient profiles and AP/falsifier signatures around the GR-exact branch. Current: [10.5281/zenodo.18927184](https://doi.org/10.5281/zenodo.18927184); first: [10.5281/zenodo.18927184](https://doi.org/10.5281/zenodo.18927184); release 2026-03-10.
+**Claim:** The GCV route from IR source-assignment backbone to UV-facing admissibility, GR-exact landing, and downstream branch-viability gates can be represented as a two-layer route ledger.
 
-## Matter / shell / downstream realization claims
+**Canonical record:** [Governance Route / Gate Architecture — 10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 
-- **Baryogenesis / visible matter branch** — Thin-shell visible matter-branch selection mechanism. Current: [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255); first: [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255); release 2026-04-23.
-- **Matter-shell throughput / growth viability diagnostic** — Matter-shell growth viability / source-normalized shell diagnostic. Current: [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396); first: [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396); release 2026-04-25.
+**Concept DOI:** [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410)
 
-## Non-claim reminder
+**Boundary:** This is a route and claim-boundary ledger. It does not re-prove the Governance Bridge Law, the CCP synthesis, the value-selection modules, the Positive-Lambda module, the visible-matter module, or the matter-shell diagnostic.
 
-This file does not assert a unique UV completion, a unique continuous value of Λ, or a full classification of all UV constructions. It indexes the records that state the branch-scoped GCV route.
+## GR-exact branch / radiative-stability claim
+
+**Claim:** On the GR-exact branch, local gravity has Einstein form with a flux-fixed integration constant Λ_eff, while the strictly spacetime-constant vacuum mode is excluded from the local source.
+
+**Canonical record:** [Radiative-stability backbone — 10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
+
+**Boundary:** Conditional EFT/operator-level claim. It depends on the stated operator inventory and red-line exclusions.
+
+## Programme-level CCP synthesis claim
+
+**Claim:** Within the GR-exact branch and module assumptions, GCV addresses the three classical CCP pillars: radiative stability, observed-value localization of residual Λ_eff, and positive-Λ realization.
+
+**Canonical record:** [Flagship CCP synthesis — 10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395)
+
+**Boundary:** Programme-level synthesis. It does not claim a unique UV completion, a unique continuous first-principles endpoint for Λ, or a UV theorem fixing the sign.
+
+## Logical closure claim
+
+**Claim:** The modular CCP closure claim follows by composing completed modules: backbone/radiative stability, magnitude localization, and positive-Λ viability.
+
+**Canonical record:** [Logical closure note — 10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693)
+
+**Boundary:** Logic spine only. It introduces no new fits, priors, scans, or code.
+
+## Residual Λ_eff claim
+
+**Claim:** The observed late-time Λ_eff can be interpreted as a flux-fixed residual / squashing remnant of the global neutralization of strictly constant vacuum contributions.
+
+**Canonical record:** [Residual Λ_eff — 10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470)
+
+**Boundary:** Interpretation and toy discretuum support. It does not identify Λ_eff with the raw absolute offset of a particular UV scalar potential.
+
+## Observed-value localization claim
+
+**Claim:** The viable residual support for Λ_eff can be localized near the observed scale through operational conditioning, three-bottleneck closeout, and UV budget-partition / overlap-share mechanisms.
+
+**Canonical records:**
+
+- [Operational conditioning — 10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993)
+- [Three-bottleneck closeout — 10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607)
+- [UV budget-partition / derived-Lambda mechanism — 10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689)
+
+**Boundary:** Narrow UV-selected discretuum near the observed scale, not a unique continuous value.
+
+## Positive-Λ claim
+
+**Claim:** Once the magnitude window is fixed, late-time viability suppresses the negative branch and realizes positive Λ in a modular operational sense.
+
+**Canonical record:** [Positive-Λ module — 10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)
+
+**Boundary:** Late-time viability/sign-selection result, not a UV theorem forcing Λ > 0.
+
+## UV benchmark claim
+
+**Claim:** At least one semi-explicit UV benchmark provides an auditable UV→EFT mapping compatible with the GCV constant-mode split and response sector.
+
+**Canonical record:** [UV existence proof v1.1.0 — 10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947)
+
+**Boundary:** Benchmark-scoped existence proof and parameter mapping, not a full landscape classification or universality theorem.
+
+## Visible matter-branch / baryogenesis claim
+
+**Claim:** A benchmark-local thin-shell selector can favor a visible matter branch under the retained shell-baryogenesis assumptions.
+
+**Canonical record:** [Visible matter-branch baryogenesis — 10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255)
+
+**Boundary:** Benchmark-local closeout, not a universal theorem over arbitrary UV completions.
+
+## Matter-shell throughput / growth-viability claim
+
+**Claim:** The matter-shell throughput package provides a support-level Λ/shell map, source-normalized shell bridge, visible-matter selector import, and linear growth-viability diagnostic.
+
+**Canonical record:** [Matter-shell throughput / growth viability — 10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396)
+
+**Boundary:** Linear diagnostic and scoped support bridge, not a full nonlinear galaxy-population theorem.
+
+## Growth-sector observational target claim
+
+**Claim:** On the GR-exact branch, late-time geometry should remain Λ-like while any near-term nontrivial signal is most naturally sought as a small coherent perturbation-sector tilt in growth and possibly lensing.
+
+**Canonical record:** [Growth-sector observational target — 10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+
+**Boundary:** Survey-facing target and falsifier interface, not a detection claim or full joint likelihood.
