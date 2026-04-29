@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.0.1 — pending
+## v1.0.1 — 2026-04-29
 
 - Added the live Governance Route / Gate Architecture record to the route-map hub.
 - Added Zenodo Concept DOI: [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410).
