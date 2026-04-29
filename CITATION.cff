@@ -1,9 +1,50 @@
 cff-version: 1.2.0
-message: "If you use or discuss the GCV route map, please cite the relevant DOI records listed in CITATION.md."
-title: "GCV Framework Route Map and Source-Assignment Index"
+title: "GCV route map, claim map, citation guide, and provenance index"
+message: "If you use this repository, cite the specific DOI record relevant to the claim. This GitHub repository is a navigation and provenance hub."
+type: dataset
 authors:
   - family-names: Johansson
     given-names: Germund
+    affiliation: "Independent researcher, Switzerland"
+date-released: "2026-04-29"
+repository-code: "https://github.com/gcv-framework/gcv-vacuum-energy"
 url: "https://github.com/gcv-framework/gcv-vacuum-energy"
-date-released: "2026-04-27"
-abstract: "Navigation, citation, and provenance index for the Gauged Constant Vacuum-Mode (GCV) framework."
+abstract: "Navigation, route-map, citation, and provenance index for the Gauged Constant Vacuum-Mode (GCV) framework. The authoritative scientific records remain the versioned DOI records and associated Zenodo/OSF archives."
+keywords:
+  - GCV
+  - Gauged Constant Vacuum-Mode
+  - cosmological constant
+  - vacuum energy
+  - source assignment
+  - Governance Bridge
+  - flux-fixed GR
+  - GR-exact branch
+  - gate architecture
+  - branch viability
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18850395"
+    description: "Flagship CCP synthesis record"
+  - type: doi
+    value: "10.5281/zenodo.19874410"
+    description: "Governance Route / Gate Architecture concept DOI"
+references:
+  - type: article
+    title: "The Governance Bridge Law for Radiatively Stable Flux-Fixed General Relativity: A UV-to-IR Source-Assignment Theorem with Unique GR-Exact Branch Landing"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.19676381"
+  - type: article
+    title: "The Governance Route and Gate Architecture of Matter-Bearing Universes in GCV: An IR-Backbone-to-UV-Admissibility Translation, GR-Exact Landing Map, and Downstream Branch-Viability Control Ledger"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.19874411"
+  - type: article
+    title: "The Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology (GCV): Radiative Stability, Observed-Value Localization of Residual Lambda_eff, and Positive-Lambda Realization via a Four-Step Route"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.18850395"
+license: "CC-BY-4.0"
