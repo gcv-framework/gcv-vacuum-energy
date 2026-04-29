@@ -24,8 +24,8 @@ This file records the public provenance trail for the GCV framework records. The
 - Concept DOI: [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410)
 - Version DOI v1.0.0: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 - Public release date: 2026-04-29
-- OSF backup: TODO
-- OSF registration: TODO
+- OSF backup: [https://osf.io/vd24w/overview](https://osf.io/vd24w/overview)
+- OSF registration: [https://osf.io/x6jgu/overview](https://osf.io/x6jgu/overview)
 - Role: canonical route/gate architecture record connecting Governance Bridge admissibility to downstream matter-bearing, growth-viable branch filtration.
 
 ## Flagship CCP synthesis
