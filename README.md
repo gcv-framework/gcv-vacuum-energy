@@ -29,6 +29,8 @@ It assigns sources before solving:
 
 - Governance Route / Gate Architecture concept DOI: [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410)
 - Governance Route / Gate Architecture v1.0.0 version DOI: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
+- Governance Route / Gate Architecture OSF mirror: [https://osf.io/vd24w/overview](https://osf.io/vd24w/overview)
+- Governance Route / Gate Architecture OSF registration: [https://osf.io/x6jgu/overview](https://osf.io/x6jgu/overview)
 
 Use the concept DOI for navigation to the evolving route record. Use the version DOI when citing the exact v1.0.0 record.
 
@@ -73,14 +75,15 @@ This repository is not intended to duplicate the full PDF/source packages alread
 
 ## Current GitHub hub status
 
-The current live repository includes the Governance Route / Gate Architecture DOI update. The next planned GitHub release is:
+The current live repository includes the Governance Route / Gate Architecture DOI update and OSF provenance links. The next planned GitHub release is:
 
 ```text
 gcv-route-map-v1.0.1
 ```
 
-Planned before release:
+Release purpose:
 
-- add OSF backup project link for the Governance Route / Gate Architecture record;
-- add OSF registration link for the Governance Route / Gate Architecture record;
-- then publish the GitHub hub release `gcv-route-map-v1.0.1`.
+- add the live Governance Route / Gate Architecture concept and version DOI;
+- add OSF mirror and registration links;
+- update route/gate architecture entries, citation guidance, DOI index, provenance map, and dependency route;
+- preserve GitHub as a navigation, citation, and provenance hub.
