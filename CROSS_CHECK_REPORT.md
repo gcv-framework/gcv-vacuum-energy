@@ -1,6 +1,6 @@
 # Final Cross-check Report
 
-Source workbook: `gcv_doi_release_date_input_workbook_v4_roles_osf.xlsx`
+Source: May 2026 DOI metadata spreadsheet
 
 ## Summary
 
