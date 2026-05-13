@@ -76,7 +76,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Claim:** At least one semi-explicit UV benchmark provides an auditable UV→EFT mapping compatible with the GCV constant-mode split and response sector.
 
-**Canonical record:** [UV existence proof v1.1.0 — 10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947)
+**Canonical record:** [Full Governance-UV existence proof v1.2.0 — 10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850)
 
 **Boundary:** Benchmark-scoped existence proof and parameter mapping, not a full landscape classification or universality theorem.
 
@@ -100,6 +100,6 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Claim:** On the GR-exact branch, late-time geometry should remain Λ-like while any near-term nontrivial signal is most naturally sought as a small coherent perturbation-sector tilt in growth and possibly lensing.
 
-**Canonical record:** [Growth-sector observational target — 10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+**Canonical record:** [Growth Sector in GCV v2.0.0 — 10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
 
 **Boundary:** Survey-facing target and falsifier interface, not a detection claim or full joint likelihood.

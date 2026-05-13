@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.0.2 — 2026-05-12
+
+- Added May 2026 metadata for Full Governance-UV Existence Proof and Benchmark Parameter Mapping v1.2.0: version DOI [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850), concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489).
+- Added May 2026 metadata for Gravity in GCV v1.0.0: version DOI [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448), concept DOI [10.5281/zenodo.20118447](https://doi.org/10.5281/zenodo.20118447).
+- Added May 2026 metadata for Bounded Geometry Transients in GCV v3.0.0: version DOI [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080), concept DOI [10.5281/zenodo.18833996](https://doi.org/10.5281/zenodo.18833996).
+- Added May 2026 metadata for Growth Sector in GCV v2.0.0: version DOI [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073), concept DOI [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387).
+- Added May 2026 metadata for Lensing Sector in GCV v1.0.0: version DOI [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158), concept DOI [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157).
+- Patched May 2026 OSF Project and OSF Registration links from the authoritative DOI spreadsheet, using canonical short OSF URLs in repository metadata tables.
+- Preserved concept DOI and version DOI distinctions across DOI tables, route maps, provenance, citation, README/index, and paper-list metadata files.
+
 ## v1.0.1 — 2026-04-29
 
 - Added the live Governance Route / Gate Architecture record to the route-map hub.

@@ -40,20 +40,22 @@ Use the concept DOI for navigation to the evolving route record. Use the version
 |---:|---|---|---|
 | 1 | What is the source-assignment law? | Governance Bridge Law | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
 | 2 | How does bridge landing connect to downstream branch viability? | Governance Route / Gate Architecture | [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
-| 3 | What is the GR-exact branch? | Radiative-stability backbone | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371) |
+| 3 | What is the GR-exact branch? | Radiative-stability backbone; Gravity in GCV role map | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)<br>[10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
 | 4 | What is the programme-level CCP route? | Flagship CCP synthesis | [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395) |
 | 5 | What is residual Λ_eff? | Squashing-remnant / discretuum | [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
-| 6 | Can the bridge be UV anchored? | CFI §6.2 UV benchmark | [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947) |
+| 6 | Can the bridge be UV anchored? | Governance-UV existence proof / CFI §6.2 benchmark mapping | [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850) |
 | 7 | Why near observed Λ? | Numerical selection / closeout / UV budget | [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993) |
 | 8 | Why positive Λ? | Positive-Λ module | [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624) |
 | 9 | Why visible matter? | Thin-shell visible-branch baryogenesis | [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255) |
-| 10 | What remains observable? | Geometry Λ-like; growth/lensing tilt | [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387) |
+| 10 | What remains observable? | Growth, bounded transients, and lensing sector records | [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)<br>[10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)<br>[10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) |
 
 ## Start here
 
 - [Start here](docs/00_start_here.md)
 - [Route map](ROUTE_MAP.md)
 - [Governance Route / Gate Architecture](docs/12_gate_architecture.md)
+- [Gravity in GCV](docs/13_gravity_role_map.md)
+- [Lensing Sector in GCV](docs/14_lensing_sector.md)
 - [Claim and priority map](CLAIMS_MAP.md)
 - [Provenance and backup mirrors](PROVENANCE.md)
 - [Citation guide](CITATION.md)
@@ -75,15 +77,15 @@ This repository is not intended to duplicate the full PDF/source packages alread
 
 ## Current GitHub hub status
 
-The current live repository includes the Governance Route / Gate Architecture DOI update and OSF provenance links. The next planned GitHub release is:
+The current live repository includes the May 2026 DOI metadata updates and OSF provenance links where available. The next planned GitHub release is:
 
 ```text
-gcv-route-map-v1.0.1
+gcv-route-map-v1.0.2
 ```
 
 Release purpose:
 
-- add the live Governance Route / Gate Architecture concept and version DOI;
-- add OSF mirror and registration links;
-- update route/gate architecture entries, citation guidance, DOI index, provenance map, and dependency route;
+- add the May 2026 Governance-UV, gravity, bounded-transients, growth, and lensing DOI metadata;
+- preserve concept DOI and version DOI distinctions;
+- update route-map entries, citation guidance, DOI index, provenance map, and dependency route;
 - preserve GitHub as a navigation, citation, and provenance hub.

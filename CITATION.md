@@ -16,12 +16,22 @@ Use the most specific DOI for the claim being cited. This repository is a hub/in
 | Near-unity closeout gate | Three-bottleneck closeout — [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607) |
 | UV-derived Λ / budget-partition mechanism | UV budget-partition mechanism — [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689) |
 | Positive Λ / sign-selection module | Positive-Λ module — [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624) |
-| Semi-explicit UV benchmark | UV existence proof v1.1.0 — [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947) |
+| Governance-UV benchmark mapping | Full Governance-UV existence proof v1.2.0 — [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850) |
 | Visible-matter / shell baryogenesis | Visible matter-branch baryogenesis — [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255) |
 | Matter-shell throughput and growth viability | Matter-shell throughput / growth diagnostic — [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396) |
-| Growth-sector observational target | Growth-sector target note — [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387) |
-| Bounded transient extension class | Bounded-departure admissible class — [10.5281/zenodo.18833997](https://doi.org/10.5281/zenodo.18833997) |
-| Realized bounded transient example | Realized bounded-transient extension — [10.5281/zenodo.18927184](https://doi.org/10.5281/zenodo.18927184) |
+| Gravity role map | Gravity in GCV v1.0.0 — [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
+| Growth-sector response / falsifier interface | Growth Sector in GCV v2.0.0 — [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073) |
+| Bounded-geometry transients | Bounded Geometry Transients in GCV v3.0.0 — [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080) |
+| Lensing-sector response dictionary | Lensing Sector in GCV v1.0.0 — [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) |
+
+
+## May 2026 record concept/version DOI distinction
+
+- Full Governance-UV Existence Proof and Benchmark Parameter Mapping for the GCV Framework v1.2.0: concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); version DOI [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850); release date 2026-05-10.
+- Gravity in GCV v1.0.0: concept DOI [10.5281/zenodo.20118447](https://doi.org/10.5281/zenodo.20118447); version DOI [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448); release date 2026-05-11.
+- Bounded Geometry Transients in GCV v3.0.0: concept DOI [10.5281/zenodo.18833996](https://doi.org/10.5281/zenodo.18833996); version DOI [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080); release date 2026-05-11.
+- Growth Sector in GCV v2.0.0: concept DOI [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387); version DOI [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073); release date 2026-05-12.
+- Lensing Sector in GCV v1.0.0: concept DOI [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157); version DOI [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158); release date 2026-05-12.
 
 ## Governance Route citation
 

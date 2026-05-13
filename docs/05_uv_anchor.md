@@ -1,15 +1,16 @@
-# UV existence proof / CFI 6.2 benchmark crossing
+# Full Governance-UV existence proof / CFI 6.2 benchmark mapping
 
 ## Role
 
-Semi-explicit UV existence proof and parameter mapping.
+Governance-UV existence-proof and benchmark-parameter mapping record.
 
 ## Canonical record
 
-- **Current title:** A Semi‑Explicit UV Existence Proof for the Gauged Constant Vacuum‑Mode (GCV) Framework
+- **Current title:** Full Governance-UV Existence Proof and Benchmark Parameter Mapping for the GCV Framework
 - **Concept DOI / module family:** [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489)
-- **Current canonical version DOI:** [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947)
-- **Current canonical release date:** 2026-03-23
+- **Current canonical version DOI:** [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850)
+- **Current canonical release date:** 2026-05-10
+- **Current version:** v1.2.0
 
 ## Priority / first public version
 
@@ -21,16 +22,16 @@ Semi-explicit UV existence proof and parameter mapping.
 
 ## OSF provenance
 
-- **OSF backup project:** [OSF backup](https://osf.io/gqsy8/overview)
-- **OSF v1 registration:** [OSF registration](https://osf.io/7ht2q/overview)
-- **OSF backup date:** 2026-03-03
-- **OSF registration date:** 2026-03-03
+- **OSF backup project:** [OSF backup](https://osf.io/bnf9x/)
+- **OSF v1 registration:** [OSF registration](https://osf.io/b5jc3/)
+- **OSF backup date:** 2026-05-10
+- **OSF registration date:** 2026-05-10
 - **Shared mirror / provenance coverage:** —
 
 ## Notes
 
 - **Priority tier:** Critical
 - **Journal/submission status:** not submitted
-- **Title changed:** No
-- **Title-change notes:** —
-- **Other notes:** —
+- **Title changed:** Yes
+- **Title-change notes:** May 2026 metadata update from the earlier semi-explicit UV existence-proof title to the current v1.2.0 Governance-UV title.
+- **Other notes:** Preserve the concept DOI separately from the current version DOI.

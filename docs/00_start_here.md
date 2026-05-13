@@ -16,10 +16,14 @@ Use this repository as a route-map and citation/provenance index, not as a repla
 - Governance Route / Gate Architecture: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 - GR-exact radiative-stability backbone: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
 - Flagship CCP synthesis: [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395)
-- UV benchmark crossing: [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947)
+- Governance-UV benchmark mapping: [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850)
 - Positive-Λ module: [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)
 - Baryogenesis / visible matter branch: [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255)
 - Matter-shell throughput / growth viability diagnostic: [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396)
+- Gravity in GCV role map: [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448)
+- Growth Sector in GCV: [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
+- Bounded Geometry Transients in GCV: [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)
+- Lensing Sector in GCV: [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158)
 
 ## Core ontology
 
