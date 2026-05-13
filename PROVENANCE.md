@@ -109,21 +109,47 @@ This file records the public provenance trail for the GCV framework records. The
 
 ## UV / response / observational records
 
-### UV existence proof / CFI §6.2 benchmark crossing
+### Full Governance-UV existence proof / CFI §6.2 benchmark mapping
 
 - Concept DOI: [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489)
-- Current DOI: [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947)
-- Current date: 2026-03-23
-- OSF backup: [https://osf.io/gqsy8/overview](https://osf.io/gqsy8/overview)
-- OSF registration: [https://osf.io/7ht2q/overview](https://osf.io/7ht2q/overview)
+- Current version DOI v1.2.0: [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850)
+- Current date: 2026-05-10
+- OSF backup: [https://osf.io/bnf9x/](https://osf.io/bnf9x/)
+- OSF registration: [https://osf.io/b5jc3/](https://osf.io/b5jc3/)
 
-### Growth-sector observational target
+### Gravity in GCV role map
 
-- Concept DOI: [10.5281/zenodo.18933386](https://doi.org/10.5281/zenodo.18933386)
-- Version DOI v1.0.0: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
-- Public release date: 2026-03-12
-- OSF backup: [https://osf.io/3q6jg/overview](https://osf.io/3q6jg/overview)
-- OSF registration: [https://osf.io/mb5ec/overview](https://osf.io/mb5ec/overview)
+- Concept DOI: [10.5281/zenodo.20118447](https://doi.org/10.5281/zenodo.20118447)
+- Version DOI v1.0.0: [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448)
+- Public release date: 2026-05-11
+- OSF backup: [https://osf.io/vq8gh/](https://osf.io/vq8gh/)
+- OSF registration: [https://osf.io/3a7xq/](https://osf.io/3a7xq/)
+
+### Growth Sector in GCV
+
+- Concept DOI: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+- Current version DOI v2.0.0: [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
+- Current date: 2026-05-12
+- First public version DOI v1.0.0: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+- OSF backup: [https://osf.io/bgms8/](https://osf.io/bgms8/)
+- OSF registration: [https://osf.io/em6cu/](https://osf.io/em6cu/)
+
+### Bounded Geometry Transients in GCV
+
+- Concept DOI: [10.5281/zenodo.18833996](https://doi.org/10.5281/zenodo.18833996)
+- Current version DOI v3.0.0: [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)
+- Current date: 2026-05-11
+- First public version DOI: [10.5281/zenodo.18833997](https://doi.org/10.5281/zenodo.18833997)
+- OSF backup: [https://osf.io/kbvu2/](https://osf.io/kbvu2/)
+- OSF registration: [https://osf.io/p9qrs/](https://osf.io/p9qrs/)
+
+### Lensing Sector in GCV
+
+- Concept DOI: [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157)
+- Version DOI v1.0.0: [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158)
+- Public release date: 2026-05-12
+- OSF backup: [https://osf.io/ste46/](https://osf.io/ste46/)
+- OSF registration: [https://osf.io/m8vrb/](https://osf.io/m8vrb/)
 
 ## Matter / shell / gate records
 

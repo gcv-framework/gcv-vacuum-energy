@@ -6,7 +6,7 @@ authors:
   - family-names: Johansson
     given-names: Germund
     affiliation: "Independent researcher, Switzerland"
-date-released: "2026-04-29"
+date-released: "2026-05-12"
 repository-code: "https://github.com/gcv-framework/gcv-vacuum-energy"
 url: "https://github.com/gcv-framework/gcv-vacuum-energy"
 abstract: "Navigation, route-map, citation, and provenance index for the Gauged Constant Vacuum-Mode (GCV) framework. The authoritative scientific records remain the versioned DOI records and associated Zenodo/OSF archives."
@@ -47,4 +47,34 @@ references:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.18850395"
+  - type: article
+    title: "Full Governance-UV Existence Proof and Benchmark Parameter Mapping for the GCV Framework"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.20103850"
+  - type: article
+    title: "Gravity in GCV: Four-Layer Role Map, Einstein-Hilbert Coupling, and the Denominator Target"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.20118448"
+  - type: article
+    title: "Bounded Geometry Transients in GCV: Source-Clock d-Band Alignment, Rank Diagnostic, and Inverse-Solved Closure Targets"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.20126080"
+  - type: article
+    title: "Growth Sector in GCV: Rank-Clock Response, Retained Visible-Source Activation, and Falsifier Interface"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.20128073"
+  - type: article
+    title: "Lensing Sector in GCV: Governed-Slip Response Dictionary, Retained Visible-Source Activation, and Falsifier Interface"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.19213158"
 license: "CC-BY-4.0"

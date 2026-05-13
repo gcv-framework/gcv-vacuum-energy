@@ -101,16 +101,42 @@ This file records priority anchors for GCV claims and route objects. The DOI rec
 
 ## UV and observation priority
 
-### UV existence proof / CFI §6.2 benchmark crossing
+### Full Governance-UV existence proof / CFI §6.2 benchmark mapping
 
 - Priority tier: Critical
 - Concept DOI: [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489)
-- Current canonical DOI: [10.5281/zenodo.19104947](https://doi.org/10.5281/zenodo.19104947)
-- Purpose: timestamps a semi-explicit UV benchmark existence proof and parameter map.
+- Current canonical version DOI v1.2.0: [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850)
+- Current date: 2026-05-10
+- Purpose: indexes the Governance-UV existence-proof benchmark mapping record.
 
-### Growth-sector observational target
+### Gravity in GCV role map
+
+- Priority tier: High
+- Concept DOI: [10.5281/zenodo.20118447](https://doi.org/10.5281/zenodo.20118447)
+- Version DOI v1.0.0: [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448)
+- Current date: 2026-05-11
+- Purpose: indexes the gravity role-map metadata record.
+
+### Growth Sector in GCV
 
 - Priority tier: Medium
-- Concept DOI: [10.5281/zenodo.18933386](https://doi.org/10.5281/zenodo.18933386)
-- Version DOI: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
-- Purpose: timestamps the survey-facing geometry/growth/lensing target.
+- Concept DOI: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+- Current canonical version DOI v2.0.0: [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
+- Current date: 2026-05-12
+- Purpose: timestamps the growth-sector response and falsifier-interface record.
+
+### Bounded Geometry Transients in GCV
+
+- Priority tier: Medium
+- Concept DOI: [10.5281/zenodo.18833996](https://doi.org/10.5281/zenodo.18833996)
+- Current canonical version DOI v3.0.0: [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)
+- Current date: 2026-05-11
+- Purpose: indexes the bounded-geometry-transients metadata record.
+
+### Lensing Sector in GCV
+
+- Priority tier: Medium
+- Concept DOI: [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157)
+- Version DOI v1.0.0: [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158)
+- Current date: 2026-05-12
+- Purpose: indexes the lensing-sector response-dictionary metadata record.
