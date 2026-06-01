@@ -20,18 +20,20 @@ Use the most specific DOI for the claim being cited. This repository is a hub/in
 | Visible-matter / shell baryogenesis | Visible matter-branch baryogenesis — [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255) |
 | Matter-shell throughput and growth viability | Matter-shell throughput / growth diagnostic — [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396) |
 | Gravity role map | Gravity in GCV v1.0.0 — [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
+| Fixed-sector black-hole/no-hair compatibility | No constant-mode hair in fixed-sector black-hole exteriors v1.0.0 — [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764) |
 | Growth-sector response / falsifier interface | Growth Sector in GCV v2.0.0 — [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073) |
 | Bounded-geometry transients | Bounded Geometry Transients in GCV v3.0.0 — [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080) |
 | Lensing-sector response dictionary | Lensing Sector in GCV v1.0.0 — [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) |
 
 
-## May 2026 record concept/version DOI distinction
+## May–June 2026 record concept/version DOI distinction
 
 - Full Governance-UV Existence Proof and Benchmark Parameter Mapping for the GCV Framework v1.2.0: concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); version DOI [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850); release date 2026-05-10.
 - Gravity in GCV v1.0.0: concept DOI [10.5281/zenodo.20118447](https://doi.org/10.5281/zenodo.20118447); version DOI [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448); release date 2026-05-11.
 - Bounded Geometry Transients in GCV v3.0.0: concept DOI [10.5281/zenodo.18833996](https://doi.org/10.5281/zenodo.18833996); version DOI [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080); release date 2026-05-11.
 - Growth Sector in GCV v2.0.0: concept DOI [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387); version DOI [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073); release date 2026-05-12.
 - Lensing Sector in GCV v1.0.0: concept DOI [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157); version DOI [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158); release date 2026-05-12.
+- No constant-mode hair in fixed-sector black-hole exteriors v1.0.0: concept DOI [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763); version DOI [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764); release date 2026-06-01; OSF project [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview); OSF registration [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview).
 
 ## Governance Route citation
 
@@ -49,6 +51,30 @@ Concept DOI for the evolving Governance Route record:
 
 ```text
 https://doi.org/10.5281/zenodo.19874410
+```
+
+## Black-hole / no-hair compatibility citation
+
+Use the no-hair DOI when citing the fixed-sector black-hole compatibility claim: in one connected, membrane-free fixed flux sector on the GR-exact GCV branch, the governed exact spacetime-constant vacuum mode cannot become smooth radial exterior hair.
+
+Do not cite this record as a solution to black-hole information loss, evaporation, singularity resolution, or full quantum-horizon microphysics.
+
+Formal citation:
+
+```text
+Johansson, G. (2026). No constant-mode hair in fixed-sector black-hole exteriors of flux-fixed general relativity (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20473764
+```
+
+Concept DOI for the evolving no-hair record family:
+
+```text
+https://doi.org/10.5281/zenodo.20473763
+```
+
+Homepage landing page:
+
+```text
+https://johansson.digital/additional-papers/gcv-black-hole-no-hair
 ```
 
 ## Repository citation
