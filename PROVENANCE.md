@@ -125,6 +125,17 @@ This file records the public provenance trail for the GCV framework records. The
 - OSF backup: [https://osf.io/vq8gh/](https://osf.io/vq8gh/)
 - OSF registration: [https://osf.io/3a7xq/](https://osf.io/3a7xq/)
 
+### Fixed-sector black-hole no-hair compatibility
+
+- Concept DOI: [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763)
+- Version DOI v1.0.0: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
+- Public release date: 2026-06-01
+- Homepage landing page: [https://johansson.digital/additional-papers/gcv-black-hole-no-hair](https://johansson.digital/additional-papers/gcv-black-hole-no-hair)
+- OSF backup: [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview)
+- OSF registration: [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview)
+- Role: branch-scoped strong-field compatibility record; fixed-sector black-hole exteriors inherit the GR-exact Einstein-Λ_eff exterior, and the governed exact constant vacuum mode cannot become smooth radial exterior hair in a connected membrane-free flux sector.
+- Boundary: not a new black-hole metric proposal, not an evaporation analysis, not an information-loss solution, not singularity resolution, and not full quantum-horizon microphysics except insofar as such effects would force source-assignment leakage.
+
 ### Growth Sector in GCV
 
 - Concept DOI: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
