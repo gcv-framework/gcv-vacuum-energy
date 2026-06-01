@@ -14,6 +14,9 @@ This file lists common overstatements to avoid.
 - that the visible-matter selector is universal over all UV completions;
 - that bounded transients are the default late-time branch;
 - that current data detect the GCV growth-response sector;
+- that the fixed-sector black-hole/no-hair record is a new black-hole metric proposal;
+- that the fixed-sector black-hole/no-hair record solves black-hole evaporation, information loss, singularity resolution, or full quantum-horizon microphysics;
+- that the fixed-sector black-hole/no-hair record removes ordinary black-hole mass, spin, charge, local exterior stress, Hawking flux, or membrane-mediated sector jumps;
 - that GitHub is the authoritative archive for scientific priority.
 
 ## Correct framing
@@ -25,4 +28,5 @@ This file lists common overstatements to avoid.
 - The value-selection records localize viable residual support near the observed scale in a narrow UV-selected discretuum.
 - The Positive-Λ module is a late-time viability / sign-selection result.
 - The matter-shell and visible-matter modules are scoped downstream modules with explicit limitations.
+- The fixed-sector black-hole/no-hair record is a strong-field compatibility side audit: in one connected membrane-free fixed flux sector, the governed exact constant vacuum mode cannot become smooth radial exterior hair, while classical exterior geometry is inherited from the GR-exact Einstein-Λ_eff landing.
 - GitHub is a navigation and citation hub; Zenodo/OSF records are the archival priority layer.
