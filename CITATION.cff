@@ -6,7 +6,7 @@ authors:
   - family-names: Johansson
     given-names: Germund
     affiliation: "Independent researcher, Switzerland"
-date-released: "2026-05-12"
+date-released: "2026-06-01"
 repository-code: "https://github.com/gcv-framework/gcv-vacuum-energy"
 url: "https://github.com/gcv-framework/gcv-vacuum-energy"
 abstract: "Navigation, route-map, citation, and provenance index for the Gauged Constant Vacuum-Mode (GCV) framework. The authoritative scientific records remain the versioned DOI records and associated Zenodo/OSF archives."
@@ -21,6 +21,8 @@ keywords:
   - GR-exact branch
   - gate architecture
   - branch viability
+  - black-hole no-hair
+  - fixed-sector black-hole exterior
 identifiers:
   - type: doi
     value: "10.5281/zenodo.18850395"
@@ -28,6 +30,9 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.19874410"
     description: "Governance Route / Gate Architecture concept DOI"
+  - type: doi
+    value: "10.5281/zenodo.20473764"
+    description: "No constant-mode hair fixed-sector black-hole compatibility record"
 references:
   - type: article
     title: "The Governance Bridge Law for Radiatively Stable Flux-Fixed General Relativity: A UV-to-IR Source-Assignment Theorem with Unique GR-Exact Branch Landing"
@@ -59,6 +64,12 @@ references:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.20118448"
+  - type: article
+    title: "No constant-mode hair in fixed-sector black-hole exteriors of flux-fixed general relativity"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.20473764"
   - type: article
     title: "Bounded Geometry Transients in GCV: Source-Clock d-Band Alignment, Rank Diagnostic, and Inverse-Solved Closure Targets"
     authors:
