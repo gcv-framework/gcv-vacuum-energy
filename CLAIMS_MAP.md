@@ -80,6 +80,16 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Boundary:** Benchmark-scoped existence proof and parameter mapping, not a full landscape classification or universality theorem.
 
+## Fixed-sector black-hole/no-hair compatibility claim
+
+**Claim:** In a connected, membrane-free fixed-sector black-hole exterior on the GR-exact GCV branch, the governed exact spacetime-constant vacuum mode cannot become smooth radial exterior hair. Classical fixed-sector exterior geometry is inherited from the Einstein-Λ_eff local equation.
+
+**Canonical record:** [No constant-mode hair in fixed-sector black-hole exteriors — 10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
+
+**Concept DOI:** [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763)
+
+**Boundary:** Strong-field side/deep compatibility record only. It is not a new black-hole metric proposal, not a semiclassical evaporation analysis, not an information-loss solution, not singularity resolution, and not full quantum-horizon microphysics unless such effects force source-assignment leakage.
+
 ## Visible matter-branch / baryogenesis claim
 
 **Claim:** A benchmark-local thin-shell selector can favor a visible matter branch under the retained shell-baryogenesis assumptions.
