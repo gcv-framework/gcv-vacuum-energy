@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.0.3 — 2026-06-01
+
+- Added June 2026 metadata for No constant-mode hair in fixed-sector black-hole exteriors of flux-fixed general relativity v1.0.0: version DOI [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764), concept DOI [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763).
+- Added OSF project backup [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview) and OSF registration [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview) for the no-hair record.
+- Added no-hair / strong-field compatibility routing to README, ROUTE_MAP, CLAIMS_MAP, PROVENANCE, CITATION, CITATION.cff, DOI index, non-claims, and search/indexing notes.
+- Clarified the claim boundary: the no-hair record is a fixed-sector strong-field compatibility audit, not a new black-hole metric, evaporation analysis, information-loss solution, singularity-resolution claim, or full quantum-horizon microphysics record.
+
 ## v1.0.2 — 2026-05-12
 
 - Added May 2026 metadata for Full Governance-UV Existence Proof and Benchmark Parameter Mapping v1.2.0: version DOI [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850), concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489).
