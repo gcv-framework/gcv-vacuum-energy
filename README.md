@@ -31,8 +31,12 @@ It assigns sources before solving:
 - Governance Route / Gate Architecture v1.0.0 version DOI: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 - Governance Route / Gate Architecture OSF mirror: [https://osf.io/vd24w/overview](https://osf.io/vd24w/overview)
 - Governance Route / Gate Architecture OSF registration: [https://osf.io/x6jgu/overview](https://osf.io/x6jgu/overview)
+- Fixed-sector black-hole/no-hair concept DOI: [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763)
+- Fixed-sector black-hole/no-hair v1.0.0 version DOI: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
+- Fixed-sector black-hole/no-hair OSF backup: [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview)
+- Fixed-sector black-hole/no-hair OSF registration: [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview)
 
-Use the concept DOI for navigation to the evolving route record. Use the version DOI when citing the exact v1.0.0 record.
+Use the concept DOI for navigation to the evolving record family. Use the version DOI when citing the exact release.
 
 ## The route in one table
 
@@ -41,6 +45,7 @@ Use the concept DOI for navigation to the evolving route record. Use the version
 | 1 | What is the source-assignment law? | Governance Bridge Law | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
 | 2 | How does bridge landing connect to downstream branch viability? | Governance Route / Gate Architecture | [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
 | 3 | What is the GR-exact branch? | Radiative-stability backbone; Gravity in GCV role map | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)<br>[10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
+| Side audit | Does the exact constant mode become black-hole exterior hair? | Fixed-sector black-hole/no-hair compatibility | [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764) |
 | 4 | What is the programme-level CCP route? | Flagship CCP synthesis | [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395) |
 | 5 | What is residual Λ_eff? | Squashing-remnant / discretuum | [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
 | 6 | Can the bridge be UV anchored? | Governance-UV existence proof / CFI §6.2 benchmark mapping | [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850) |
@@ -61,6 +66,7 @@ Use the concept DOI for navigation to the evolving route record. Use the version
 - [Citation guide](CITATION.md)
 - [Non-claims and scope](NON_CLAIMS.md)
 - [Search/indexing notes](SEARCH_INDEXING.md)
+- No-hair landing page: [https://johansson.digital/additional-papers/gcv-black-hole-no-hair](https://johansson.digital/additional-papers/gcv-black-hole-no-hair)
 
 ## Public links
 
@@ -68,6 +74,8 @@ Use the concept DOI for navigation to the evolving route record. Use the version
 - GitHub repo: [gcv-framework/gcv-vacuum-energy](https://github.com/gcv-framework/gcv-vacuum-energy)
 - OSF PDF mirror, 2026-01-05: [OSF PDF mirror](https://osf.io/3d2e9/overview)
 - OSF archived-Zenodo evidence mirror, 2026-01-17: [OSF evidence mirror](https://osf.io/pk6jf/overview)
+- No-hair OSF backup: [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview)
+- No-hair OSF registration: [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview)
 
 ## Repository role
 
@@ -77,7 +85,7 @@ This repository is not intended to duplicate the full PDF/source packages alread
 
 ## Current GitHub hub status
 
-The current live repository includes the May 2026 DOI metadata updates and OSF provenance links where available. The next planned GitHub release is:
+The current live repository includes the May–June 2026 DOI metadata updates and OSF provenance links where available. The next planned GitHub release is:
 
 ```text
 gcv-route-map-v1.0.2
@@ -86,6 +94,7 @@ gcv-route-map-v1.0.2
 Release purpose:
 
 - add the May 2026 Governance-UV, gravity, bounded-transients, growth, and lensing DOI metadata;
+- add the June 2026 fixed-sector black-hole/no-hair compatibility record;
 - preserve concept DOI and version DOI distinctions;
 - update route-map entries, citation guidance, DOI index, provenance map, and dependency route;
 - preserve GitHub as a navigation, citation, and provenance hub.
