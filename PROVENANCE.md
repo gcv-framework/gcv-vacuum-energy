@@ -136,6 +136,20 @@ This file records the public provenance trail for the GCV framework records. The
 - Role: branch-scoped strong-field compatibility record; fixed-sector black-hole exteriors inherit the GR-exact Einstein-Λ_eff exterior, and the governed exact constant vacuum mode cannot become smooth radial exterior hair in a connected membrane-free flux sector.
 - Boundary: not a new black-hole metric proposal, not an evaporation analysis, not an information-loss solution, not singularity resolution, and not full quantum-horizon microphysics except insofar as such effects would force source-assignment leakage.
 
+### Fixed-sector black-hole local support / regular-core obstruction
+
+- Concept DOI: [10.5281/zenodo.20636355](https://doi.org/10.5281/zenodo.20636355)
+- Version DOI v1.0.0: [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)
+- Public release date: 2026-06-11
+- Homepage landing page: pending homepage update
+- OSF backup: [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview)
+- OSF registration: [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview)
+- File integrity MD5: `a0b719c09d965e72aea08764e66afee0`
+- File integrity SHA256: `2ad267b544393e73bd76f976c14b879dc22943d4d8b60dd607d88c2b9f5db63a`
+- Related exterior theorem: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
+- Role: standalone fixed-sector black-hole support-baseline record; imports the exterior no-hair theorem and extends the analysis to source-resolved Misner-Sharp mass, local-support tensor reconstruction, regular-core obstruction, fixed-sector/inter-sector thermodynamic separation, membrane/junction handoff, and black-hole no-leak tests.
+- Boundary: not a new black-hole metric proposal, not a singularity-resolution theorem, not evaporation, not information loss, not a rotating Kerr-interior calculation, and not an observational black-hole measurement. It fixes what the exact spacetime-constant vacuum mode cannot become inside one lawful fixed sector.
+
 ### Growth Sector in GCV
 
 - Concept DOI: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
