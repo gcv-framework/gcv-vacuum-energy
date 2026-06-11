@@ -21,10 +21,10 @@ Use the most specific DOI for the claim being cited. This repository is a hub/in
 | Matter-shell throughput and growth viability | Matter-shell throughput / growth diagnostic — [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396) |
 | Gravity role map | Gravity in GCV v1.0.0 — [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
 | Fixed-sector black-hole/no-hair compatibility | No constant-mode hair in fixed-sector black-hole exteriors v1.0.0 — [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764) |
+| Fixed-sector black-hole local support / regular-core obstruction | Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes v1.0.0 — [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356) |
 | Growth-sector response / falsifier interface | Growth Sector in GCV v2.0.0 — [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073) |
 | Bounded-geometry transients | Bounded Geometry Transients in GCV v3.0.0 — [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080) |
 | Lensing-sector response dictionary | Lensing Sector in GCV v1.0.0 — [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) |
-
 
 ## May–June 2026 record concept/version DOI distinction
 
@@ -34,6 +34,7 @@ Use the most specific DOI for the claim being cited. This repository is a hub/in
 - Growth Sector in GCV v2.0.0: concept DOI [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387); version DOI [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073); release date 2026-05-12.
 - Lensing Sector in GCV v1.0.0: concept DOI [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157); version DOI [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158); release date 2026-05-12.
 - No constant-mode hair in fixed-sector black-hole exteriors v1.0.0: concept DOI [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763); version DOI [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764); release date 2026-06-01; OSF project [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview); OSF registration [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview).
+- Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes v1.0.0: concept DOI [10.5281/zenodo.20636355](https://doi.org/10.5281/zenodo.20636355); version DOI [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356); release date 2026-06-11; OSF project [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview); OSF registration [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview).
 
 ## Governance Route citation
 
@@ -75,6 +76,31 @@ Homepage landing page:
 
 ```text
 https://johansson.digital/additional-papers/gcv-black-hole-no-hair
+```
+
+## Black-hole / local-support baseline citation
+
+Use the local-support baseline DOI when citing the fixed-sector black-hole interior support claim: fixed `Lambda_eff` can contribute cosmological curvature, but the exact spacetime-constant vacuum mode cannot become local black-hole substance, local pressure fluid, local hair, or local regular-core support. A de Sitter-like core whose curvature differs from the fixed flux-sector value requires explicit local support or a lawful sector, boundary, or strong-field mechanism.
+
+Do not cite this record as a new black-hole metric proposal, a singularity-resolution theorem, an evaporation or information-loss analysis, a rotating Kerr-interior calculation, or an observational black-hole measurement.
+
+Formal citation:
+
+```text
+Johansson, G. (2026). Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes: No constant-mode hair, source-resolved Misner-Sharp mass, and regular-core obstruction (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20636356
+```
+
+Concept DOI for the evolving black-hole local-support baseline record family:
+
+```text
+https://doi.org/10.5281/zenodo.20636355
+```
+
+OSF backup and registration:
+
+```text
+https://osf.io/y2eut/overview
+https://osf.io/gpsxd/overview
 ```
 
 ## Repository citation
