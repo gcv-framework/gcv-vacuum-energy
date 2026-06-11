@@ -4,6 +4,12 @@
 
 GCV is a flux-fixed GR framework in which the strictly spacetime-constant vacuum mode is assigned to a global/flux sector, while local excitations remain in the local stress-energy tensor.
 
+## Core GCV priority claim
+
+The core GCV priority claim is a source-assignment criterion for exact spacetime-constant vacuum shifts: under explicit no-leak conditions, the exact zero mode renormalizes the global flux/topological sector rather than an independently running local cosmological-constant coupling.
+
+Local matter, radiation, fields, curvature-dependent terms, shells, semiclassical stress, perturbations, and other local excitations remain in the local stress tensor and gravitate normally. The source-assignment claim concerns only the exact spacetime-constant vacuum zero mode.
+
 ## Core local equation
 
 ```text
@@ -11,6 +17,21 @@ G_{μν} + Λ_eff g_{μν} = 8πG T^loc_{μν}
 ```
 
 Here `T^loc` contains local excitations but excludes strictly spacetime-constant vacuum contributions. `Λ_eff` is the flux-fixed integration constant.
+
+## Core claim spine
+
+| Layer | Claim | Exact citation |
+|---|---|---|
+| Source assignment | Exact spacetime-constant vacuum shifts renormalize the global flux/topological sector, not an independently running local Lambda coupling. | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
+| GR-exact landing | Local gravity lands on Einstein form with flux-fixed `Λ_eff` and local `T^loc`. | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371) |
+| Residual `Λ_eff` | The observed late-time `Λ_eff` is a flux-fixed residual / squashing-remnant label. | [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
+| Value localization | Viable residual support is narrowed to a UV-selected discretuum near the observed scale. | [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689) |
+| Positive Lambda | Late-time viability suppresses the negative branch after magnitude localization. | [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624) |
+| Governance route | Governance Bridge landing precedes downstream branch-viability gates. | [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
+| Black-hole exterior no-hair | In one connected membrane-free fixed flux sector, the exact constant mode cannot become smooth exterior black-hole hair. | [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764) |
+| Black-hole local support | Fixed `Λ_eff` curvature cannot become local black-hole substance or regular-core support. | [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356) |
+
+Use the most specific DOI for the claim being cited. Use the version DOI for an exact release and the concept DOI for the evolving record family.
 
 ## What the Governance Bridge does
 
@@ -35,6 +56,11 @@ It assigns sources before solving:
 - Fixed-sector black-hole/no-hair v1.0.0 version DOI: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
 - Fixed-sector black-hole/no-hair OSF backup: [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview)
 - Fixed-sector black-hole/no-hair OSF registration: [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview)
+- Fixed-sector black-hole local-support baseline concept DOI: [10.5281/zenodo.20636355](https://doi.org/10.5281/zenodo.20636355)
+- Fixed-sector black-hole local-support baseline v1.0.0 version DOI: [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)
+- Fixed-sector black-hole local-support baseline release date: 2026-06-11
+- Fixed-sector black-hole local-support baseline OSF backup: [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview)
+- Fixed-sector black-hole local-support baseline OSF registration: [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview)
 
 Use the concept DOI for navigation to the evolving record family. Use the version DOI when citing the exact release.
 
@@ -45,7 +71,7 @@ Use the concept DOI for navigation to the evolving record family. Use the versio
 | 1 | What is the source-assignment law? | Governance Bridge Law | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
 | 2 | How does bridge landing connect to downstream branch viability? | Governance Route / Gate Architecture | [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
 | 3 | What is the GR-exact branch? | Radiative-stability backbone; Gravity in GCV role map | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)<br>[10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
-| Side audit | Does the exact constant mode become black-hole exterior hair? | Fixed-sector black-hole/no-hair compatibility | [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764) |
+| Side audit | Does the exact constant mode become black-hole exterior hair or local core support? | Fixed-sector black-hole compatibility | [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)<br>[10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356) |
 | 4 | What is the programme-level CCP route? | Flagship CCP synthesis | [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395) |
 | 5 | What is residual Λ_eff? | Squashing-remnant / discretuum | [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
 | 6 | Can the bridge be UV anchored? | Governance-UV existence proof / CFI §6.2 benchmark mapping | [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850) |
@@ -76,6 +102,8 @@ Use the concept DOI for navigation to the evolving record family. Use the versio
 - OSF archived-Zenodo evidence mirror, 2026-01-17: [OSF evidence mirror](https://osf.io/pk6jf/overview)
 - No-hair OSF backup: [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview)
 - No-hair OSF registration: [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview)
+- Black-hole local-support baseline OSF backup: [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview)
+- Black-hole local-support baseline OSF registration: [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview)
 
 ## Repository role
 
@@ -88,13 +116,13 @@ This repository is not intended to duplicate the full PDF/source packages alread
 The current live repository includes the May–June 2026 DOI metadata updates and OSF provenance links where available. The next planned GitHub release is:
 
 ```text
-gcv-route-map-v1.0.2
+gcv-route-map-v1.0.3
 ```
 
 Release purpose:
 
-- add the May 2026 Governance-UV, gravity, bounded-transients, growth, and lensing DOI metadata;
-- add the June 2026 fixed-sector black-hole/no-hair compatibility record;
+- add the June 2026 fixed-sector black-hole local-support baseline record;
+- add the canonical GCV source-assignment priority claim to the repository front door;
 - preserve concept DOI and version DOI distinctions;
 - update route-map entries, citation guidance, DOI index, provenance map, and dependency route;
 - preserve GitHub as a navigation, citation, and provenance hub.
