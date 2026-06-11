@@ -141,7 +141,7 @@ This file records the public provenance trail for the GCV framework records. The
 - Concept DOI: [10.5281/zenodo.20636355](https://doi.org/10.5281/zenodo.20636355)
 - Version DOI v1.0.0: [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)
 - Public release date: 2026-06-11
-- Homepage landing page: pending homepage update
+- Homepage landing page: [https://johansson.digital/additional-papers/gcv-black-hole-local-support](https://johansson.digital/additional-papers/gcv-black-hole-local-support)
 - OSF backup: [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview)
 - OSF registration: [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview)
 - File integrity MD5: `a0b719c09d965e72aea08764e66afee0`

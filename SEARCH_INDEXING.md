@@ -163,13 +163,13 @@ https://osf.io/y2eut/overview
 https://osf.io/gpsxd/overview
 ```
 
-Planned homepage landing page:
+Homepage landing page:
 
 ```text
 https://johansson.digital/additional-papers/gcv-black-hole-local-support
 ```
 
-Planned direct PDF path after homepage upload:
+Direct PDF:
 
 ```text
 https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
@@ -259,7 +259,7 @@ Suggested Search Console URLs for the no-hair update:
 - https://johansson.digital/does-gcv-change-black-holes
 - https://johansson.digital/questions
 
-Suggested Search Console URLs for the black-hole local-support update after homepage publication:
+Suggested Search Console URLs for the black-hole local-support update:
 
 - https://johansson.digital/additional-papers/gcv-black-hole-local-support
 - https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
@@ -288,7 +288,7 @@ For the black-hole local-support baseline, ensure the landing page and PDF expos
 - publication date: 2026/06/11
 - version DOI: 10.5281/zenodo.20636356
 - concept DOI: 10.5281/zenodo.20636355
-- planned direct PDF URL: https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
+- direct PDF URL: https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
 
 ## Repository topics
 
