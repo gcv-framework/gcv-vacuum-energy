@@ -10,7 +10,7 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 **Canonical record:** [Governance Bridge Law — 10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)
 
-**Supporting records:** [Source-assignment criterion manuscript](https://johansson.digital) and [Full Governance-UV existence proof v1.2.0 — 10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850)
+**Supporting records:** [Full Governance-UV existence proof v1.2.0 — 10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850). A dedicated source-assignment criterion landing page / DOI should be added here when public.
 
 **Boundary:** This is the upstream source-assignment theorem / admissibility law. It is not the same as the downstream route/gate architecture. It does not remove local excitations or ordinary local gravitating sources.
 
