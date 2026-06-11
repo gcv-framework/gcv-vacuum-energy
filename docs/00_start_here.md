@@ -2,6 +2,12 @@
 
 Use this repository as a route-map and citation/provenance index, not as a replacement for the DOI records.
 
+## Core GCV priority claim
+
+The core GCV priority claim is a source-assignment criterion for exact spacetime-constant vacuum shifts: under explicit no-leak conditions, the exact zero mode renormalizes the global flux/topological sector rather than an independently running local cosmological-constant coupling.
+
+Local matter, radiation, fields, curvature-dependent terms, shells, semiclassical stress, perturbations, and other local excitations remain in the local stress tensor and gravitate normally. The source-assignment claim concerns only the exact spacetime-constant vacuum zero mode.
+
 ## Fast path
 
 1. Read the short [README](../README.md).
@@ -25,6 +31,13 @@ Use this repository as a route-map and citation/provenance index, not as a repla
 - Bounded Geometry Transients in GCV: [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)
 - Lensing Sector in GCV: [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158)
 
+## Strong-field / black-hole records
+
+- Fixed-sector black-hole exterior no-hair: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
+- Fixed-sector black-hole local support / regular-core obstruction: [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)
+
+The exterior no-hair record is the clean citation for the theorem that the exact constant mode cannot become smooth radial black-hole exterior hair in one connected membrane-free fixed flux sector. The local-support baseline imports that theorem and extends the audit to static spherical interiors, source-resolved Misner-Sharp mass, local-support tensor reconstruction, and the regular-core obstruction.
+
 ## Core ontology
 
 ```text
@@ -44,4 +57,6 @@ Use the most specific DOI:
 - cite the Governance Bridge Law for the source-assignment theorem;
 - cite the Governance Route / Gate Architecture for the ordered route/gate map;
 - cite the CCP synthesis for the three-pillar programme-level CCP claim;
-- cite the individual value/sign/matter/growth modules for their own technical claims.
+- cite the no-hair black-hole record for the fixed-sector exterior theorem;
+- cite the black-hole local-support baseline for source-resolved interiors and regular-core obstruction;
+- cite the individual value/sign/matter/growth/lensing modules for their own technical claims.
