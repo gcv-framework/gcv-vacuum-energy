@@ -93,6 +93,7 @@ Use the concept DOI for navigation to the evolving record family. Use the versio
 - [Non-claims and scope](NON_CLAIMS.md)
 - [Search/indexing notes](SEARCH_INDEXING.md)
 - No-hair landing page: [https://johansson.digital/additional-papers/gcv-black-hole-no-hair](https://johansson.digital/additional-papers/gcv-black-hole-no-hair)
+- Black-hole local-support landing page: [https://johansson.digital/additional-papers/gcv-black-hole-local-support](https://johansson.digital/additional-papers/gcv-black-hole-local-support)
 
 ## Public links
 
@@ -100,8 +101,11 @@ Use the concept DOI for navigation to the evolving record family. Use the versio
 - GitHub repo: [gcv-framework/gcv-vacuum-energy](https://github.com/gcv-framework/gcv-vacuum-energy)
 - OSF PDF mirror, 2026-01-05: [OSF PDF mirror](https://osf.io/3d2e9/overview)
 - OSF archived-Zenodo evidence mirror, 2026-01-17: [OSF evidence mirror](https://osf.io/pk6jf/overview)
+- No-hair landing page: [https://johansson.digital/additional-papers/gcv-black-hole-no-hair](https://johansson.digital/additional-papers/gcv-black-hole-no-hair)
 - No-hair OSF backup: [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview)
 - No-hair OSF registration: [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview)
+- Black-hole local-support baseline landing page: [https://johansson.digital/additional-papers/gcv-black-hole-local-support](https://johansson.digital/additional-papers/gcv-black-hole-local-support)
+- Black-hole local-support baseline PDF: [https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf](https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf)
 - Black-hole local-support baseline OSF backup: [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview)
 - Black-hole local-support baseline OSF registration: [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview)
 
@@ -113,16 +117,12 @@ This repository is not intended to duplicate the full PDF/source packages alread
 
 ## Current GitHub hub status
 
-The current live repository includes the May–June 2026 DOI metadata updates and OSF provenance links where available. The next planned GitHub release is:
+The current live repository includes the June 2026 fixed-sector black-hole local-support baseline record, the black-hole homepage landing page, OSF provenance links, and the canonical GCV source-assignment priority claim.
 
-```text
-gcv-route-map-v1.0.3
-```
+Current status:
 
-Release purpose:
-
-- add the June 2026 fixed-sector black-hole local-support baseline record;
-- add the canonical GCV source-assignment priority claim to the repository front door;
-- preserve concept DOI and version DOI distinctions;
-- update route-map entries, citation guidance, DOI index, provenance map, and dependency route;
-- preserve GitHub as a navigation, citation, and provenance hub.
+- June 2026 fixed-sector black-hole local-support baseline record indexed;
+- black-hole local-support landing page and PDF link finalized;
+- concept DOI and version DOI distinctions preserved;
+- route-map entries, citation guidance, DOI index, provenance map, and dependency route updated;
+- GitHub preserved as a navigation, citation, and provenance hub.
