@@ -35,8 +35,11 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 - Fixed-sector black-hole exterior no-hair: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
 - Fixed-sector black-hole local support / regular-core obstruction: [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)
+- Conditional black-hole sector-birth benchmark: [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300)
 
-The exterior no-hair record is the clean citation for the theorem that the exact constant mode cannot become smooth radial black-hole exterior hair in one connected membrane-free fixed flux sector. The local-support baseline imports that theorem and extends the audit to static spherical interiors, source-resolved Misner-Sharp mass, local-support tensor reconstruction, and the regular-core obstruction.
+The exterior no-hair record is the clean citation for the theorem that the exact constant mode cannot become smooth radial black-hole exterior hair in one connected membrane-free fixed flux sector. The local-support baseline imports that theorem and extends the audit to static spherical interiors, source-resolved Misner-Sharp mass, local-support tensor reconstruction, and the regular-core obstruction. The conditional sector-birth benchmark starts after that obstruction and tests a compact local sector-boundary/corner source route under strict no-leak locks.
+
+The sector-birth benchmark is not evidence that any observed black hole formed a separate fixed sector, not a gravitational-wave detection claim, not a singularity-resolution theorem, and not a cosmic-cycle claim.
 
 ## Core ontology
 
@@ -59,4 +62,5 @@ Use the most specific DOI:
 - cite the CCP synthesis for the three-pillar programme-level CCP claim;
 - cite the no-hair black-hole record for the fixed-sector exterior theorem;
 - cite the black-hole local-support baseline for source-resolved interiors and regular-core obstruction;
+- cite the sector-birth benchmark for conditional finite-thickness sector-boundary/corner support, child flux label, and high-mass reset candidate-ranking benchmark;
 - cite the individual value/sign/matter/growth/lensing modules for their own technical claims.
