@@ -20,7 +20,12 @@ This file lists common overstatements to avoid.
 - that the fixed-sector black-hole local-support baseline is a new black-hole metric proposal;
 - that the fixed-sector black-hole local-support baseline solves singularities, Hawking evaporation, information loss, rotating Kerr interiors, black-hole microstate counting, or observational black-hole measurement;
 - that the fixed-sector black-hole local-support baseline provides a full microphysical model for regular-core support;
-- that the exact spacetime-constant vacuum mode becomes local black-hole substance, local pressure fluid, local hair, or local regular-core support inside one fixed sector;
+- that the conditional black-hole sector-birth benchmark is evidence that any observed black hole formed a separate fixed sector;
+- that the conditional black-hole sector-birth benchmark is a gravitational-wave detection claim;
+- that the conditional black-hole sector-birth benchmark solves singularities, supplies a full quantum-gravity endpoint, or proves a complete matched-spacetime existence theorem;
+- that the conditional black-hole sector-birth benchmark is a cosmic-cycle claim;
+- that gravitational-wave catalog examples in the sector-birth benchmark are occurrence evidence rather than scale-setting and candidate-ranking stress tests;
+- that the exact spacetime-constant vacuum mode becomes local black-hole substance, local pressure fluid, local hair, local regular-core support, or local sector-boundary material inside one fixed sector;
 - that GitHub is the authoritative archive for scientific priority.
 
 ## Correct framing
@@ -34,4 +39,5 @@ This file lists common overstatements to avoid.
 - The matter-shell and visible-matter modules are scoped downstream modules with explicit limitations.
 - The fixed-sector black-hole/no-hair record is a strong-field compatibility side audit: in one connected membrane-free fixed flux sector, the governed exact constant vacuum mode cannot become smooth radial exterior hair, while classical exterior geometry is inherited from the GR-exact Einstein-Λ_eff landing.
 - The fixed-sector black-hole local-support baseline is a support theorem and no-leak baseline: fixed Λ_eff contributes cosmological curvature, while source-resolved interiors and regular-core excess curvature require local support, a shell, a membrane or sector transition, boundary/corner structure, or source-assignment-compatible strong-field dynamics.
+- The conditional black-hole sector-birth benchmark starts after the local-support obstruction and asks whether compact finite-thickness local sector-boundary/corner support can be written under strict no-leak locks without making the exact constant vacuum mode into local black-hole material.
 - GitHub is a navigation and citation hub; Zenodo/OSF records are the archival priority layer.
