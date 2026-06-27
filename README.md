@@ -126,3 +126,15 @@ Current status:
 - concept DOI and version DOI distinctions preserved;
 - route-map entries, citation guidance, DOI index, provenance map, and dependency route updated;
 - GitHub preserved as a navigation, citation, and provenance hub.
+
+## 2026-06-27 conditional black-hole sector-birth benchmark
+
+- Version DOI v1.0.0: [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300)
+- Concept DOI: [10.5281/zenodo.20953299](https://doi.org/10.5281/zenodo.20953299)
+- Landing page: [https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark](https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark)
+- Direct PDF: [https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf](https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf)
+- OSF backup: [https://osf.io/jhgew/overview](https://osf.io/jhgew/overview)
+- OSF registration: [https://osf.io/f6tvp/overview](https://osf.io/f6tvp/overview)
+- Local index note: [docs/15_bh_sector_benchmark.md](docs/15_bh_sector_benchmark.md)
+
+Boundary: this is a conditional benchmark only. It is not a gravitational-wave detection claim, not event evidence, not a singularity-resolution theorem, not a cosmic-cycle claim, and not a constant-mode leak.
