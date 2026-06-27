@@ -46,26 +46,6 @@ This file records the public provenance trail for the GCV framework records. The
 - OSF registration: —
 - Role: GR-exact local equation and radiative-stability backbone.
 
-## Structural interface and logical closure
-
-### One-page structural interface
-
-- Concept DOI: [10.5281/zenodo.18656287](https://doi.org/10.5281/zenodo.18656287)
-- Current DOI: [10.5281/zenodo.18899058](https://doi.org/10.5281/zenodo.18899058)
-- Current date: 2026-03-07
-- OSF backup: [https://osf.io/hybvc/overview](https://osf.io/hybvc/overview)
-- OSF registration: no registration as no new science
-- Role: short structural entry note.
-
-### Eight-page structural note / logical closure note
-
-- Concept DOI: [10.5281/zenodo.18666397](https://doi.org/10.5281/zenodo.18666397)
-- Current DOI: [10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693)
-- Current date: 2026-03-07
-- OSF backup: [https://osf.io/6qknj/overview](https://osf.io/6qknj/overview)
-- OSF registration: no registration as no new science
-- Role: compact proof spine / modular closure map.
-
 ## Lambda/value/sign records
 
 ### Residual Λ_eff / squashing-remnant interpretation
@@ -144,18 +124,29 @@ This file records the public provenance trail for the GCV framework records. The
 - Homepage landing page: [https://johansson.digital/additional-papers/gcv-black-hole-local-support](https://johansson.digital/additional-papers/gcv-black-hole-local-support)
 - OSF backup: [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview)
 - OSF registration: [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview)
-- File integrity MD5: `a0b719c09d965e72aea08764e66afee0`
-- File integrity SHA256: `2ad267b544393e73bd76f976c14b879dc22943d4d8b60dd607d88c2b9f5db63a`
 - Related exterior theorem: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
 - Role: standalone fixed-sector black-hole support-baseline record; imports the exterior no-hair theorem and extends the analysis to source-resolved Misner-Sharp mass, local-support tensor reconstruction, regular-core obstruction, fixed-sector/inter-sector thermodynamic separation, membrane/junction handoff, and black-hole no-leak tests.
-- Boundary: not a new black-hole metric proposal, not a singularity-resolution theorem, not evaporation, not information loss, not a rotating Kerr-interior calculation, and not an observational black-hole measurement. It fixes what the exact spacetime-constant vacuum mode cannot become inside one lawful fixed sector.
+- Boundary: not a new black-hole metric proposal, not a singularity-resolution theorem, not evaporation, not information loss, not a rotating Kerr-interior calculation, and not an observational black-hole measurement.
+
+### Conditional black-hole sector-birth benchmark
+
+- Concept DOI: [10.5281/zenodo.20953299](https://doi.org/10.5281/zenodo.20953299)
+- Version DOI v1.0.0: [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300)
+- Public release date: 2026-06-27
+- Homepage landing page: [https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark](https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark)
+- Direct PDF: [https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf](https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf)
+- OSF backup: [https://osf.io/jhgew/overview](https://osf.io/jhgew/overview)
+- OSF registration: [https://osf.io/f6tvp/overview](https://osf.io/f6tvp/overview)
+- Related exterior theorem: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
+- Related local-support baseline: [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)
+- Role: conditional black-hole interior sector-transition benchmark using compact finite-thickness local sector-boundary/corner stress under strict no-leak locks.
+- Boundary: not evidence that any observed black hole formed a separate fixed sector, not a gravitational-wave detection claim, not a singularity-resolution theorem, not a complete matched-spacetime existence proof, not a full quantum-gravity endpoint, and not a claim that the exact spacetime-constant vacuum mode becomes local black-hole material. Catalog examples are scale-setting and candidate-ranking stress tests only.
 
 ### Growth Sector in GCV
 
 - Concept DOI: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
 - Current version DOI v2.0.0: [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
 - Current date: 2026-05-12
-- First public version DOI v1.0.0: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
 - OSF backup: [https://osf.io/bgms8/](https://osf.io/bgms8/)
 - OSF registration: [https://osf.io/em6cu/](https://osf.io/em6cu/)
 
@@ -164,7 +155,6 @@ This file records the public provenance trail for the GCV framework records. The
 - Concept DOI: [10.5281/zenodo.18833996](https://doi.org/10.5281/zenodo.18833996)
 - Current version DOI v3.0.0: [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)
 - Current date: 2026-05-11
-- First public version DOI: [10.5281/zenodo.18833997](https://doi.org/10.5281/zenodo.18833997)
 - OSF backup: [https://osf.io/kbvu2/](https://osf.io/kbvu2/)
 - OSF registration: [https://osf.io/p9qrs/](https://osf.io/p9qrs/)
 
