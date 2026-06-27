@@ -40,14 +40,6 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 **Boundary:** Programme-level synthesis. It does not claim a unique UV completion, a unique continuous first-principles endpoint for Λ, or a UV theorem fixing the sign.
 
-## Logical closure claim
-
-**Claim:** The modular CCP closure claim follows by composing completed modules: backbone/radiative stability, magnitude localization, and positive-Λ viability.
-
-**Canonical record:** [Logical closure note — 10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693)
-
-**Boundary:** Logic spine only. It introduces no new fits, priors, scans, or code.
-
 ## Residual Λ_eff claim
 
 **Claim:** The observed late-time `Λ_eff` can be interpreted as a flux-fixed residual / squashing remnant of the global neutralization of strictly constant vacuum contributions.
@@ -55,34 +47,6 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 **Canonical record:** [Residual Λ_eff — 10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470)
 
 **Boundary:** Interpretation and toy discretuum support. It does not identify `Λ_eff` with the raw absolute offset of a particular UV scalar potential.
-
-## Observed-value localization claim
-
-**Claim:** The viable residual support for `Λ_eff` can be localized near the observed scale through operational conditioning, three-bottleneck closeout, and UV budget-partition / overlap-share mechanisms.
-
-**Canonical records:**
-
-- [Operational conditioning — 10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993)
-- [Three-bottleneck closeout — 10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607)
-- [UV budget-partition / derived-Lambda mechanism — 10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689)
-
-**Boundary:** Narrow UV-selected discretuum near the observed scale, not a unique continuous value.
-
-## Positive-Λ claim
-
-**Claim:** Once the magnitude window is fixed, late-time viability suppresses the negative branch and realizes positive Λ in a modular operational sense.
-
-**Canonical record:** [Positive-Λ module — 10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)
-
-**Boundary:** Late-time viability/sign-selection result, not a UV theorem forcing Λ > 0.
-
-## UV benchmark claim
-
-**Claim:** At least one semi-explicit UV benchmark provides an auditable UV→EFT mapping compatible with the GCV constant-mode split and response sector.
-
-**Canonical record:** [Full Governance-UV existence proof v1.2.0 — 10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850)
-
-**Boundary:** Benchmark-scoped existence proof and parameter mapping, not a full landscape classification or universality theorem.
 
 ## Fixed-sector black-hole/no-hair compatibility claim
 
@@ -107,6 +71,22 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 **OSF backup / registration:** [project](https://osf.io/y2eut/overview) · [registration](https://osf.io/gpsxd/overview)
 
 **Boundary:** This is a fixed-sector support theorem and no-leak baseline for black-hole interiors. It is not a new black-hole metric proposal, not a singularity-resolution theorem, not evaporation, not information loss, not a rotating Kerr-interior calculation, and not an observational black-hole measurement.
+
+## Conditional black-hole sector-birth benchmark claim
+
+**Claim:** A GCV-compatible black-hole interior sector-birth benchmark can be formulated using compact finite-thickness local sector-boundary/corner stress under strict no-leak locks, rather than by making the exact spacetime-constant vacuum zero mode into local black-hole material.
+
+**Canonical record:** [A GCV-compatible black-hole sector-birth benchmark — 10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300)
+
+**Concept DOI:** [10.5281/zenodo.20953299](https://doi.org/10.5281/zenodo.20953299)
+
+**Related exterior theorem:** [No constant-mode hair in fixed-sector black-hole exteriors — 10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
+
+**Related local-support baseline:** [Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes — 10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)
+
+**OSF backup / registration:** [project](https://osf.io/jhgew/overview) · [registration](https://osf.io/f6tvp/overview)
+
+**Boundary:** This is a conditional effective benchmark, not evidence that any observed black hole formed a separate fixed sector, not a gravitational-wave detection claim, not a singularity-resolution theorem, not a complete matched-spacetime existence proof, not a full quantum-gravity endpoint, and not a cosmic-cycle claim. Gravitational-wave catalog examples are scale-setting and candidate-ranking stress tests only.
 
 ## Visible matter-branch / baryogenesis claim
 
