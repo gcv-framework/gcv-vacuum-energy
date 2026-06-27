@@ -46,27 +46,6 @@ GCV no-leak source assignment local excitations gravitate normally
 - Concept DOI: [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410)
 - Version DOI v1.0.0: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 
-Keywords:
-
-- Governance Route
-- Gate Architecture
-- GCV
-- Gauged Constant Vacuum-Mode
-- source assignment
-- UV admissibility
-- GR-exact landed branch
-- branch viability
-- matter-bearing universes
-- shell-throughput candidate
-- visible-matter branch
-- galaxy-viability diagnostic branch
-
-Suggested search phrase:
-
-```text
-The Governance Route and Gate Architecture of Matter-Bearing Universes in GCV
-```
-
 Short description:
 
 ```text
@@ -82,20 +61,16 @@ Route/gate architecture record for GCV: IR GR-exact source-assignment target plu
 - Lensing Sector in GCV v1.0.0: version DOI [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158); concept DOI [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157); OSF Project [https://osf.io/ste46/](https://osf.io/ste46/); OSF Registration [https://osf.io/m8vrb/](https://osf.io/m8vrb/); date 2026-05-12.
 - No constant-mode hair in fixed-sector black-hole exteriors v1.0.0: version DOI [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764); concept DOI [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763); OSF Project [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview); OSF Registration [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview); date 2026-06-01.
 - Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes v1.0.0: version DOI [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356); concept DOI [10.5281/zenodo.20636355](https://doi.org/10.5281/zenodo.20636355); OSF Project [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview); OSF Registration [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview); date 2026-06-11.
+- A GCV-compatible black-hole sector-birth benchmark v1.0.0: version DOI [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300); concept DOI [10.5281/zenodo.20953299](https://doi.org/10.5281/zenodo.20953299); OSF Project [https://osf.io/jhgew/overview](https://osf.io/jhgew/overview); OSF Registration [https://osf.io/f6tvp/overview](https://osf.io/f6tvp/overview); date 2026-06-27.
 
-## No-hair / black-hole compatibility indexing block
+## Black-hole record indexing blocks
 
-Primary landing page:
+### No-hair / black-hole exterior compatibility
 
-```text
-https://johansson.digital/additional-papers/gcv-black-hole-no-hair
-```
-
-Direct PDF:
-
-```text
-https://johansson.digital/onewebmedia/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
-```
+- Landing page: https://johansson.digital/additional-papers/gcv-black-hole-no-hair
+- PDF: https://johansson.digital/onewebmedia/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
+- Version DOI: 10.5281/zenodo.20473764
+- Concept DOI: 10.5281/zenodo.20473763
 
 Suggested search phrases:
 
@@ -105,75 +80,13 @@ GCV black-hole no-hair fixed-sector constant-mode hair
 No constant-mode hair in fixed-sector black-hole exteriors Johansson
 ```
 
-Keywords:
+### Black-hole local-support / regular-core obstruction
 
-- GCV
-- Gauged Constant Vacuum-Mode
-- black-hole no-hair
-- black-hole hair
-- constant-mode hair
-- exact constant vacuum mode
-- fixed-sector black-hole exterior
-- flux-fixed general relativity
-- source assignment
-- Governance Bridge Law
-- GR-exact branch
-- cosmological constant
-- Lambda_eff
-- Kottler metric
-- Schwarzschild-de Sitter
-- four-forms
-- three-forms
-- topological sectors
-- membrane sectors
-- no-leak
-- radiative stability
-- strong-field compatibility
-
-Short description:
-
-```text
-Fixed-sector black-hole/no-hair compatibility record for GCV. In one connected, membrane-free fixed flux sector on the GR-exact GCV branch, the governed exact spacetime-constant vacuum mode cannot become smooth radial exterior hair; classical exterior geometry is inherited from the Einstein-Lambda_eff landing.
-```
-
-Claim boundary:
-
-```text
-This is not a new black-hole metric proposal, not a semiclassical evaporation analysis, not an information-loss solution, not singularity resolution, and not full quantum-horizon microphysics except insofar as such effects would force source-assignment leakage.
-```
-
-## Black-hole local-support / regular-core obstruction indexing block
-
-Authoritative DOI landing:
-
-```text
-https://doi.org/10.5281/zenodo.20636356
-```
-
-Concept DOI:
-
-```text
-https://doi.org/10.5281/zenodo.20636355
-```
-
-OSF backup and registration:
-
-```text
-https://osf.io/y2eut/overview
-https://osf.io/gpsxd/overview
-```
-
-Homepage landing page:
-
-```text
-https://johansson.digital/additional-papers/gcv-black-hole-local-support
-```
-
-Direct PDF:
-
-```text
-https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
-```
+- Landing page: https://johansson.digital/additional-papers/gcv-black-hole-local-support
+- PDF: https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
+- Version DOI: 10.5281/zenodo.20636356
+- Concept DOI: 10.5281/zenodo.20636355
+- OSF: https://osf.io/y2eut/overview and https://osf.io/gpsxd/overview
 
 Suggested search phrases:
 
@@ -181,114 +94,65 @@ Suggested search phrases:
 Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes
 GCV black-hole local support regular-core obstruction
 source-resolved Misner-Sharp mass fixed-sector GCV black holes
-fixed Lambda_eff black-hole regular core local support
 exact constant vacuum mode cannot support black-hole core
 ```
 
-Keywords:
+### Black-hole sector-birth benchmark
 
-- GCV
-- Gauged Constant Vacuum-Mode
-- black holes
-- fixed-sector black holes
-- local support
-- regular-core obstruction
-- de Sitter core
-- Misner-Sharp mass
-- source-resolved Misner-Sharp mass
-- cosmological constant
-- Lambda_eff
-- exact constant vacuum mode
-- vacuum zero mode
-- local stress tensor
-- radial pressure
-- tangential pressure
-- flux-fixed gravity
-- four-forms
-- topological sectors
-- membrane transitions
-- no constant-mode hair
-- source assignment
-- no-leak
-- black-hole interiors
-- Kottler metric
-- Schwarzschild-de Sitter
+- Landing page: https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark
+- PDF: https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf
+- Version DOI: 10.5281/zenodo.20953300
+- Concept DOI: 10.5281/zenodo.20953299
+- OSF: https://osf.io/jhgew/overview and https://osf.io/f6tvp/overview
+
+Suggested search phrases:
+
+```text
+A GCV-compatible black-hole sector-birth benchmark
+GCV black-hole sector-birth benchmark finite-thickness corner support
+child flux label high-mass reset candidates Johansson
+black-hole sector-boundary corner stress GCV no-leak locks
+conditional black-hole sector-birth benchmark exact constant vacuum mode
+```
 
 Short description:
 
 ```text
-Fixed-sector GCV black-hole support-baseline record. The paper imports the exterior no-hair theorem and extends the audit to static spherical interiors: fixed Lambda_eff contributes cosmological curvature, while local density and pressures must supply any local support. A de Sitter-like core whose curvature differs from the fixed flux-sector value requires explicit local support, a shell, a membrane or sector transition, boundary/corner structure, or source-assignment-compatible strong-field dynamics.
+Conditional black-hole sector-birth benchmark in GCV. The record tests whether a compact finite-thickness local sector-boundary/corner source can support a separate fixed-sector flux label under strict no-leak locks, without turning the exact spacetime-constant vacuum mode into local black-hole material, without smooth parent-sector Lambda(r) hair, and without leaking child-sector curvature or repayment into the parent exterior.
 ```
 
 Claim boundary:
 
 ```text
-This is not a new black-hole metric proposal, not a singularity-resolution theorem, not an evaporation or information-loss analysis, not a rotating Kerr-interior calculation, and not an observational black-hole measurement. It is a fixed-sector support theorem and no-leak baseline for black-hole interiors.
+This is not evidence that any observed black hole formed a separate fixed sector, not a gravitational-wave detection claim, not a singularity-resolution theorem, not a complete matched-spacetime existence proof, not a full quantum-gravity endpoint, and not a cosmic-cycle claim. Catalog examples are scale-setting and candidate-ranking stress tests only.
 ```
 
 Scholar metadata checklist:
 
 ```text
-Exact title: Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes: No constant-mode hair, source-resolved Misner-Sharp mass, and regular-core obstruction
+Exact title: A GCV-compatible black-hole sector-birth benchmark: finite-thickness corner support, child flux label, and high-mass reset candidates
 Author: Germund Johansson
-Publication date: 2026/06/11
-Version DOI: 10.5281/zenodo.20636356
-Concept DOI: 10.5281/zenodo.20636355
-OSF backup: https://osf.io/y2eut/overview
-OSF registration: https://osf.io/gpsxd/overview
-```
-
-File-integrity checklist:
-
-```text
-MD5: a0b719c09d965e72aea08764e66afee0
-SHA256: 2ad267b544393e73bd76f976c14b879dc22943d4d8b60dd607d88c2b9f5db63a
+Publication date: 2026/06/27
+Version DOI: 10.5281/zenodo.20953300
+Concept DOI: 10.5281/zenodo.20953299
+Direct PDF URL: https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf
+OSF backup: https://osf.io/jhgew/overview
+OSF registration: https://osf.io/f6tvp/overview
 ```
 
 ## Google / normal web search
 
-A clean GitHub README and matching homepage / paper-specific landing pages can help normal web discovery. A sitemap and Search Console submission for the homepage route-map page, no-hair landing page, black-hole local-support landing page, papers index, cite index, questions page, and black-hole Q&A page are recommended.
+A clean GitHub README and matching homepage / paper-specific landing pages can help normal web discovery. A sitemap and Search Console submission for the homepage route-map page, no-hair landing page, black-hole local-support landing page, black-hole sector-birth benchmark page, papers index, cite index, questions page, and black-hole Q&A page are recommended.
 
-Suggested Search Console URLs for the no-hair update:
+Suggested Search Console URLs for the black-hole sector-birth benchmark update:
 
-- https://johansson.digital/additional-papers/gcv-black-hole-no-hair
-- https://johansson.digital/onewebmedia/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
+- https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark
+- https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf
 - https://johansson.digital/papers-and-code
 - https://johansson.digital/cite-index
 - https://johansson.digital/gcv-route-map
-- https://johansson.digital/does-gcv-change-black-holes
+- https://johansson.digital/questions/does-gcv-change-black-holes
 - https://johansson.digital/questions
-
-Suggested Search Console URLs for the black-hole local-support update:
-
-- https://johansson.digital/additional-papers/gcv-black-hole-local-support
-- https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
-- https://johansson.digital/papers-and-code
-- https://johansson.digital/cite-index
-- https://johansson.digital/gcv-route-map
-- https://johansson.digital/does-gcv-change-black-holes
-- https://johansson.digital/questions
-
-## Google Scholar
-
-Google Scholar indexing is less predictable for repositories and mixed archival records. The best chance for Scholar indexing comes from article-like landing pages with clear metadata, PDF links, titles, authors, dates, and citation information.
-
-For the no-hair record, ensure the landing page and PDF expose:
-
-- exact title: `No constant-mode hair in fixed-sector black-hole exteriors of flux-fixed general relativity`
-- author: Germund Johansson
-- publication date: 2026/06/01
-- version DOI: 10.5281/zenodo.20473764
-- direct PDF URL: https://johansson.digital/onewebmedia/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
-
-For the black-hole local-support baseline, ensure the landing page and PDF expose:
-
-- exact title: `Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes: No constant-mode hair, source-resolved Misner-Sharp mass, and regular-core obstruction`
-- author: Germund Johansson
-- publication date: 2026/06/11
-- version DOI: 10.5281/zenodo.20636356
-- concept DOI: 10.5281/zenodo.20636355
-- direct PDF URL: https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
 
 ## Repository topics
 
@@ -311,5 +175,7 @@ black-hole-hair
 black-hole-interiors
 regular-black-holes
 misner-sharp-mass
+black-hole-sector-birth
+sector-boundary-stress
 flux-fixed-gravity
 ```
