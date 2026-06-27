@@ -22,57 +22,26 @@ Use the most specific DOI for the claim being cited. This repository is a hub/in
 | Gravity role map | Gravity in GCV v1.0.0 — [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
 | Fixed-sector black-hole/no-hair compatibility | No constant-mode hair in fixed-sector black-hole exteriors v1.0.0 — [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764) |
 | Fixed-sector black-hole local support / regular-core obstruction | Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes v1.0.0 — [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356) |
+| Conditional black-hole sector-birth benchmark | A GCV-compatible black-hole sector-birth benchmark v1.0.0 — [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300) |
 | Growth-sector response / falsifier interface | Growth Sector in GCV v2.0.0 — [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073) |
 | Bounded-geometry transients | Bounded Geometry Transients in GCV v3.0.0 — [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080) |
 | Lensing-sector response dictionary | Lensing Sector in GCV v1.0.0 — [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) |
 
 ## May–June 2026 record concept/version DOI distinction
 
-- Full Governance-UV Existence Proof and Benchmark Parameter Mapping for the GCV Framework v1.2.0: concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); version DOI [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850); release date 2026-05-10.
-- Gravity in GCV v1.0.0: concept DOI [10.5281/zenodo.20118447](https://doi.org/10.5281/zenodo.20118447); version DOI [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448); release date 2026-05-11.
-- Bounded Geometry Transients in GCV v3.0.0: concept DOI [10.5281/zenodo.18833996](https://doi.org/10.5281/zenodo.18833996); version DOI [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080); release date 2026-05-11.
-- Growth Sector in GCV v2.0.0: concept DOI [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387); version DOI [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073); release date 2026-05-12.
-- Lensing Sector in GCV v1.0.0: concept DOI [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157); version DOI [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158); release date 2026-05-12.
 - No constant-mode hair in fixed-sector black-hole exteriors v1.0.0: concept DOI [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763); version DOI [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764); release date 2026-06-01; OSF project [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview); OSF registration [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview).
 - Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes v1.0.0: concept DOI [10.5281/zenodo.20636355](https://doi.org/10.5281/zenodo.20636355); version DOI [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356); release date 2026-06-11; OSF project [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview); OSF registration [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview).
-
-## Governance Route citation
-
-Use the Governance Route / Gate Architecture DOI when citing the ordered route from Governance Bridge admissibility to GR-exact landing and downstream matter-bearing / growth-viability gates.
-
-Use the Governance Bridge Law DOI when citing the source-assignment theorem itself.
-
-Formal citation:
-
-```text
-Johansson, G. (2026). The Governance Route and Gate Architecture of Matter-Bearing Universes in GCV: An IR-Backbone-to-UV-Admissibility Translation, GR-Exact Landing Map, and Downstream Branch-Viability Control Ledger (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19874411
-```
-
-Concept DOI for the evolving Governance Route record:
-
-```text
-https://doi.org/10.5281/zenodo.19874410
-```
+- A GCV-compatible black-hole sector-birth benchmark v1.0.0: concept DOI [10.5281/zenodo.20953299](https://doi.org/10.5281/zenodo.20953299); version DOI [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300); release date 2026-06-27; OSF project [https://osf.io/jhgew/overview](https://osf.io/jhgew/overview); OSF registration [https://osf.io/f6tvp/overview](https://osf.io/f6tvp/overview).
 
 ## Black-hole / no-hair compatibility citation
 
 Use the no-hair DOI when citing the fixed-sector black-hole compatibility claim: in one connected, membrane-free fixed flux sector on the GR-exact GCV branch, the governed exact spacetime-constant vacuum mode cannot become smooth radial exterior hair.
 
-Do not cite this record as a solution to black-hole information loss, evaporation, singularity resolution, or full quantum-horizon microphysics.
-
-Formal citation:
-
 ```text
 Johansson, G. (2026). No constant-mode hair in fixed-sector black-hole exteriors of flux-fixed general relativity (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20473764
 ```
 
-Concept DOI for the evolving no-hair record family:
-
-```text
-https://doi.org/10.5281/zenodo.20473763
-```
-
-Homepage landing page:
+Landing page:
 
 ```text
 https://johansson.digital/additional-papers/gcv-black-hole-no-hair
@@ -80,20 +49,10 @@ https://johansson.digital/additional-papers/gcv-black-hole-no-hair
 
 ## Black-hole / local-support baseline citation
 
-Use the local-support baseline DOI when citing the fixed-sector black-hole interior support claim: fixed `Lambda_eff` can contribute cosmological curvature, but the exact spacetime-constant vacuum mode cannot become local black-hole substance, local pressure fluid, local hair, or local regular-core support. A de Sitter-like core whose curvature differs from the fixed flux-sector value requires explicit local support or a lawful sector, boundary, or strong-field mechanism.
-
-Do not cite this record as a new black-hole metric proposal, a singularity-resolution theorem, an evaporation or information-loss analysis, a rotating Kerr-interior calculation, or an observational black-hole measurement.
-
-Formal citation:
+Use the local-support baseline DOI when citing the fixed-sector black-hole interior support claim: fixed `Lambda_eff` can contribute cosmological curvature, but the exact spacetime-constant vacuum mode cannot become local black-hole substance, local pressure fluid, local hair, or local regular-core support.
 
 ```text
 Johansson, G. (2026). Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes: No constant-mode hair, source-resolved Misner-Sharp mass, and regular-core obstruction (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20636356
-```
-
-Concept DOI for the evolving black-hole local-support baseline record family:
-
-```text
-https://doi.org/10.5281/zenodo.20636355
 ```
 
 OSF backup and registration:
@@ -101,6 +60,31 @@ OSF backup and registration:
 ```text
 https://osf.io/y2eut/overview
 https://osf.io/gpsxd/overview
+```
+
+## Conditional black-hole sector-birth benchmark citation
+
+Use the sector-birth benchmark DOI when citing the conditional finite-thickness sector-boundary/corner benchmark, the child fixed-sector flux-label bookkeeping, or the high-mass reset candidate-ranking stress test.
+
+Do not cite this record as evidence that any observed black hole formed a separate fixed sector, a gravitational-wave detection claim, a singularity-resolution theorem, a complete matched-spacetime existence proof, a full quantum-gravity endpoint, or a cosmic-cycle claim. It is also not a claim that the exact spacetime-constant vacuum mode becomes local black-hole material.
+
+```text
+Johansson, G. (2026). A GCV-compatible black-hole sector-birth benchmark: finite-thickness corner support, child flux label, and high-mass reset candidates (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20953300
+```
+
+Concept DOI:
+
+```text
+https://doi.org/10.5281/zenodo.20953299
+```
+
+Landing page, PDF, OSF backup, and registration:
+
+```text
+https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark
+https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf
+https://osf.io/jhgew/overview
+https://osf.io/f6tvp/overview
 ```
 
 ## Repository citation
