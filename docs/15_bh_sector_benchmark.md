@@ -9,7 +9,7 @@ This note indexes the 2026-06-27 conditional black-hole sector-birth benchmark i
 - Concept DOI: [10.5281/zenodo.20953299](https://doi.org/10.5281/zenodo.20953299)
 - Public release date: 2026-06-27
 - Homepage landing page: [https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark](https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark)
-- Direct PDF: [https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf](https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf)
+- Direct PDF: [https://johansson.digital/additional-papers/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf](https://johansson.digital/additional-papers/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf)
 - OSF backup: [https://osf.io/jhgew/overview](https://osf.io/jhgew/overview)
 - OSF registration: [https://osf.io/f6tvp/overview](https://osf.io/f6tvp/overview)
 
