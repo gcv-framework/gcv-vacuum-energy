@@ -105,7 +105,7 @@ Use the concept DOI for navigation to the evolving record family. Use the versio
 - No-hair OSF backup: [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview)
 - No-hair OSF registration: [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview)
 - Black-hole local-support baseline landing page: [https://johansson.digital/additional-papers/gcv-black-hole-local-support](https://johansson.digital/additional-papers/gcv-black-hole-local-support)
-- Black-hole local-support baseline PDF: [https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf](https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf)
+- Black-hole local-support baseline PDF: [https://johansson.digital/additional-papers/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf](https://johansson.digital/additional-papers/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf)
 - Black-hole local-support baseline OSF backup: [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview)
 - Black-hole local-support baseline OSF registration: [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview)
 
@@ -132,7 +132,7 @@ Current status:
 - Version DOI v1.0.0: [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300)
 - Concept DOI: [10.5281/zenodo.20953299](https://doi.org/10.5281/zenodo.20953299)
 - Landing page: [https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark](https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark)
-- Direct PDF: [https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf](https://johansson.digital/onewebmedia/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf)
+- Direct PDF: [https://johansson.digital/additional-papers/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf](https://johansson.digital/additional-papers/gcv_black_hole_sector_birth_benchmark_v1_0_0.pdf)
 - OSF backup: [https://osf.io/jhgew/overview](https://osf.io/jhgew/overview)
 - OSF registration: [https://osf.io/f6tvp/overview](https://osf.io/f6tvp/overview)
 - Local index note: [docs/15_bh_sector_benchmark.md](docs/15_bh_sector_benchmark.md)
