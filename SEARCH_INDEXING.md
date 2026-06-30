@@ -94,7 +94,7 @@ https://johansson.digital/additional-papers/gcv-black-hole-no-hair
 Direct PDF:
 
 ```text
-https://johansson.digital/onewebmedia/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
+https://johansson.digital/additional-papers/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
 ```
 
 Suggested search phrases:
@@ -172,7 +172,7 @@ https://johansson.digital/additional-papers/gcv-black-hole-local-support
 Direct PDF:
 
 ```text
-https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
+https://johansson.digital/additional-papers/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
 ```
 
 Suggested search phrases:
@@ -252,7 +252,7 @@ A clean GitHub README and matching homepage / paper-specific landing pages can h
 Suggested Search Console URLs for the no-hair update:
 
 - https://johansson.digital/additional-papers/gcv-black-hole-no-hair
-- https://johansson.digital/onewebmedia/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
+- https://johansson.digital/additional-papers/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
 - https://johansson.digital/papers-and-code
 - https://johansson.digital/cite-index
 - https://johansson.digital/gcv-route-map
@@ -262,7 +262,7 @@ Suggested Search Console URLs for the no-hair update:
 Suggested Search Console URLs for the black-hole local-support update:
 
 - https://johansson.digital/additional-papers/gcv-black-hole-local-support
-- https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
+- https://johansson.digital/additional-papers/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
 - https://johansson.digital/papers-and-code
 - https://johansson.digital/cite-index
 - https://johansson.digital/gcv-route-map
@@ -279,7 +279,7 @@ For the no-hair record, ensure the landing page and PDF expose:
 - author: Germund Johansson
 - publication date: 2026/06/01
 - version DOI: 10.5281/zenodo.20473764
-- direct PDF URL: https://johansson.digital/onewebmedia/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
+- direct PDF URL: https://johansson.digital/additional-papers/Johansson_NoConstantModeHair_FixedSectorGCV_v1_0_0.pdf
 
 For the black-hole local-support baseline, ensure the landing page and PDF expose:
 
@@ -288,7 +288,7 @@ For the black-hole local-support baseline, ensure the landing page and PDF expos
 - publication date: 2026/06/11
 - version DOI: 10.5281/zenodo.20636356
 - concept DOI: 10.5281/zenodo.20636355
-- direct PDF URL: https://johansson.digital/onewebmedia/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
+- direct PDF URL: https://johansson.digital/additional-papers/FluxFixedCurvature_LocalSupport_FixedSectorGCVBlackHoles_v1_0_0.pdf
 
 ## Repository topics
 
