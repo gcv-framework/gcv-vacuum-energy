@@ -13,8 +13,9 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 1. Read the short [README](../README.md).
 2. Read the [Route Map](../ROUTE_MAP.md).
 3. Read the [Governance Route / Gate Architecture page](12_gate_architecture.md) for the bridge-to-branch-to-viability map.
-4. Use the [Citation Guide](../CITATION.md) to cite the specific module.
-5. Use [Provenance](../PROVENANCE.md) to verify backup and OSF registration records.
+4. Read the [Lambda value/sign source-assignment bundle note](16_lambda_value_sign_bundle.md) for the July 2026 consolidated value/sign record.
+5. Use the [Citation Guide](../CITATION.md) to cite the specific module.
+6. Use [Provenance](../PROVENANCE.md) to verify backup and OSF registration records.
 
 ## Most important records
 
@@ -22,6 +23,8 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 - Governance Route / Gate Architecture: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 - GR-exact radiative-stability backbone: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
 - Flagship CCP synthesis: [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395)
+- Residual Lambda_eff / squashing-remnant interpretation: [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470)
+- Lambda value/sign source-assignment bundle: [10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
 - Governance-UV benchmark mapping: [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850)
 - Positive-Λ module: [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)
 - Baryogenesis / visible matter branch: [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255)
@@ -31,12 +34,22 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 - Bounded Geometry Transients in GCV: [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)
 - Lensing Sector in GCV: [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158)
 
+## Lambda value/sign records
+
+- Consolidated Lambda value/sign source-assignment bundle: [10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
+- Concept DOI: [10.5281/zenodo.21265552](https://doi.org/10.5281/zenodo.21265552)
+- Landing page: [https://johansson.digital/additional-papers/lambda-value-sign-source-assignment-bundle](https://johansson.digital/additional-papers/lambda-value-sign-source-assignment-bundle)
+- OSF project / registration: [y93g2](https://osf.io/y93g2/overview) / [yunjg](https://osf.io/yunjg/overview)
+
+The consolidated record is the first public source-assignment bundled edition of the residual `Lambda_eff` value/sign module. It does not reset or replace the earlier component priority trail.
+
 ## Strong-field / black-hole records
 
 - Fixed-sector black-hole exterior no-hair: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
 - Fixed-sector black-hole local support / regular-core obstruction: [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)
+- Conditional black-hole sector-birth benchmark: [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300)
 
-The exterior no-hair record is the clean citation for the theorem that the exact constant mode cannot become smooth radial black-hole exterior hair in one connected membrane-free fixed flux sector. The local-support baseline imports that theorem and extends the audit to static spherical interiors, source-resolved Misner-Sharp mass, local-support tensor reconstruction, and the regular-core obstruction.
+The exterior no-hair record is the clean citation for the theorem that the exact constant mode cannot become smooth radial black-hole exterior hair in one connected membrane-free fixed flux sector. The local-support baseline imports that theorem and extends the audit to static spherical interiors, source-resolved Misner-Sharp mass, local-support tensor reconstruction, and the regular-core obstruction. The sector-birth benchmark is conditional and uses compact local sector-boundary/corner support under strict no-leak locks; it is not a detection claim.
 
 ## Core ontology
 
@@ -57,6 +70,9 @@ Use the most specific DOI:
 - cite the Governance Bridge Law for the source-assignment theorem;
 - cite the Governance Route / Gate Architecture for the ordered route/gate map;
 - cite the CCP synthesis for the three-pillar programme-level CCP claim;
+- cite the Lambda value/sign source-assignment bundle for the consolidated residual `Lambda_eff` value/sign module;
+- cite the operational-conditioning, closeout, UV-derived Lambda, or Positive-Λ component records when the original component claim is the citation target;
 - cite the no-hair black-hole record for the fixed-sector exterior theorem;
 - cite the black-hole local-support baseline for source-resolved interiors and regular-core obstruction;
-- cite the individual value/sign/matter/growth/lensing modules for their own technical claims.
+- cite the black-hole sector-birth benchmark for the conditional compact sector-boundary/corner benchmark;
+- cite the individual matter/growth/lensing modules for their own technical claims.

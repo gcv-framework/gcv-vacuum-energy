@@ -10,7 +10,7 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 **Canonical record:** [Governance Bridge Law — 10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)
 
-**Supporting records:** [Full Governance-UV existence proof v1.2.0 — 10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850). A dedicated source-assignment criterion landing page / DOI should be added here when public.
+**Supporting record:** [Full Governance-UV existence proof v1.2.0 — 10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850).
 
 **Boundary:** This is the upstream source-assignment theorem / admissibility law. It is not the same as the downstream route/gate architecture. It does not remove local excitations or ordinary local gravitating sources.
 
@@ -56,15 +56,31 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 **Boundary:** Interpretation and toy discretuum support. It does not identify `Λ_eff` with the raw absolute offset of a particular UV scalar potential.
 
+## Consolidated Lambda value/sign source-assignment claim
+
+**Claim:** On the source-assigned GR-exact residual branch, value localization and sign selection for a flux-fixed residual `Λ_eff` can be consolidated as a bundled value/sign module importing the public component chain: residual interpretation, operational measurement conditioning, three-bottleneck closeout, UV-derived overlap-share localization, and Positive-Λ sign viability.
+
+**Canonical record:** [Value localization and sign selection for a source-assigned flux-fixed residual cosmological constant Λ_eff — 10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
+
+**Concept DOI:** [10.5281/zenodo.21265552](https://doi.org/10.5281/zenodo.21265552)
+
+**Homepage landing page:** [https://johansson.digital/additional-papers/lambda-value-sign-source-assignment-bundle](https://johansson.digital/additional-papers/lambda-value-sign-source-assignment-bundle)
+
+**OSF backup / registration:** [project](https://osf.io/y93g2/overview) · [registration](https://osf.io/yunjg/overview)
+
+**Boundary:** This is the first public consolidated source-assignment bundled edition of the residual `Λ_eff` value/sign module. It does not reset or replace the earlier component priority trail, and it is not a standalone proof of full GCV programme closure, not a unique UV completion, not a complete cosmological measure, and not a UV theorem forcing `Λ_eff > 0`.
+
 ## Observed-value localization claim
 
 **Claim:** The viable residual support for `Λ_eff` can be localized near the observed scale through operational conditioning, three-bottleneck closeout, and UV budget-partition / overlap-share mechanisms.
 
-**Canonical records:**
+**Canonical component records:**
 
 - [Operational conditioning — 10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993)
 - [Three-bottleneck closeout — 10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607)
 - [UV budget-partition / derived-Lambda mechanism — 10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689)
+
+**Consolidated front-door record:** [Lambda value/sign source-assignment bundle — 10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
 
 **Boundary:** Narrow UV-selected discretuum near the observed scale, not a unique continuous value.
 
@@ -72,7 +88,9 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 **Claim:** Once the magnitude window is fixed, late-time viability suppresses the negative branch and realizes positive Λ in a modular operational sense.
 
-**Canonical record:** [Positive-Λ module — 10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)
+**Canonical component record:** [Positive-Λ module — 10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)
+
+**Consolidated front-door record:** [Lambda value/sign source-assignment bundle — 10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
 
 **Boundary:** Late-time viability/sign-selection result, not a UV theorem forcing Λ > 0.
 
@@ -107,6 +125,20 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 **OSF backup / registration:** [project](https://osf.io/y2eut/overview) · [registration](https://osf.io/gpsxd/overview)
 
 **Boundary:** This is a fixed-sector support theorem and no-leak baseline for black-hole interiors. It is not a new black-hole metric proposal, not a singularity-resolution theorem, not evaporation, not information loss, not a rotating Kerr-interior calculation, and not an observational black-hole measurement.
+
+## Conditional black-hole sector-birth benchmark claim
+
+**Claim:** A compact finite-thickness local sector-boundary / corner-stress construction can be written as a conditional GCV-compatible black-hole sector-birth benchmark while preserving fixed-sector no-leak rules: no local constant-mode material, no smooth parent-sector `Λ(r)` hair, and no child-curvature or repayment leakage into the parent exterior.
+
+**Canonical record:** [A GCV-compatible black-hole sector-birth benchmark — 10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300)
+
+**Concept DOI:** [10.5281/zenodo.20953299](https://doi.org/10.5281/zenodo.20953299)
+
+**Related fixed-sector baseline:** [Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes — 10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)
+
+**OSF backup / registration:** [project](https://osf.io/jhgew/overview) · [registration](https://osf.io/f6tvp/overview)
+
+**Boundary:** Conditional benchmark only. It is not a gravitational-wave detection claim, not event evidence, not a singularity-resolution theorem, not a cosmic-cycle claim, not a full quantum-gravity endpoint, and not a constant-mode leak.
 
 ## Visible matter-branch / baryogenesis claim
 
