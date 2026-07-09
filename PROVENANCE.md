@@ -40,6 +40,7 @@ This file records the public provenance trail for the GCV framework records. The
 ## GR-exact backbone / radiative-stability backbone
 
 - Concept DOI: [10.5281/zenodo.17636209](https://doi.org/10.5281/zenodo.17636209)
+- First public version DOI: [10.5281/zenodo.17636210](https://doi.org/10.5281/zenodo.17636210)
 - Current canonical DOI: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
 - Current date: 2026-01-04
 - OSF backup: —
@@ -68,6 +69,20 @@ This file records the public provenance trail for the GCV framework records. The
 
 ## Lambda/value/sign records
 
+### Consolidated Lambda value/sign source-assignment bundle
+
+- Title: **Value localization and sign selection for a source-assigned flux-fixed residual cosmological constant Λ_eff**
+- Concept DOI: [10.5281/zenodo.21265552](https://doi.org/10.5281/zenodo.21265552)
+- Version DOI v1.0.0: [10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
+- Public release date: 2026-07-09
+- Homepage landing page: [https://johansson.digital/additional-papers/lambda-value-sign-source-assignment-bundle](https://johansson.digital/additional-papers/lambda-value-sign-source-assignment-bundle)
+- Main manuscript PDF: [https://johansson.digital/additional-papers/GCV_Lambda_value_sign_source_assignment_v1_0_0.pdf](https://johansson.digital/additional-papers/GCV_Lambda_value_sign_source_assignment_v1_0_0.pdf)
+- Online Resource 1 / ESM: [https://johansson.digital/additional-papers/GCV_Lambda_value_sign_ESM1_v1_0_0.pdf](https://johansson.digital/additional-papers/GCV_Lambda_value_sign_ESM1_v1_0_0.pdf)
+- OSF backup: [https://osf.io/y93g2/overview](https://osf.io/y93g2/overview)
+- OSF registration: [https://osf.io/yunjg/overview](https://osf.io/yunjg/overview)
+- Role: first public consolidated source-assignment bundled edition of the residual `Λ_eff` value/sign module.
+- Boundary: not the first public disclosure of the component claims; does not reset or replace the component priority trail; not a standalone proof of full GCV programme closure, not a unique UV completion, not a complete cosmological measure, and not a UV theorem forcing `Λ_eff > 0`.
+
 ### Residual Λ_eff / squashing-remnant interpretation
 
 - Concept DOI: [10.5281/zenodo.17707787](https://doi.org/10.5281/zenodo.17707787)
@@ -94,6 +109,7 @@ This file records the public provenance trail for the GCV framework records. The
 ### UV budget-partition / derived-Lambda mechanism
 
 - Concept DOI: [10.5281/zenodo.18827508](https://doi.org/10.5281/zenodo.18827508)
+- First public version DOI: [10.5281/zenodo.18827509](https://doi.org/10.5281/zenodo.18827509)
 - Current DOI: [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689)
 - Current date: 2026-03-05
 - OSF backup: [https://osf.io/kjgqe/overview](https://osf.io/kjgqe/overview)
@@ -149,6 +165,17 @@ This file records the public provenance trail for the GCV framework records. The
 - Related exterior theorem: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
 - Role: standalone fixed-sector black-hole support-baseline record; imports the exterior no-hair theorem and extends the analysis to source-resolved Misner-Sharp mass, local-support tensor reconstruction, regular-core obstruction, fixed-sector/inter-sector thermodynamic separation, membrane/junction handoff, and black-hole no-leak tests.
 - Boundary: not a new black-hole metric proposal, not a singularity-resolution theorem, not evaporation, not information loss, not a rotating Kerr-interior calculation, and not an observational black-hole measurement. It fixes what the exact spacetime-constant vacuum mode cannot become inside one lawful fixed sector.
+
+### Conditional black-hole sector-birth benchmark
+
+- Concept DOI: [10.5281/zenodo.20953299](https://doi.org/10.5281/zenodo.20953299)
+- Version DOI v1.0.0: [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300)
+- Public release date: 2026-06-27
+- Homepage landing page: [https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark](https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark)
+- OSF backup: [https://osf.io/jhgew/overview](https://osf.io/jhgew/overview)
+- OSF registration: [https://osf.io/f6tvp/overview](https://osf.io/f6tvp/overview)
+- Role: conditional compact sector-boundary/corner benchmark for a GCV-compatible black-hole interior sector transition under strict no-leak locks.
+- Boundary: not a gravitational-wave detection claim, not event evidence, not a singularity-resolution theorem, not a cosmic-cycle claim, and not a constant-mode leak.
 
 ### Growth Sector in GCV
 
