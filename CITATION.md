@@ -96,6 +96,25 @@ Formal citation:
 Johansson, G. (2026). No constant-mode hair in fixed-sector black-hole exteriors of flux-fixed general relativity (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20473764
 ```
 
+Concept DOI for the evolving no-hair record family:
+
+```text
+https://doi.org/10.5281/zenodo.20473763
+```
+
+Homepage landing page:
+
+```text
+https://johansson.digital/additional-papers/gcv-black-hole-no-hair
+```
+
+OSF backup and registration:
+
+```text
+https://osf.io/exsu6/overview
+https://osf.io/r2xtz/overview
+```
+
 ## Black-hole / local-support baseline citation
 
 Use the local-support baseline DOI when citing the fixed-sector black-hole interior support claim: fixed `Lambda_eff` can contribute cosmological curvature, but the exact spacetime-constant vacuum mode cannot become local black-hole substance, local pressure fluid, local hair, or local regular-core support. A de Sitter-like core whose curvature differs from the fixed flux-sector value requires explicit local support or a lawful sector, boundary, or strong-field mechanism.
@@ -108,6 +127,25 @@ Formal citation:
 Johansson, G. (2026). Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes: No constant-mode hair, source-resolved Misner-Sharp mass, and regular-core obstruction (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20636356
 ```
 
+Concept DOI for the evolving black-hole local-support baseline record family:
+
+```text
+https://doi.org/10.5281/zenodo.20636355
+```
+
+Homepage landing page:
+
+```text
+https://johansson.digital/additional-papers/gcv-black-hole-local-support
+```
+
+OSF backup and registration:
+
+```text
+https://osf.io/y2eut/overview
+https://osf.io/gpsxd/overview
+```
+
 ## Black-hole sector-birth benchmark citation
 
 Use the sector-birth benchmark DOI when citing the conditional compact finite-thickness local sector-boundary / corner-stress construction that remains downstream of the fixed-sector black-hole baseline and preserves the GCV source-assignment rule.
@@ -118,6 +156,25 @@ Formal citation:
 
 ```text
 Johansson, G. (2026). A GCV-compatible black-hole sector-birth benchmark: finite-thickness corner support, child flux label, and high-mass reset candidates (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20953300
+```
+
+Concept DOI for the evolving black-hole sector-birth benchmark record family:
+
+```text
+https://doi.org/10.5281/zenodo.20953299
+```
+
+Homepage landing page:
+
+```text
+https://johansson.digital/additional-papers/gcv-black-hole-sector-birth-benchmark
+```
+
+OSF backup and registration:
+
+```text
+https://osf.io/jhgew/overview
+https://osf.io/f6tvp/overview
 ```
 
 ## Repository citation
