@@ -2,6 +2,8 @@
 
 This note indexes the July 2026 consolidated Lambda value/sign record in the GCV route map.
 
+> **Current status - 27 July 2026:** Conditional and reproducible, not withdrawn. The calculations retain their stated conditional meaning, but the provenance-preserving microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open. The provenance-typed source law does not determine the observed value or sign of `Lambda_eff`.
+
 ## Record identity
 
 **Title:** Value localization and sign selection for a source-assigned flux-fixed residual cosmological constant `Λ_eff`
@@ -17,7 +19,7 @@ This note indexes the July 2026 consolidated Lambda value/sign record in the GCV
 
 ## Route role
 
-This is the first public consolidated source-assignment bundled edition of the residual `Λ_eff` value/sign module. It imports the source-assigned GR-exact branch and consolidates the public component chain:
+This is the first public consolidated source-assignment bundled edition of the residual `Λ_eff` value/sign calculations. Under the archived assumptions, it consolidates the public component chain:
 
 - GR-exact/source-assignment backbone;
 - residual `Λ_eff` interpretation;
@@ -28,7 +30,7 @@ This is the first public consolidated source-assignment bundled edition of the r
 
 ## Citation use
 
-Use this record when citing the consolidated source-assigned residual `Λ_eff` value/sign module.
+Use this record when citing the consolidated archived residual `Λ_eff` value/sign calculations and state their conditional, under-re-audit status.
 
 Use the component records when citing the original timestamped technical component claims:
 
@@ -39,10 +41,10 @@ Use the component records when citing the original timestamped technical compone
 
 ## Boundary
 
-This record does not reset or replace the earlier component priority trail. It is not a standalone proof of full GCV programme closure, not a unique ultraviolet completion, not a complete cosmological measure, and not a UV theorem forcing `Λ_eff > 0`.
+This record does not reset or replace the earlier component priority trail. It is not a standalone proof of full GCV programme closure, not a unique ultraviolet completion, not a complete cosmological measure, not a UV theorem forcing `Λ_eff > 0`, and not a presently established microscopic map from the archived overlap variables to `K_phys` and geometric `Lambda_eff`.
 
 ## Short indexing phrase
 
 ```text
-GCV Lambda value/sign source-assignment bundle: consolidated residual Lambda_eff value localization and sign selection on the source-assigned GR-exact branch.
+GCV Lambda value/sign source-assignment bundle: conditional archived value-localization and sign-selection calculations under re-audit; the microscopic overlap-to-K_phys/geometric-Lambda_eff map remains open.
 ```

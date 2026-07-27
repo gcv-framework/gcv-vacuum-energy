@@ -2,31 +2,50 @@
 
 Use the most specific DOI for the claim being cited. This repository is a hub/index; the authoritative records are the DOI archives.
 
+For current status and claim boundaries, read [CURRENT_STATUS.md](CURRENT_STATUS.md). Historical titles and DOI records remain citable for the exact archived calculation or claim they contain.
+
 ## Main citation anchors
 
 | Claim / use case | Cite this record |
 |---|---|
-| Source-assignment law / Governance Bridge theorem | Governance Bridge Law — [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
-| Ordered route from Governance Bridge admissibility to GR-exact landing and downstream gates | Governance Route / Gate Architecture — [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
-| GR-exact local equation and radiative-stability backbone | Radiative-stability backbone — [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371) |
-| Programme-level CCP synthesis | Flagship CCP synthesis — [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395) |
-| Logical closure / proof spine | Logical closure note — [10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693) |
+| Accepted conditional local source-split theorem | *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*; accepted by RAPS, manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending |
+| Proposed stronger fixed-physical-branch source law | *A provenance-typed source law for exact vacuum zero modes* — [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) |
+| Historical Governance Bridge architecture | Governance Bridge Law — [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
+| Historical ordered gate architecture | Governance Route / Gate Architecture — [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
+| Historical GR-exact local-equation backbone | Radiative-stability backbone — [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371) |
+| Historical programme-level CCP synthesis | Flagship CCP synthesis — [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395) |
+| Historical logical-closure spine | Logical closure note — [10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693) |
 | Residual Λ_eff / squashing-remnant interpretation | Residual Λ_eff record — [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
-| Consolidated source-assigned Lambda value/sign module | Lambda value/sign source-assignment bundle — [10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553) |
-| Operational value selection / numerical Λ selection | Operational conditioning bundle — [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993) |
-| Near-unity closeout gate | Three-bottleneck closeout — [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607) |
-| UV-derived Λ / budget-partition mechanism | UV budget-partition mechanism — [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689) |
-| Positive Λ / sign-selection module | Positive-Λ module — [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624) |
-| Governance-UV benchmark mapping | Full Governance-UV existence proof v1.2.0 — [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850) |
+| Conditional Lambda value/sign calculations under re-audit | Lambda value/sign source-assignment bundle — [10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553) |
+| Conditional operational value-selection calculation | Operational conditioning bundle — [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993) |
+| Conditional near-unity closeout calculation | Three-bottleneck closeout — [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607) |
+| Historical UV budget-partition benchmark | UV budget-partition mechanism — [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689) |
+| Conditional Positive-Lambda sign/lifetime calculation | Positive-Lambda module — [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624) |
+| Historical Governance-UV/CFI mapping, superseded as foundation | Full Governance-UV existence proof v1.2.0 — [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850) |
 | Visible-matter / shell baryogenesis | Visible matter-branch baryogenesis — [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255) |
 | Matter-shell throughput and growth viability | Matter-shell throughput / growth diagnostic — [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396) |
 | Gravity role map | Gravity in GCV v1.0.0 — [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
 | Fixed-sector black-hole/no-hair compatibility | No constant-mode hair in fixed-sector black-hole exteriors v1.0.0 — [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764) |
 | Fixed-sector black-hole local support / regular-core obstruction | Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes v1.0.0 — [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356) |
 | Conditional black-hole sector-birth benchmark | A GCV-compatible black-hole sector-birth benchmark v1.0.0 — [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300) |
-| Growth-sector response / falsifier interface | Growth Sector in GCV v2.0.0 — [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073) |
-| Bounded-geometry transients | Bounded Geometry Transients in GCV v3.0.0 — [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080) |
-| Lensing-sector response dictionary | Lensing Sector in GCV v1.0.0 — [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) |
+| Historical nonzero Growth response benchmark, superseded as prediction | Growth Sector in GCV v2.0.0 — [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073) |
+| Conditional bounded-transient benchmark without occurrence | Bounded Geometry Transients in GCV v3.0.0 — [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080) |
+| Historical non-GR Lensing response benchmark, superseded as prediction | Lensing Sector in GCV v1.0.0 — [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) |
+| Surviving DESI fixed-template phenomenological likelihood | DESI DR1 ShapeFit+BAO growth-ratio likelihood constraints v2.0.0 — [10.5281/zenodo.18514836](https://doi.org/10.5281/zenodo.18514836) |
+
+## July 2026 source stack
+
+Use the accepted RAPS paper for the conditional local H01-H04 source-split theorem. Until its publisher DOI is assigned, identify it by title, journal-acceptance status, and manuscript number.
+
+Use [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) for the proposed provenance-typed fixed-physical-branch source law. Describe it as an author preprint whose all-order no-transfer result is conditional on its stated closure hypotheses. Do not cite it as a peer-reviewed UV completion, a Ward-identity derivation, or a value/sign theorem.
+
+Formal preprint citation:
+
+```text
+Johansson, G. (2026). A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21590693
+```
+
+The technical companion shares this DOI and is a supporting author-controlled, AI-assisted verification/reproducibility file. It is not a separate scientific record or independent review.
 
 ## July 2026 Lambda value/sign bundle
 
@@ -40,7 +59,7 @@ Use the most specific DOI for the claim being cited. This repository is a hub/in
 - OSF project: [https://osf.io/y93g2/overview](https://osf.io/y93g2/overview)
 - OSF registration: [https://osf.io/yunjg/overview](https://osf.io/yunjg/overview)
 
-Use this record when citing the consolidated source-assigned residual `Λ_eff` value/sign module. Use the component records when citing the original operational-conditioning, closeout, UV-derived localization, or Positive-Λ sign-viability claims.
+Use this record when citing the consolidated archived residual `Λ_eff` value/sign calculations. State that they are conditional and under re-audit because the microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open. Use the component records when citing the original operational-conditioning, closeout, UV-derived localization, or Positive-Λ calculations.
 
 Formal citation:
 
@@ -51,7 +70,7 @@ Johansson, G. (2026). Value localization and sign selection for a source-assigne
 Boundary:
 
 ```text
-This is the first public consolidated source-assignment bundled edition of the residual Λ_eff value/sign module. It does not reset or replace the earlier component priority trail and does not claim a standalone proof of full GCV programme closure, a unique ultraviolet completion, a complete cosmological measure, or a UV theorem forcing Λ_eff > 0.
+This is the first public consolidated source-assignment bundled edition of the residual Λ_eff value/sign calculations. It is conditional and under re-audit, does not reset or replace the earlier component priority trail, and does not establish a microscopic overlap-to-K_phys/geometric-Lambda_eff map, full GCV programme closure, a unique ultraviolet completion, a complete cosmological measure, or a UV theorem forcing Lambda_eff > 0.
 ```
 
 ## May–July 2026 record concept/version DOI distinction
@@ -68,9 +87,9 @@ This is the first public consolidated source-assignment bundled edition of the r
 
 ## Governance Route citation
 
-Use the Governance Route / Gate Architecture DOI when citing the ordered route from Governance Bridge admissibility to GR-exact landing and downstream matter-bearing / growth-viability gates.
+Use the Governance Route / Gate Architecture DOI when citing the historical ordered route from Governance Bridge admissibility to GR-exact landing and downstream matter-bearing / growth-viability gates.
 
-Use the Governance Bridge Law DOI when citing the source-assignment theorem itself.
+Use the Governance Bridge Law DOI only for the historical architecture and priority record. Use the accepted RAPS paper for the current conditional local theorem.
 
 Formal citation:
 

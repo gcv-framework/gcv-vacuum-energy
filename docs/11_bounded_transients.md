@@ -1,8 +1,10 @@
 # Bounded Geometry Transients in GCV
 
+> **Current status - 27 July 2026:** Conditional benchmark without an occurrence theorem. The BD-B profile, d-band alignment, and inverse-solved targets remain reproducible conditional constructions; no extra geometry transient is presently derived. Absent a separate lawful source theorem, `delta_geo(a) = 0`.
+
 ## Role
 
-Bounded-geometry-transients source-clock d-band alignment, rank diagnostic, and inverse-solved closure-target metadata record.
+Conditional bounded-geometry-transients source-clock d-band alignment, rank diagnostic, and inverse-solved target metadata record.
 
 ## Canonical record
 

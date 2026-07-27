@@ -1,5 +1,7 @@
 # Governance Route / Gate Architecture
 
+> **Current status - 27 July 2026:** The ordering remains useful as a historical route ledger. Its downstream gate-closure labels must not be read as current validation of G2-G6, and the record does not prove the accepted Source-Assignment theorem or the proposed provenance-typed source law. See [Current Scientific Status](../CURRENT_STATUS.md).
+
 ## Role
 
 Canonical Governance-route / gate-architecture record.

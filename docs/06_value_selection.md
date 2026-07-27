@@ -1,5 +1,7 @@
 # Numerical Lambda selection / selection posterior
 
+> **Current status - 27 July 2026:** Conditional component under the Lambda value/sign re-audit. The archived calculations remain reproducible under their stated inputs, but they do not currently establish a microscopic selection of geometric `Lambda_eff`.
+
 ## Role
 
 Numerical selection of Lambda_eff on GR-exact branch.

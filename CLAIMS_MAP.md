@@ -2,27 +2,39 @@
 
 This file maps claims to their canonical DOI records. It is not a new scientific record.
 
-## Governance Bridge / source-assignment claim
+## Accepted Source-Assignment claim
 
-**Claim:** The core GCV priority claim is a source-assignment criterion for exact spacetime-constant vacuum shifts: under explicit no-leak conditions, the exact zero mode renormalizes the global flux/topological sector rather than an independently running local cosmological-constant coupling.
+**Claim:** Under H01-H04, the exact spacetime-constant vacuum zero mode is excluded from primitive local stress and the selected fixed-sector local equation has Einstein form, while ordinary retained local excitations gravitate normally.
 
-Local matter, radiation, fields, curvature-dependent terms, shells, semiclassical stress, perturbations, and other local excitations remain in the local stress tensor and gravitate normally. The source-assignment claim concerns only the exact spacetime-constant vacuum zero mode.
+**Current record:** *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*, accepted for publication in *Reports in Advances of Physical Sciences*, manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending.
 
-**Canonical record:** [Governance Bridge Law — 10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)
+**Boundary:** This is a conditional local source-split theorem. H04 is a defining admissibility/operator-class restriction and pass/fail condition for candidate microscopic realizations, not a theorem derived from a complete UV theory. The paper does not determine the value or sign of `Lambda_eff`, and its broader branch-relabeling language does not establish strict fixed-physical-branch no-transfer.
 
-**Supporting record:** [Full Governance-UV existence proof v1.2.0 — 10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850).
+## Proposed provenance-typed source-law claim
 
-**Boundary:** This is the upstream source-assignment theorem / admissibility law. It is not the same as the downstream route/gate architecture. It does not remove local excitations or ordinary local gravitating sources.
+**Claim:** Conditional on exhaustive provenance saturation, quotient/projection before source variation, triangular and natural transport of admitted quantum and interface operations, the required ordering, and an independently fixed compact datum `K_phys`, the protected matter-zero lineage has zero retained local-source image and zero fixed-branch `K_phys`/`Lambda_eff` image. The conditional closure theorem covers any finite composition of admitted operations. Separately, the scalar host establishes matter-side additive-shift nonbackflow at each finite perturbative order; it does not derive the primitive source or fixed-`K` axioms.
+
+**Current proposed record:** [A provenance-typed source law for exact vacuum zero modes — 10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+
+**Boundary:** Author preprint v1.0.0, not peer reviewed. The source law is postulated as primitive framework structure and is not derived from a known parent Ward identity. It is not a complete UV or quantum-gravity completion, does not prove nonperturbative or unrestricted-boundary closure, and does not determine the observed value or sign of `Lambda_eff`.
+
+## Historical Governance Bridge claim
+
+**Historical claim:** The earlier Governance Bridge records formulate a UV-facing source-assignment architecture and broader global branch-relabeling language.
+
+**Historical record:** [Governance Bridge Law — 10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)
+
+**Current boundary:** This record preserves the architecture and priority trail. It is not the accepted RAPS local theorem and its broader global language is not evidence for the stricter fixed-physical-branch no-transfer condition.
 
 ## Governance-route / gate-architecture claim
 
-**Claim:** The GCV route from IR source-assignment backbone to UV-facing admissibility, GR-exact landing, and downstream branch-viability gates can be represented as a two-layer route ledger.
+**Claim:** The historical GCV route from IR source-assignment backbone to UV-facing admissibility, GR-exact landing, and downstream branch-viability gates can be represented as a two-layer route ledger.
 
 **Canonical record:** [Governance Route / Gate Architecture — 10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 
 **Concept DOI:** [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410)
 
-**Boundary:** This is a route and claim-boundary ledger. It does not re-prove the Governance Bridge Law, the CCP synthesis, the value-selection modules, the Positive-Lambda module, the visible-matter module, or the matter-shell diagnostic.
+**Boundary:** This remains an organizational route and claim-boundary ledger. It does not re-prove the accepted Source-Assignment theorem or the proposed provenance-typed source law, and it does not establish that its downstream gates are currently closed.
 
 ## GR-exact branch / radiative-stability claim
 
@@ -30,35 +42,35 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 **Canonical record:** [Radiative-stability backbone — 10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
 
-**Boundary:** Conditional EFT/operator-level claim. It depends on the stated operator inventory and red-line exclusions.
+**Boundary:** Historical GR-exact landing/backbone record. Its local Einstein-form equation survives; cite the accepted RAPS paper for the current conditional theorem and the provenance-typed preprint for the proposed stronger fixed-branch source law.
 
 ## Programme-level CCP synthesis claim
 
-**Claim:** Within the GR-exact branch and module assumptions, GCV addresses the three classical CCP pillars: radiative stability, observed-value localization of residual `Λ_eff`, and positive-Λ realization.
+**Historical claim:** Within the GR-exact branch and the then-stated module assumptions, GCV was presented as addressing the three classical CCP pillars: radiative stability, observed-value localization of residual `Λ_eff`, and positive-Λ realization.
 
 **Canonical record:** [Flagship CCP synthesis — 10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395)
 
-**Boundary:** Programme-level synthesis. It does not claim a unique UV completion, a unique continuous first-principles endpoint for Λ, or a UV theorem fixing the sign.
+**Current boundary:** Historical programme synthesis. Its full-closure interpretation is under re-audit because Governance-UV/CFI no longer supplies the accepted microscopic/source basis for the value/sign chain.
 
 ## Logical closure claim
 
-**Claim:** The modular CCP closure claim follows by composing completed modules: backbone/radiative stability, magnitude localization, and positive-Λ viability.
+**Historical claim:** The modular CCP closure claim was obtained by composing the then-designated backbone/radiative-stability, magnitude-localization, and positive-Λ modules.
 
 **Canonical record:** [Logical closure note — 10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693)
 
-**Boundary:** Logic spine only. It introduces no new fits, priors, scans, or code.
+**Current boundary:** Historical logic spine only. It introduces no new fits, priors, scans, or code, and it is not a current independent proof of full programme closure.
 
 ## Residual Λ_eff claim
 
-**Claim:** The observed late-time `Λ_eff` can be interpreted as a flux-fixed residual / squashing remnant of the global neutralization of strictly constant vacuum contributions.
+**Historical interpretation:** The record presents `Lambda_eff` as a flux-fixed residual / squashing remnant.
 
 **Canonical record:** [Residual Λ_eff — 10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470)
 
-**Boundary:** Interpretation and toy discretuum support. It does not identify `Λ_eff` with the raw absolute offset of a particular UV scalar potential.
+**Current boundary:** The retained statement is that `Lambda_eff` is a global/geometric branch label rather than local vacuum matter. The record supplies an interpretation and toy discretuum support; it does not establish that the protected matter-zero lineage is transferred into `K_phys` or `Lambda_eff`, identify `Lambda_eff` with the raw absolute offset of a particular UV scalar potential, or close the microscopic branch-selection map.
 
 ## Consolidated Lambda value/sign source-assignment claim
 
-**Claim:** On the source-assigned GR-exact residual branch, value localization and sign selection for a flux-fixed residual `Λ_eff` can be consolidated as a bundled value/sign module importing the public component chain: residual interpretation, operational measurement conditioning, three-bottleneck closeout, UV-derived overlap-share localization, and Positive-Λ sign viability.
+**Conditional claim:** On the source-assigned GR-exact residual branch and under the archived benchmark inputs, the record consolidates the value-localization and sign-selection calculations from the public component chain.
 
 **Canonical record:** [Value localization and sign selection for a source-assigned flux-fixed residual cosmological constant Λ_eff — 10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
 
@@ -68,11 +80,11 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 **OSF backup / registration:** [project](https://osf.io/y93g2/overview) · [registration](https://osf.io/yunjg/overview)
 
-**Boundary:** This is the first public consolidated source-assignment bundled edition of the residual `Λ_eff` value/sign module. It does not reset or replace the earlier component priority trail, and it is not a standalone proof of full GCV programme closure, not a unique UV completion, not a complete cosmological measure, and not a UV theorem forcing `Λ_eff > 0`.
+**Current boundary:** Conditional and reproducible, not withdrawn. It does not reset or replace the component priority trail. The microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open, so the record does not currently establish physical value/sign closure. The provenance-typed source law does not determine the observed value or sign of `Lambda_eff`.
 
 ## Observed-value localization claim
 
-**Claim:** The viable residual support for `Λ_eff` can be localized near the observed scale through operational conditioning, three-bottleneck closeout, and UV budget-partition / overlap-share mechanisms.
+**Conditional claim:** Under the archived inputs, viable residual support for `Λ_eff` is numerically localized near the observed scale through operational conditioning, three-bottleneck closeout, and the UV budget-partition / overlap-share benchmarks.
 
 **Canonical component records:**
 
@@ -82,25 +94,25 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 **Consolidated front-door record:** [Lambda value/sign source-assignment bundle — 10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
 
-**Boundary:** Narrow UV-selected discretuum near the observed scale, not a unique continuous value.
+**Current boundary:** Reproducible conditional calculation under re-audit, not a presently established microscopic selection of the geometric `Lambda_eff` branch and not a unique continuous value.
 
 ## Positive-Λ claim
 
-**Claim:** Once the magnitude window is fixed, late-time viability suppresses the negative branch and realizes positive Λ in a modular operational sense.
+**Conditional claim:** Once the archived magnitude window is assumed, the late-time viability calculation suppresses the negative branch in a modular operational sense.
 
 **Canonical component record:** [Positive-Λ module — 10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)
 
 **Consolidated front-door record:** [Lambda value/sign source-assignment bundle — 10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
 
-**Boundary:** Late-time viability/sign-selection result, not a UV theorem forcing Λ > 0.
+**Current boundary:** Conditional sign/lifetime benchmark under re-audit, not a current UV derivation or theorem forcing `Lambda_eff > 0`.
 
-## UV benchmark claim
+## Historical Governance-UV benchmark claim
 
-**Claim:** At least one semi-explicit UV benchmark provides an auditable UV→EFT mapping compatible with the GCV constant-mode split and response sector.
+**Historical claim:** Governance-UV v1.2.0 presented a semi-explicit CFI Section 6.2 UV-to-EFT and response mapping.
 
 **Canonical record:** [Full Governance-UV existence proof v1.2.0 — 10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850)
 
-**Boundary:** Benchmark-scoped existence proof and parameter mapping, not a full landscape classification or universality theorem.
+**Current boundary:** Historical record. It is superseded as the proposed basis for GCV radiative stability and as the Route-B/CFI/PB response anchor. Its DOI, files, and historical calculations remain preserved.
 
 ## Fixed-sector black-hole/no-hair compatibility claim
 
@@ -158,8 +170,32 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 
 ## Growth-sector observational target claim
 
-**Claim:** On the GR-exact branch, late-time geometry should remain Λ-like while any near-term nontrivial signal is most naturally sought as a small coherent perturbation-sector tilt in growth and possibly lensing.
+**Historical claim:** The archived record proposed a small coherent nonzero perturbation-sector growth response on a fixed GR+`Lambda_eff` background.
 
 **Canonical record:** [Growth Sector in GCV v2.0.0 — 10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
 
-**Boundary:** Survey-facing target and falsifier interface, not a detection claim or full joint likelihood.
+**Current boundary:** Superseded as a derived nonzero GCV prediction. The archived response law and vectors remain conditional benchmarks. At the presently established landing, the extra response amplitude is `epsilon = 0`; ordinary GR+`Lambda_eff` structure growth remains.
+
+## Bounded-transient / SourceClock claim
+
+**Conditional claim:** The archived SourceClock v3.0.0 record defines a reproducible bounded-transient profile, d-band alignment, and inverse-solved targets.
+
+**Canonical archive:** [Bounded Geometry Transients in GCV v3.0.0 — 10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)
+
+**Current boundary:** Conditional benchmark without an occurrence theorem. The former Governance-UV chain does not establish physical activation. Absent a separate lawful source theorem, the additional geometry response is `delta_geo(a) = 0`.
+
+## Lensing-sector claim
+
+**Historical claim:** The archived record proposed a governed-slip/non-GR lensing response dictionary.
+
+**Canonical archive:** [Lensing Sector in GCV v1.0.0 — 10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158)
+
+**Current boundary:** Superseded as a derived non-GR GCV lensing prediction. Standard GR+`Lambda_eff` lensing remains.
+
+## DESI DR1 fixed-template likelihood claim
+
+**Surviving claim:** The v2.0.0 archive provides a reproducible compressed DESI DR1 likelihood constraint on two specified fixed growth-response templates. Neither template shows a statistically meaningful preference for a nonzero amplitude.
+
+**Canonical archive:** [DESI DR1 ShapeFit+BAO growth-ratio likelihood constraints — 10.5281/zenodo.18514836](https://doi.org/10.5281/zenodo.18514836)
+
+**Current boundary:** Phenomenological fixed-template constraint, not a constraint on a presently derived nonzero GCV prediction. PB1/PB2 are archived reference amplitudes, and the current extra-response baseline within the parametrization is `epsilon = 0`.

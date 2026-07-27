@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased - 2026-07-27
+
+- Added the accepted RAPS Source-Assignment status (publisher DOI pending) and indexed the proposed provenance-typed source law v1.0.0, [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693).
+- Reclassified Governance Bridge as historical/supporting architecture and Governance-UV v1.2.0 / CFI Section 6.2 as superseded for the radiative-stability and response/PB foundation.
+- Reclassified the Lambda value/sign chain as conditional and under re-audit, Growth and Lensing as superseded nonzero predictions, Bounded Transients as a conditional benchmark without occurrence, and DESI v2.0.0 as surviving fixed-template phenomenology.
+- Preserved all historical titles, DOI/version relations, dates, OSF links, registrations, archived files, and prior changelog entries.
+
 ## v1.0.3 — 2026-06-01
 
 - Added June 2026 metadata for No constant-mode hair in fixed-sector black-hole exteriors of flux-fixed general relativity v1.0.0: version DOI [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764), concept DOI [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763).

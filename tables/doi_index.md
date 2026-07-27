@@ -1,5 +1,21 @@
 # DOI Index
 
+## Current interpretation - 27 July 2026
+
+This status overlay controls interpretation; the 35-row ledger below preserves historical titles, priority tiers, DOI/version relations, dates, and OSF records unchanged.
+
+| Record | DOI / identifier | Current status |
+|---|---|---|
+| Accepted RAPS Source-Assignment paper | Manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending | Accepted conditional H01-H04 local source-split theorem. |
+| Provenance-typed source law v1.0.0 | [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) | Proposed stronger fixed-physical-branch source law under explicit closure hypotheses; author preprint, not a complete UV/quantum-gravity completion. |
+| Governance Bridge Law, row 01 | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) | Historical/supporting architecture and priority record. |
+| Lambda value/sign chain, rows 07-12 | See ledger | Conditional/reproducible and under re-audit; microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open. |
+| Governance-UV / CFI, row 14 | [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850) | Historical; superseded as radiative-stability foundation and response/PB anchor. |
+| DESI response likelihood, row 16 | [10.5281/zenodo.18514836](https://doi.org/10.5281/zenodo.18514836) | Surviving phenomenological fixed-template likelihood; not a current GCV response prediction. |
+| Growth, row 17 | [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073) | Superseded as a derived nonzero GCV prediction. |
+| Bounded Transients, rows 18-19 | See ledger | Conditional benchmarks without an occurrence theorem. |
+| Lensing, row 21 | [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) | Superseded as a derived non-GR GCV prediction. |
+
 | ID | Section | Module | Priority | Include | Concept DOI | First version DOI | Current DOI | Current date | OSF backup | OSF registration | Notes |
 |---:|---|---|---|---|---|---|---|---|---|---|---|
 | 01 | A. Highest priority | Governance Bridge Law | Critical | Yes | [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380) | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) | 2026-04-21 | [backup](https://osf.io/e3qy8/overview) | [registration](https://osf.io/fv94u/overview) | Upstream source-assignment theorem / UV-facing admissibility law. |

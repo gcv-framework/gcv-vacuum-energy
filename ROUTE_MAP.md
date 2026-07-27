@@ -2,39 +2,54 @@
 
 This file is the dependency route for the GCV programme. It is not a new scientific claim; it indexes the existing DOI and OSF records.
 
+## Current reading - 27 July 2026
+
+[CURRENT_STATUS.md](CURRENT_STATUS.md) controls the present interpretation. The tables below preserve historical titles, DOI/version relations, dates, and priority metadata.
+
+- The accepted RAPS Source-Assignment paper is the conditional local source-split theorem; publisher DOI pending.
+- [The provenance-typed source law](https://doi.org/10.5281/zenodo.21590693) is a proposed stronger fixed-physical-branch construction under explicit closure hypotheses.
+- Governance-UV v1.2.0 / CFI Section 6.2 is historical and superseded as the proposed radiative-stability basis and response/PB anchor.
+- Value/sign records are conditional and under re-audit; nonzero growth and lensing predictions are superseded; the bounded transient has no occurrence theorem; DESI survives as fixed-template phenomenology.
+
 ## Core route
 
 ```text
-IR GR-exact source-assignment target
-+
-candidate UV-side realization
-→ Governance Bridge law / UV-facing source-assignment admissibility
-→ GR-exact landed branch
-→ downstream branch-viability gates
-→ observed-branch candidate
+accepted RAPS Source-Assignment theorem
+→ conditional local Einstein-form landing
+
+proposed provenance-typed source law
+→ stronger fixed-physical-branch no-transfer under additional hypotheses
+
+downstream applications
+→ separate source, occurrence, and response derivations
 ```
+
+The earlier Governance Bridge and Governance Route / Gate Architecture remain the historical organizational route. They are not evidence that every downstream gate is presently closed.
 
 ## Layer map
 
 | Layer | What it establishes | Records |
 |---|---|---|
-| Governance bridge | Assigns exact constant vacuum globally and leaves local excitations local. | Governance Bridge Law: [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
-| Governance route / gate architecture | Maps IR backbone + candidate UV-side realization → G0 → GR-exact landed branch → downstream branch-viability gates. | Governance Route / Gate Architecture: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
+| Accepted Source Assignment | Conditional H01-H04 local source split: exact vacuum zero mode excluded from primitive local stress; ordinary local excitations retained. | Accepted RAPS manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending |
+| Proposed provenance-typed source law | Conditionally preserves no transfer of the saturated matter-zero lineage into retained local stress or independent fixed-branch data. | Source-law preprint: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) |
+| Governance bridge | Historical source-assignment architecture and priority record; its broader branch-relabeling language is not strict fixed-branch no-transfer. | Governance Bridge Law: [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
+| Governance route / gate architecture | Historical organizational map from the IR backbone through candidate gates; it does not validate present closure of those gates. | Governance Route / Gate Architecture: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
 | GR-exact branch | Flux-fixed local Einstein equation and branch-scoped source assignment. | GR-exact backbone / radiative-stability backbone: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)<br>Gravity in GCV role map: [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
 | Strong-field / black-hole compatibility | Side audits for fixed-sector black holes: exterior no-hair, interior local-support / regular-core obstruction, and conditional sector-birth benchmark under no-leak locks. | Exterior no-hair theorem: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)<br>Interior local-support / regular-core obstruction baseline: [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)<br>Conditional sector-birth benchmark: [10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300) |
-| Logic / synthesis | One-page, logic spine, and flagship programme synthesis records. | One-page structural interface: [10.5281/zenodo.18899058](https://doi.org/10.5281/zenodo.18899058)<br>Eight-page structural note / logical closure note: [10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693)<br>Flagship CCP synthesis: [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395) |
+| Logic / synthesis | Historical programme-synthesis and closure records; their full-closure interpretation is under re-audit. | One-page structural interface: [10.5281/zenodo.18899058](https://doi.org/10.5281/zenodo.18899058)<br>Eight-page structural note / logical closure note: [10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693)<br>Flagship CCP synthesis: [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395) |
 | Residual Λ_eff | Flux-fixed squashing-remnant / discretuum interpretation. | Residual Lambda_eff / squashing-remnant interpretation: [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
-| Consolidated Lambda value/sign | Source-assigned residual Λ_eff value localization and sign selection bundle. | Lambda value/sign source-assignment bundle: [10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)<br>Landing page: [lambda-value-sign-source-assignment-bundle](https://johansson.digital/additional-papers/lambda-value-sign-source-assignment-bundle) |
-| Component value localization | Numerical selection, operational conditioning, closeout, and UV budget modules. | Numerical Lambda selection / selection posterior: [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993)<br>Three-bottleneck closeout: [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607)<br>UV budget-partition / derived-Lambda mechanism: [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689) |
-| Positive Λ | Late-time viability/sign-selection module. | Positive-Lambda module: [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)<br>Earlier Late-Time Selection and Sign of Lambda_eff bridge note: [10.5281/zenodo.17931117](https://doi.org/10.5281/zenodo.17931117) |
-| UV anchoring | CFI §6.2 benchmark crossing and response map. | Full Governance-UV existence proof / CFI 6.2 benchmark mapping: [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850) |
-| Observational interface | RulerFree, DESI response, growth target, bounded-transient interface. | RulerFree AP+RSD compression: [10.5281/zenodo.18039099](https://doi.org/10.5281/zenodo.18039099)<br>DESI response sector / epsilon constraint: [10.5281/zenodo.18514836](https://doi.org/10.5281/zenodo.18514836)<br>Growth Sector in GCV v2.0.0: [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)<br>Bounded Geometry Transients in GCV v3.0.0: [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)<br>Lensing Sector in GCV v1.0.0: [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) |
-| Matter / shell / gates | Thin-shell baryogenesis, matter-shell throughput diagnostics, and branch-viability route map. | Baryogenesis / visible matter branch: [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255)<br>Matter-shell throughput / growth viability diagnostic: [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396)<br>Governance Route / Gate Architecture: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
+| Consolidated Lambda value/sign | Conditional/reproducible value/sign bundle under re-audit; the microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open. | Lambda value/sign source-assignment bundle: [10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)<br>Landing page: [lambda-value-sign-source-assignment-bundle](https://johansson.digital/additional-papers/lambda-value-sign-source-assignment-bundle) |
+| Component value localization | Historical numerical selection, operational conditioning, closeout, and UV-budget benchmarks; not current physical closure. | Numerical Lambda selection / selection posterior: [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993)<br>Three-bottleneck closeout: [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607)<br>UV budget-partition / derived-Lambda mechanism: [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689) |
+| Positive Λ | Conditional late-time viability/sign-selection benchmark, not an upstream UV sign theorem. | Positive-Lambda module: [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)<br>Earlier Late-Time Selection and Sign of Lambda_eff bridge note: [10.5281/zenodo.17931117](https://doi.org/10.5281/zenodo.17931117) |
+| Historical UV anchoring | CFI Section 6.2 benchmark crossing and response map, superseded as the source-law/radiative-stability basis. | Full Governance-UV existence proof / CFI 6.2 benchmark mapping: [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850) |
+| Observational interface | RulerFree remains an observational interface; DESI survives as fixed-template phenomenology; nonzero Growth/Lensing predictions are superseded; Bounded Transients remains conditional without occurrence. | RulerFree AP+RSD compression: [10.5281/zenodo.18039099](https://doi.org/10.5281/zenodo.18039099)<br>DESI fixed-template response constraint: [10.5281/zenodo.18514836](https://doi.org/10.5281/zenodo.18514836)<br>Growth Sector in GCV v2.0.0: [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)<br>Bounded Geometry Transients in GCV v3.0.0: [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)<br>Lensing Sector in GCV v1.0.0: [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158) |
+| Matter / shell / gates | Separately scoped downstream records. This status update does not reclassify them, and the provenance-typed source law does not establish them automatically. | Baryogenesis / visible matter branch: [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255)<br>Matter-shell throughput / growth viability diagnostic: [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396)<br>Governance Route / Gate Architecture: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
 
 ## Canonical included records
 
 | ID | Module | Priority | Concept DOI | First version DOI/date | Current DOI/date | OSF backup | OSF registration |
 |---:|---|---|---|---|---|---|---|
+| 00 | Provenance-typed source law preprint | Critical | — | [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)<br>2026-07-26 | [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)<br>2026-07-26 | — | — |
 | 01 | Governance Bridge Law | Critical | [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380) | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)<br>2026-04-21 | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)<br>2026-04-21 | [backup](https://osf.io/e3qy8/overview) | [registration](https://osf.io/fv94u/overview) |
 | 02 | Governance Route / Gate Architecture | High | [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410) | [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)<br>2026-04-29 | [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)<br>2026-04-29 | [backup](https://osf.io/vd24w/overview) | [registration](https://osf.io/x6jgu/overview) |
 | 03 | GR-exact backbone / radiative-stability backbone | Critical | [10.5281/zenodo.17636209](https://doi.org/10.5281/zenodo.17636209) | [10.5281/zenodo.17636210](https://doi.org/10.5281/zenodo.17636210)<br>2025-11-18 | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)<br>2026-01-04 | — | — |
@@ -60,7 +75,7 @@ candidate UV-side realization
 
 ## Lambda value/sign bundle note
 
-The July 2026 Lambda value/sign source-assignment bundle is the consolidated front-door citation for the residual `Λ_eff` value/sign module. It does not reset or replace the component records listed above for operational measurement conditioning, three-bottleneck closeout, UV-derived localization, or Positive-Λ sign viability.
+The July 2026 Lambda value/sign source-assignment bundle is the consolidated front-door citation for the archived residual `Λ_eff` value/sign calculations. It does not reset or replace the component records listed above. Its computations retain their stated conditional meaning, but the microscopic overlap-to-`K_phys`/geometric-`Λ_eff` map remains open and the bundle is under re-audit.
 
 ## Strong-field compatibility note
 

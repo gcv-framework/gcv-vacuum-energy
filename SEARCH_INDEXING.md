@@ -2,6 +2,10 @@
 
 This repository is intended to be a public navigation layer for GCV.
 
+## Current-status indexing rule - 27 July 2026
+
+Search descriptions must distinguish current, proposed, conditional, superseded, and historical records. Use [CURRENT_STATUS.md](CURRENT_STATUS.md) as the controlling status page. Preserve exact historical titles and DOI metadata for discoverability, but do not describe every indexed record as a current GCV result.
+
 ## Recommended linking pattern
 
 - Homepage route-map page → GitHub route-map repository
@@ -13,24 +17,34 @@ This repository is intended to be a public navigation layer for GCV.
 
 ## Core GCV priority indexing block
 
-Canonical priority wording:
+Canonical current wording:
 
 ```text
-The core GCV priority claim is a source-assignment criterion for exact spacetime-constant vacuum shifts: under explicit no-leak conditions, the exact zero mode renormalizes the global flux/topological sector rather than an independently running local cosmological-constant coupling.
+The accepted GCV Source-Assignment result is a conditional H01-H04 local source-split theorem: the exact spacetime-constant vacuum zero mode is excluded from primitive local stress, while ordinary local excitations remain in the local stress tensor and gravitate normally.
 
-Local matter, radiation, fields, curvature-dependent terms, shells, semiclassical stress, perturbations, and other local excitations remain in the local stress tensor and gravitate normally. The source-assignment claim concerns only the exact spacetime-constant vacuum zero mode.
+The provenance-typed source-law preprint proposes a stronger fixed-physical-branch no-transfer law under explicit closure hypotheses. It is not a peer-reviewed UV completion or a source law derived from a known parent Ward identity.
 ```
 
-Primary source-assignment DOI:
+Accepted Source-Assignment record:
 
 ```text
-https://doi.org/10.5281/zenodo.19676381
+Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability
+Accepted for publication in Reports in Advances of Physical Sciences
+Manuscript WSPC-RAPS-D-26-00026
+Publisher DOI pending
 ```
 
-Supporting Governance-UV DOI:
+Proposed provenance-typed source-law DOI:
 
 ```text
-https://doi.org/10.5281/zenodo.20103850
+https://doi.org/10.5281/zenodo.21590693
+```
+
+Historical/superseded records:
+
+```text
+Governance Bridge architecture: https://doi.org/10.5281/zenodo.19676381
+Governance-UV/CFI record superseded as radiative-stability foundation: https://doi.org/10.5281/zenodo.20103850
 ```
 
 Core search phrases:
@@ -39,7 +53,21 @@ Core search phrases:
 GCV source-assignment criterion exact spacetime-constant vacuum shifts
 Gauged Constant Vacuum-Mode exact zero mode global flux topological sector
 GCV no-leak source assignment local excitations gravitate normally
+GCV provenance-typed source law fixed-physical-branch no-transfer
 ```
+
+## Provenance-typed source-law indexing block
+
+```text
+Title: A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent
+Author: Germund Johansson
+Version: v1.0.0
+Date: 2026/07/26
+Version DOI: 10.5281/zenodo.21590693
+Status: author preprint; proposed primitive source law under explicit closure hypotheses
+```
+
+The technical companion is a supporting author-controlled, AI-assisted verification and reproducibility file in the same deposit. It has no separate DOI or independent-review authority.
 
 ## Lambda value/sign source-assignment bundle indexing block
 
@@ -112,13 +140,13 @@ Keywords:
 Short description:
 
 ```text
-First public consolidated source-assignment bundled edition of the GCV residual Lambda_eff value/sign module. The record imports the source-assigned GR-exact branch and consolidates residual interpretation, operational measurement conditioning, three-bottleneck closeout, UV-derived overlap-share localization, and Positive-Lambda sign viability into one value/sign manuscript.
+First public consolidated source-assignment bundled edition of the archived GCV residual Lambda_eff value/sign calculations. The calculations are conditional and under re-audit because the microscopic overlap-to-K_phys/geometric-Lambda_eff map remains open.
 ```
 
 Claim boundary:
 
 ```text
-This is a scoped module record. It is not the first public disclosure of the component claims, does not reset or replace the component priority trail, and does not claim full GCV programme closure, a unique ultraviolet completion, a complete cosmological measure, or a UV theorem forcing Lambda_eff > 0.
+This is a conditional and reproducible scoped record, not withdrawn. It is not the first public disclosure of the component claims, does not reset or replace the component priority trail, and does not establish the microscopic overlap-to-K_phys/geometric-Lambda_eff map, full GCV programme closure, a unique ultraviolet completion, a complete cosmological measure, or a UV theorem forcing Lambda_eff > 0.
 ```
 
 Scholar metadata checklist:
@@ -165,11 +193,12 @@ The Governance Route and Gate Architecture of Matter-Bearing Universes in GCV
 Short description:
 
 ```text
-Route/gate architecture record for GCV: IR GR-exact source-assignment target plus candidate UV-side realization through Governance Bridge admissibility into a GR-exact landed branch, followed by downstream residual, sign, matter, shell, growth, observational, and compatibility gates.
+Historical route/gate architecture record for GCV: IR GR-exact source-assignment target plus candidate UV-side realization through Governance Bridge admissibility into a GR-exact landed branch, followed by downstream residual, sign, matter, shell, growth, observational, and compatibility gates. The ordering remains useful, but the record does not establish current closure of all downstream gates.
 ```
 
 ## July 2026 DOI metadata indexing block
 
+- A provenance-typed source law for exact vacuum zero modes v1.0.0: version DOI [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693); date 2026-07-26; proposed source law under explicit closure hypotheses.
 - Value localization and sign selection for a source-assigned flux-fixed residual cosmological constant Lambda_eff v1.0.0: version DOI [10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553); concept DOI [10.5281/zenodo.21265552](https://doi.org/10.5281/zenodo.21265552); OSF Project [https://osf.io/y93g2/overview](https://osf.io/y93g2/overview); OSF Registration [https://osf.io/yunjg/overview](https://osf.io/yunjg/overview); date 2026-07-09.
 
 ## May–June 2026 DOI metadata indexing block
@@ -182,6 +211,17 @@ Route/gate architecture record for GCV: IR GR-exact source-assignment target plu
 - Lensing Sector in GCV v1.0.0: version DOI [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158); concept DOI [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157); OSF Project [https://osf.io/ste46/](https://osf.io/ste46/); OSF Registration [https://osf.io/m8vrb/](https://osf.io/m8vrb/); date 2026-05-12.
 - No constant-mode hair in fixed-sector black-hole exteriors v1.0.0: version DOI [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764); concept DOI [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763); OSF Project [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview); OSF Registration [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview); date 2026-06-01.
 - Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes v1.0.0: version DOI [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356); concept DOI [10.5281/zenodo.20636355](https://doi.org/10.5281/zenodo.20636355); OSF Project [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview); OSF Registration [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview); date 2026-06-11.
+
+## Affected downstream status indexing block
+
+```text
+Governance-UV v1.2.0: historical; superseded as GCV radiative-stability foundation and PB response anchor.
+Lambda value/sign v1.0.0: conditional and reproducible; under re-audit; microscopic selection map open.
+Growth Sector v2.0.0: superseded as a derived nonzero GCV prediction; ordinary GR+Lambda_eff growth remains.
+Lensing Sector v1.0.0: superseded as a derived non-GR GCV prediction; standard GR+Lambda_eff lensing remains.
+Bounded Geometry Transients v3.0.0: conditional benchmark without an occurrence theorem; delta_geo(a)=0 at the presently established baseline.
+DESI DR1 response likelihood v2.0.0: surviving phenomenological two-template likelihood; no nonzero response detected; PB1/PB2 are archived reference amplitudes; epsilon=0 is compatible.
+```
 
 ## No-hair / black-hole compatibility indexing block
 

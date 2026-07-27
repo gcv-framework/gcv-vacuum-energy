@@ -1,8 +1,10 @@
 # Full Governance-UV existence proof / CFI 6.2 benchmark mapping
 
+> **Current status - 27 July 2026:** Historical record. Governance-UV v1.2.0 / CFI Section 6.2 is superseded as the proposed basis for GCV radiative stability and as the downstream response/PB anchor. DOI, version, OSF metadata, and historical calculations are preserved.
+
 ## Role
 
-Governance-UV existence-proof and benchmark-parameter mapping record.
+Historical Governance-UV existence-proof and benchmark-parameter mapping record.
 
 ## Canonical record
 
