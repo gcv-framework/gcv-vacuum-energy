@@ -15,6 +15,8 @@ This page records the current interpretation of the GCV route. It is a repositor
 
 The accepted Source-Assignment result is not superseded. The provenance-typed preprint proposes a stronger source law and tests its preservation within a more restrictive fixed-physical-branch subclass.
 
+Source-law archive identifiers: [concept DOI 10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692) · [version DOI 10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) · [OSF project pvhyz](https://osf.io/pvhyz/overview) · [frozen OSF registration t4c92](https://osf.io/t4c92/overview).
+
 ## Source ontology
 
 Before the gravity-facing landing, the independent compact/flux datum is `K_phys`. `Lambda_eff` is not pre-source matter data, not a matter-zero coefficient, and not a receptacle for vacuum-zero descendants.

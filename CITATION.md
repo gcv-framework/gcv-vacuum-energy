@@ -47,6 +47,13 @@ Johansson, G. (2026). A provenance-typed source law for exact vacuum zero modes:
 
 The technical companion shares this DOI and is a supporting author-controlled, AI-assisted verification/reproducibility file. It is not a separate scientific record or independent review.
 
+Archive and provenance links:
+
+- Concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
+- Version DOI v1.0.0: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+- OSF project: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
+- Frozen OSF registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
+
 ## July 2026 Lambda value/sign bundle
 
 - Title: **Value localization and sign selection for a source-assigned flux-fixed residual cosmological constant Λ_eff**
@@ -78,7 +85,7 @@ This is the first public consolidated source-assignment bundled edition of the r
 - Full Governance-UV Existence Proof and Benchmark Parameter Mapping for the GCV Framework v1.2.0: concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); version DOI [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850); release date 2026-05-10.
 - Gravity in GCV v1.0.0: concept DOI [10.5281/zenodo.20118447](https://doi.org/10.5281/zenodo.20118447); version DOI [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448); release date 2026-05-11.
 - Bounded Geometry Transients in GCV v3.0.0: concept DOI [10.5281/zenodo.18833996](https://doi.org/10.5281/zenodo.18833996); version DOI [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080); release date 2026-05-11.
-- Growth Sector in GCV v2.0.0: concept DOI [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387); version DOI [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073); release date 2026-05-12.
+- Growth Sector in GCV v2.0.0: concept DOI [10.5281/zenodo.18933386](https://doi.org/10.5281/zenodo.18933386); first-version DOI [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387); current version DOI [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073); release date 2026-05-12.
 - Lensing Sector in GCV v1.0.0: concept DOI [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157); version DOI [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158); release date 2026-05-12.
 - No constant-mode hair in fixed-sector black-hole exteriors v1.0.0: concept DOI [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763); version DOI [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764); release date 2026-06-01; OSF project [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview); OSF registration [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview).
 - Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes v1.0.0: concept DOI [10.5281/zenodo.20636355](https://doi.org/10.5281/zenodo.20636355); version DOI [10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356); release date 2026-06-11; OSF project [https://osf.io/y2eut/overview](https://osf.io/y2eut/overview); OSF registration [https://osf.io/gpsxd/overview](https://osf.io/gpsxd/overview).

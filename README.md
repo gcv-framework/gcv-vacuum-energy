@@ -59,6 +59,10 @@ It assigns sources before solving:
 
 ## Current route DOI anchors
 
+- Provenance-typed source law concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
+- Provenance-typed source law v1.0.0 version DOI: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+- Provenance-typed source law OSF project: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
+- Provenance-typed source law frozen OSF registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
 - Governance Route / Gate Architecture concept DOI: [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410)
 - Governance Route / Gate Architecture v1.0.0 version DOI: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 - Governance Route / Gate Architecture OSF mirror: [https://osf.io/vd24w/overview](https://osf.io/vd24w/overview)

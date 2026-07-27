@@ -16,6 +16,10 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Current proposed record:** [A provenance-typed source law for exact vacuum zero modes — 10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
 
+**Concept DOI:** [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
+
+**OSF project / frozen registration:** [project](https://osf.io/pvhyz/overview) · [registration](https://osf.io/t4c92/overview)
+
 **Boundary:** Author preprint v1.0.0, not peer reviewed. The source law is postulated as primitive framework structure and is not derived from a known parent Ward identity. It is not a complete UV or quantum-gravity completion, does not prove nonperturbative or unrestricted-boundary closure, and does not determine the observed value or sign of `Lambda_eff`.
 
 ## Historical Governance Bridge claim

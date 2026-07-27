@@ -16,8 +16,11 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 ### Provenance-typed source law
 
 - Priority tier: Critical
+- Concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
 - Version DOI v1.0.0: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
 - First public date: 2026-07-26
+- OSF project: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
+- Frozen OSF registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
 - Purpose: timestamps the current proposed stronger fixed-physical-branch source law.
 - Boundary: author preprint under explicit closure hypotheses; not a peer-reviewed UV completion, Ward-identity derivation, or value/sign theorem.
 
@@ -148,7 +151,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 ### Growth Sector in GCV
 
 - Priority tier: Medium
-- Concept DOI: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+- Concept DOI: [10.5281/zenodo.18933386](https://doi.org/10.5281/zenodo.18933386)
 - Current canonical version DOI v2.0.0: [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
 - Current date: 2026-05-12
 - Purpose: timestamps the growth-sector response and falsifier-interface record.

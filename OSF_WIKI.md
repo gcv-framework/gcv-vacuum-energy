@@ -8,6 +8,8 @@ GCV is a flux-fixed GR framework in which the strictly spacetime-constant vacuum
 
 The accepted RAPS Source-Assignment paper is the current conditional H01-H04 local source-split theorem; publisher DOI pending. The current proposed stronger fixed-physical-branch source law is the author preprint [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), under its stated closure hypotheses.
 
+Source-law records: [Zenodo concept DOI](https://doi.org/10.5281/zenodo.21590692) · [Zenodo v1.0.0 DOI](https://doi.org/10.5281/zenodo.21590693) · [OSF project pvhyz](https://osf.io/pvhyz/overview) · [frozen OSF registration t4c92](https://osf.io/t4c92/overview).
+
 Governance Bridge remains a historical architecture/priority record, and Governance-UV v1.2.0 / CFI Section 6.2 is superseded as the proposed radiative-stability foundation and response/PB anchor. Lambda value/sign records are conditional and under re-audit; nonzero Growth and Lensing predictions are superseded; Bounded Transients is conditional without occurrence; DESI survives as fixed-template phenomenology.
 
 The deposited files, DOI records, and immutable registrations remain preserved. The current interpretation is maintained in:

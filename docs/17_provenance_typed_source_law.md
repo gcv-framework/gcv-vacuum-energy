@@ -5,7 +5,11 @@
 - **Title:** A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent
 - **Status:** Author preprint v1.0.0
 - **Date:** 26 July 2026
+- **Concept DOI:** [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
 - **Version DOI:** [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+- **OSF project:** [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
+- **Frozen OSF registration:** [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
+- **Zenodo relations:** obsoletes the Governance-UV concept record [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); references the Governance Bridge concept record [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380)
 
 ## Current role
 

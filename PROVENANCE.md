@@ -24,8 +24,13 @@ Priority and preservation status are not the same as current scientific status. 
 ## Provenance-typed source law
 
 - Title: **A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent**
+- Concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
 - Version DOI v1.0.0: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
 - Public release date: 2026-07-26
+- OSF backup: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
+- OSF frozen registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
+- OSF registration date: 2026-07-26
+- Zenodo relations: obsoletes Governance-UV concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); references Governance Bridge concept DOI [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380).
 - Status: author preprint; current proposed stronger fixed-physical-branch source law.
 - Boundary: conditional on its stated closure hypotheses; not peer reviewed, not derived from a known parent Ward identity, not a complete UV/quantum-gravity completion, and not a value/sign theorem.
 - Supporting file: author-controlled, AI-assisted technical companion sharing the same DOI; no separate claim, DOI, or independent-review status.
@@ -212,7 +217,7 @@ Priority and preservation status are not the same as current scientific status. 
 
 ### Growth Sector in GCV
 
-- Concept DOI: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+- Concept DOI: [10.5281/zenodo.18933386](https://doi.org/10.5281/zenodo.18933386)
 - Current version DOI v2.0.0: [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
 - Current date: 2026-05-12
 - First public version DOI v1.0.0: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)

@@ -2,7 +2,7 @@
 
 ## Unreleased - 2026-07-27
 
-- Added the accepted RAPS Source-Assignment status (publisher DOI pending) and indexed the proposed provenance-typed source law v1.0.0, [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693).
+- Added the accepted RAPS Source-Assignment status (publisher DOI pending) and indexed the proposed provenance-typed source law v1.0.0: concept DOI [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692), version DOI [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), [OSF project](https://osf.io/pvhyz/overview), and [frozen OSF registration](https://osf.io/t4c92/overview).
 - Reclassified Governance Bridge as historical/supporting architecture and Governance-UV v1.2.0 / CFI Section 6.2 as superseded for the radiative-stability and response/PB foundation.
 - Reclassified the Lambda value/sign chain as conditional and under re-audit, Growth and Lensing as superseded nonzero predictions, Bounded Transients as a conditional benchmark without occurrence, and DESI v2.0.0 as surviving fixed-template phenomenology.
 - Preserved all historical titles, DOI/version relations, dates, OSF links, registrations, archived files, and prior changelog entries.
@@ -19,7 +19,7 @@
 - Added May 2026 metadata for Full Governance-UV Existence Proof and Benchmark Parameter Mapping v1.2.0: version DOI [10.5281/zenodo.20103850](https://doi.org/10.5281/zenodo.20103850), concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489).
 - Added May 2026 metadata for Gravity in GCV v1.0.0: version DOI [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448), concept DOI [10.5281/zenodo.20118447](https://doi.org/10.5281/zenodo.20118447).
 - Added May 2026 metadata for Bounded Geometry Transients in GCV v3.0.0: version DOI [10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080), concept DOI [10.5281/zenodo.18833996](https://doi.org/10.5281/zenodo.18833996).
-- Added May 2026 metadata for Growth Sector in GCV v2.0.0: version DOI [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073), concept DOI [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387).
+- Added May 2026 metadata for Growth Sector in GCV v2.0.0: version DOI [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073), concept DOI [10.5281/zenodo.18933386](https://doi.org/10.5281/zenodo.18933386).
 - Added May 2026 metadata for Lensing Sector in GCV v1.0.0: version DOI [10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158), concept DOI [10.5281/zenodo.19213157](https://doi.org/10.5281/zenodo.19213157).
 - Patched May 2026 OSF Project and OSF Registration links from the authoritative DOI spreadsheet, using canonical short OSF URLs in repository metadata tables.
 - Preserved concept DOI and version DOI distinctions across DOI tables, route maps, provenance, citation, README/index, and paper-list metadata files.

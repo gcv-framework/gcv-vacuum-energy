@@ -27,7 +27,7 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 ## Most important records
 
 - Accepted RAPS Source-Assignment paper: *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*, manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending
-- Proposed provenance-typed source law: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+- Proposed provenance-typed source law: [version DOI 10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693); [concept DOI 10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692); [OSF project pvhyz](https://osf.io/pvhyz/overview); [frozen registration t4c92](https://osf.io/t4c92/overview)
 - Historical Governance Bridge Law: [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)
 - Historical Governance Route / Gate Architecture: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 - Historical GR-exact radiative-stability backbone: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
