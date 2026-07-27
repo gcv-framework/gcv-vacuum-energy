@@ -1,13 +1,15 @@
 # Growth Sector in GCV
 
+> **Current status - 27 July 2026:** Superseded as a derived nonzero GCV prediction. The archived response law and vectors remain conditional benchmarks; no additional growth deformation is presently derived beyond standard GR+`Lambda_eff` growth. Within the archived response parametrization, the current extra-response baseline is `epsilon = 0`.
+
 ## Role
 
-Growth-sector rank-clock response, retained visible-source activation, and falsifier-interface metadata record.
+Historical growth-sector rank-clock response, retained visible-source activation, and falsifier-interface metadata record.
 
 ## Canonical record
 
 - **Current title:** Growth Sector in GCV: Rank-Clock Response, Retained Visible-Source Activation, and Falsifier Interface
-- **Concept DOI / module family:** [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+- **Concept DOI / module family:** [10.5281/zenodo.18933386](https://doi.org/10.5281/zenodo.18933386)
 - **Current canonical version DOI:** [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
 - **Current canonical release date:** 2026-05-12
 - **Current version:** v2.0.0

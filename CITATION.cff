@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "GCV route map, claim map, citation guide, and provenance index"
-message: "If you use this repository, cite the specific DOI record relevant to the claim. This GitHub repository is a navigation and provenance hub."
+message: "If you use this repository, cite the specific DOI record relevant to the claim and check CURRENT_STATUS.md for whether the record is current, proposed, conditional, superseded, or historical."
 type: dataset
 authors:
   - family-names: Johansson
@@ -9,7 +9,7 @@ authors:
 date-released: "2026-06-01"
 repository-code: "https://github.com/gcv-framework/gcv-vacuum-energy"
 url: "https://github.com/gcv-framework/gcv-vacuum-energy"
-abstract: "Navigation, route-map, citation, and provenance index for the Gauged Constant Vacuum-Mode (GCV) framework. The authoritative scientific records remain the versioned DOI records and associated Zenodo/OSF archives."
+abstract: "Navigation, route-map, citation, provenance, and current-status index for the Gauged Constant Vacuum-Mode (GCV) framework. References include current, proposed, conditional, superseded, and historical records; the authoritative scientific objects remain the versioned DOI records and associated Zenodo/OSF archives."
 keywords:
   - GCV
   - Gauged Constant Vacuum-Mode
@@ -23,69 +23,107 @@ keywords:
   - branch viability
   - black-hole no-hair
   - fixed-sector black-hole exterior
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.18850395"
-    description: "Flagship CCP synthesis record"
-  - type: doi
-    value: "10.5281/zenodo.19874410"
-    description: "Governance Route / Gate Architecture concept DOI"
-  - type: doi
-    value: "10.5281/zenodo.20473764"
-    description: "No constant-mode hair fixed-sector black-hole compatibility record"
 references:
+  - type: article
+    title: "Exact vacuum zero modes in compact top-form sectors: Source assignment and radiative stability"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    journal: "Reports in Advances of Physical Sciences"
+    year: 2026
+    status: in-press
+    notes: "Accepted for publication; manuscript WSPC-RAPS-D-26-00026; publisher DOI pending. Current conditional H01-H04 local source-split theorem."
+  - type: article
+    title: "A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.21590693"
+    year: 2026
+    version: "v1.0.0"
+    status: preprint
+    identifiers:
+      - type: doi
+        value: "10.5281/zenodo.21590692"
+        description: "Concept DOI"
+      - type: doi
+        value: "10.5281/zenodo.21590693"
+        description: "v1.0.0 version DOI"
+      - type: url
+        value: "https://osf.io/pvhyz/overview"
+        description: "OSF project"
+      - type: url
+        value: "https://osf.io/t4c92/overview"
+        description: "Frozen OSF registration"
+    notes: "Current proposed stronger fixed-physical-branch source law under explicit closure hypotheses; not peer reviewed, not a complete UV or quantum-gravity completion, and not a value/sign theorem."
   - type: article
     title: "The Governance Bridge Law for Radiatively Stable Flux-Fixed General Relativity: A UV-to-IR Source-Assignment Theorem with Unique GR-Exact Branch Landing"
     authors:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.19676381"
+    status: preprint
+    notes: "Historical and supporting source-assignment architecture and priority record; not the accepted RAPS local theorem and not evidence for strict fixed-physical-branch no-transfer."
   - type: article
     title: "The Governance Route and Gate Architecture of Matter-Bearing Universes in GCV: An IR-Backbone-to-UV-Admissibility Translation, GR-Exact Landing Map, and Downstream Branch-Viability Control Ledger"
     authors:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.19874411"
+    status: preprint
+    notes: "Historical organizational route and claim-boundary ledger; does not establish current closure of downstream gates."
   - type: article
     title: "The Cosmological Constant Problem in Gauged Constant Vacuum-Mode Cosmology (GCV): Radiative Stability, Observed-Value Localization of Residual Lambda_eff, and Positive-Lambda Realization via a Four-Step Route"
     authors:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.18850395"
+    status: preprint
+    notes: "Historical programme synthesis; its full-closure interpretation is under re-audit."
   - type: article
     title: "Full Governance-UV Existence Proof and Benchmark Parameter Mapping for the GCV Framework"
     authors:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.20103850"
+    status: preprint
+    notes: "Historical record, superseded as the proposed GCV radiative-stability foundation and Route-B/CFI/PB response anchor."
   - type: article
     title: "Gravity in GCV: Four-Layer Role Map, Einstein-Hilbert Coupling, and the Denominator Target"
     authors:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.20118448"
+    status: preprint
   - type: article
     title: "No constant-mode hair in fixed-sector black-hole exteriors of flux-fixed general relativity"
     authors:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.20473764"
+    status: preprint
   - type: article
     title: "Bounded Geometry Transients in GCV: Source-Clock d-Band Alignment, Rank Diagnostic, and Inverse-Solved Closure Targets"
     authors:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.20126080"
+    status: preprint
+    notes: "Conditional benchmark without an occurrence theorem."
   - type: article
     title: "Growth Sector in GCV: Rank-Clock Response, Retained Visible-Source Activation, and Falsifier Interface"
     authors:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.20128073"
+    status: preprint
+    notes: "Historical nonzero response benchmark, superseded as a derived GCV growth prediction."
   - type: article
     title: "Lensing Sector in GCV: Governed-Slip Response Dictionary, Retained Visible-Source Activation, and Falsifier Interface"
     authors:
       - family-names: Johansson
         given-names: Germund
     doi: "10.5281/zenodo.19213158"
+    status: preprint
+    notes: "Historical non-GR response benchmark, superseded as a derived GCV lensing prediction."
 license: "CC-BY-4.0"

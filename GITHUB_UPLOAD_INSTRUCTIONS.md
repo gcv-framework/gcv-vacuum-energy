@@ -1,5 +1,7 @@
 # GitHub Upload Instructions
 
+> **Historical instructions:** This checklist predates the 27 July 2026 source-stack/status correction and must not be used as the file list for that update. It is retained only as an earlier repository-maintenance record.
+
 This repository is a hub/index. Do not upload duplicate PDF/source/archive packages to GitHub when the canonical package is already on Zenodo/OSF.
 
 ## What to upload or replace

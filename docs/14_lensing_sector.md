@@ -1,8 +1,10 @@
 # Lensing Sector in GCV
 
+> **Current status - 27 July 2026:** Superseded as a derived GCV governed-slip/non-GR lensing prediction. The response dictionary and compressed overlays remain historical conditional calculations; standard GR+`Lambda_eff` lensing is unchanged.
+
 ## Role
 
-Lensing-sector governed-slip response dictionary, retained visible-source activation, and falsifier-interface metadata record.
+Historical lensing-sector governed-slip response dictionary, retained visible-source activation, and falsifier-interface metadata record.
 
 ## Canonical record
 

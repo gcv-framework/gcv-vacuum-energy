@@ -1,5 +1,7 @@
 # GR-exact backbone / radiative-stability backbone
 
+> **Current status - 27 July 2026:** Historical GR-exact landing/backbone record. Its local Einstein-form equation survives. It is not a current microscopic derivation; see the accepted RAPS Source-Assignment paper and [the provenance-typed source-law preprint](17_provenance_typed_source_law.md).
+
 ## Role
 
 Flux-fixed local Einstein equation; constant-vacuum source assignment.

@@ -1,5 +1,7 @@
 # GR-exact backbone / radiative-stability backbone
 
+> **Current status - 27 July 2026:** Historical GR-exact landing/backbone record. Its local Einstein-form equation survives. Cite the accepted RAPS Source-Assignment paper for the current conditional local theorem and [the provenance-typed preprint](17_provenance_typed_source_law.md) for the proposed stronger fixed-branch source law.
+
 ## Role
 
 Flux-fixed local Einstein equation; constant-vacuum source assignment.

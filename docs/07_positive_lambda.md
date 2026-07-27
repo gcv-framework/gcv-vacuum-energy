@@ -1,5 +1,7 @@
 # Positive-Lambda module
 
+> **Current status - 27 July 2026:** Conditional sign/lifetime component under re-audit. It is not a current UV derivation or theorem forcing positive `Lambda_eff`.
+
 ## Role
 
 Late-time sign selection.

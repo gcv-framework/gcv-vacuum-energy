@@ -10,6 +10,31 @@ This file records the public provenance trail for the GCV framework records. The
 - **OSF registration** = immutable preservation / timestamp layer.
 - **GitHub** = route map, citation hub, and human-readable index.
 
+Priority and preservation status are not the same as current scientific status. See [CURRENT_STATUS.md](CURRENT_STATUS.md).
+
+## Accepted RAPS Source-Assignment paper
+
+- Title: **Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability**
+- Status: accepted for publication in *Reports in Advances of Physical Sciences*
+- Manuscript: `WSPC-RAPS-D-26-00026`
+- Publisher DOI: pending
+- Role: accepted conditional H01-H04 local source-split theorem.
+- Boundary: H04 is a defining admissibility/pass-fail restriction, not a microscopic UV theorem; the paper does not establish strict fixed-physical-branch no-transfer or determine the value/sign of `Lambda_eff`.
+
+## Provenance-typed source law
+
+- Title: **A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent**
+- Concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
+- Version DOI v1.0.0: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+- Public release date: 2026-07-26
+- OSF backup: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
+- OSF frozen registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
+- OSF registration date: 2026-07-26
+- Zenodo relations: obsoletes Governance-UV concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); references Governance Bridge concept DOI [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380).
+- Status: author preprint; current proposed stronger fixed-physical-branch source law.
+- Boundary: conditional on its stated closure hypotheses; not peer reviewed, not derived from a known parent Ward identity, not a complete UV/quantum-gravity completion, and not a value/sign theorem.
+- Supporting file: author-controlled, AI-assisted technical companion sharing the same DOI; no separate claim, DOI, or independent-review status.
+
 ## Governance Bridge Law
 
 - Concept DOI: [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380)
@@ -17,7 +42,8 @@ This file records the public provenance trail for the GCV framework records. The
 - Public release date: 2026-04-21
 - OSF backup: [https://osf.io/e3qy8/overview](https://osf.io/e3qy8/overview)
 - OSF registration: [https://osf.io/fv94u/overview](https://osf.io/fv94u/overview)
-- Role: upstream source-assignment theorem / UV-facing admissibility law.
+- Current status: historical/supporting source-assignment architecture and priority record.
+- Boundary: not the accepted RAPS local theorem and not evidence for the provenance-typed source law's strict fixed-physical-branch no-transfer condition.
 
 ## Governance Route / Gate Architecture
 
@@ -26,7 +52,7 @@ This file records the public provenance trail for the GCV framework records. The
 - Public release date: 2026-04-29
 - OSF backup: [https://osf.io/vd24w/overview](https://osf.io/vd24w/overview)
 - OSF registration: [https://osf.io/x6jgu/overview](https://osf.io/x6jgu/overview)
-- Role: canonical route/gate architecture record connecting Governance Bridge admissibility to downstream matter-bearing, growth-viable branch filtration.
+- Current status: historical organizational route/gate ledger. It does not establish current closure of its downstream gates.
 
 ## Flagship CCP synthesis
 
@@ -35,7 +61,7 @@ This file records the public provenance trail for the GCV framework records. The
 - Public release date: 2026-03-06
 - OSF backup: [https://osf.io/jyh7s/overview](https://osf.io/jyh7s/overview)
 - OSF registration: [https://osf.io/j5pyw/overview](https://osf.io/j5pyw/overview)
-- Role: canonical programme-level CCP synthesis gateway.
+- Current status: historical programme-level CCP synthesis gateway; its full-closure interpretation is under re-audit.
 
 ## GR-exact backbone / radiative-stability backbone
 
@@ -45,7 +71,7 @@ This file records the public provenance trail for the GCV framework records. The
 - Current date: 2026-01-04
 - OSF backup: —
 - OSF registration: —
-- Role: GR-exact local equation and radiative-stability backbone.
+- Current status: historical GR-exact local-equation/backbone record; the local equation survives.
 
 ## Structural interface and logical closure
 
@@ -65,7 +91,7 @@ This file records the public provenance trail for the GCV framework records. The
 - Current date: 2026-03-07
 - OSF backup: [https://osf.io/6qknj/overview](https://osf.io/6qknj/overview)
 - OSF registration: no registration as no new science
-- Role: compact proof spine / modular closure map.
+- Current status: historical compact proof spine / modular closure map; not an independent current proof of full programme closure.
 
 ## Lambda/value/sign records
 
@@ -81,7 +107,8 @@ This file records the public provenance trail for the GCV framework records. The
 - OSF backup: [https://osf.io/y93g2/overview](https://osf.io/y93g2/overview)
 - OSF registration: [https://osf.io/yunjg/overview](https://osf.io/yunjg/overview)
 - Role: first public consolidated source-assignment bundled edition of the residual `Λ_eff` value/sign module.
-- Boundary: not the first public disclosure of the component claims; does not reset or replace the component priority trail; not a standalone proof of full GCV programme closure, not a unique UV completion, not a complete cosmological measure, and not a UV theorem forcing `Λ_eff > 0`.
+- Current status: conditional and reproducible, not withdrawn; under re-audit.
+- Boundary: not the first public disclosure of the component claims; does not reset or replace the component priority trail; the microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open; not a standalone proof of full GCV programme closure, not a unique UV completion, not a complete cosmological measure, and not a UV theorem forcing `Λ_eff > 0`.
 
 ### Residual Λ_eff / squashing-remnant interpretation
 
@@ -132,6 +159,17 @@ This file records the public provenance trail for the GCV framework records. The
 - Current date: 2026-05-10
 - OSF backup: [https://osf.io/bnf9x/](https://osf.io/bnf9x/)
 - OSF registration: [https://osf.io/b5jc3/](https://osf.io/b5jc3/)
+- Current status: historical record; superseded as the proposed basis for GCV radiative stability and as the Route-B/CFI/PB response anchor.
+
+### DESI DR1 fixed-template response likelihood
+
+- Concept DOI: [10.5281/zenodo.18502989](https://doi.org/10.5281/zenodo.18502989)
+- First version DOI v1.0.0: [10.5281/zenodo.18502990](https://doi.org/10.5281/zenodo.18502990)
+- Current archive DOI v2.0.0: [10.5281/zenodo.18514836](https://doi.org/10.5281/zenodo.18514836)
+- Public release date: 2026-02-07
+- OSF backup: [https://osf.io/2k58y/overview](https://osf.io/2k58y/overview)
+- OSF registration: [https://osf.io/bwksy/overview](https://osf.io/bwksy/overview)
+- Current status: surviving phenomenological likelihood constraint on two fixed templates; not a constraint on a presently derived nonzero GCV response. PB1/PB2 are archived reference amplitudes and `epsilon = 0` remains compatible with the data.
 
 ### Gravity in GCV role map
 
@@ -179,12 +217,13 @@ This file records the public provenance trail for the GCV framework records. The
 
 ### Growth Sector in GCV
 
-- Concept DOI: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
+- Concept DOI: [10.5281/zenodo.18933386](https://doi.org/10.5281/zenodo.18933386)
 - Current version DOI v2.0.0: [10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
 - Current date: 2026-05-12
 - First public version DOI v1.0.0: [10.5281/zenodo.18933387](https://doi.org/10.5281/zenodo.18933387)
 - OSF backup: [https://osf.io/bgms8/](https://osf.io/bgms8/)
 - OSF registration: [https://osf.io/em6cu/](https://osf.io/em6cu/)
+- Current status: superseded as a derived nonzero GCV prediction; archived response calculations remain conditional benchmarks. Standard GR+`Lambda_eff` growth remains.
 
 ### Bounded Geometry Transients in GCV
 
@@ -194,6 +233,7 @@ This file records the public provenance trail for the GCV framework records. The
 - First public version DOI: [10.5281/zenodo.18833997](https://doi.org/10.5281/zenodo.18833997)
 - OSF backup: [https://osf.io/kbvu2/](https://osf.io/kbvu2/)
 - OSF registration: [https://osf.io/p9qrs/](https://osf.io/p9qrs/)
+- Current status: conditional benchmark without an occurrence theorem; no additional geometry transient is presently derived.
 
 ### Lensing Sector in GCV
 
@@ -202,6 +242,7 @@ This file records the public provenance trail for the GCV framework records. The
 - Public release date: 2026-05-12
 - OSF backup: [https://osf.io/ste46/](https://osf.io/ste46/)
 - OSF registration: [https://osf.io/m8vrb/](https://osf.io/m8vrb/)
+- Current status: superseded as a derived non-GR governed-slip/lensing prediction; standard GR+`Lambda_eff` lensing remains.
 
 ## Matter / shell / gate records
 
