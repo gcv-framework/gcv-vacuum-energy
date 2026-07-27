@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased - 2026-07-27
+## v1.1.0 — 2026-07-27
 
 - Added the accepted RAPS Source-Assignment status (publisher DOI pending) and indexed the proposed provenance-typed source law v1.0.0: concept DOI [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692), version DOI [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), [OSF project](https://osf.io/pvhyz/overview), and [frozen OSF registration](https://osf.io/t4c92/overview).
 - Reclassified Governance Bridge as historical/supporting architecture and Governance-UV v1.2.0 / CFI Section 6.2 as superseded for the radiative-stability and response/PB foundation.
