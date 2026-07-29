@@ -1,5 +1,14 @@
 # Changelog
 
+## Unreleased — 2026-07-29
+
+- Added the controlling *GCV Programme Status and Supersession Note*: concept DOI [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959), exact v1.0.0 version DOI [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960), status date 29 July 2026.
+- Synchronized the front-door status, route, claims, provenance, citation, dependency, search, and module pages to the note's accepted / proposed / current-within-scope / conditional / historical / superseded / quarantined / open hierarchy.
+- Limited the provenance-typed source law's “all-order” wording to each finite perturbative matter order or finite admitted composition under its primitive axioms and stated hypotheses.
+- Distinguished the archived numerical input `K = 1968` as `K_arch`, not the proposed independent physical datum `K_phys`, and kept the physical branch-realization, measure, selection, observed magnitude, and sign questions open.
+- Reclassified baryogenesis and matter-shell records, separated the three black-hole records by their distinct scopes, and removed unsupported downstream growth, lensing, transient, value/sign, and full-closure implications.
+- Preserved historical files, titles, concept/version DOI relations, OSF projects and registrations, and original priority timestamps.
+
 ## v1.1.0 — 2026-07-27
 
 - Added the accepted RAPS Source-Assignment status (publisher DOI pending) and indexed the proposed provenance-typed source law v1.0.0: concept DOI [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692), version DOI [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), [OSF project](https://osf.io/pvhyz/overview), and [frozen OSF registration](https://osf.io/t4c92/overview).

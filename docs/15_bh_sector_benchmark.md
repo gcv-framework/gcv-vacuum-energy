@@ -20,4 +20,4 @@ This note indexes the 2026-06-27 conditional black-hole sector-birth benchmark i
 
 ## Boundary
 
-This is a conditional benchmark. It is not evidence that any observed black hole formed a separate fixed sector, not a gravitational-wave detection claim, not a singularity-resolution theorem, not a complete matched-spacetime existence proof, not a full quantum-gravity endpoint, and not a cosmic-cycle claim. Catalog examples are scale-setting and candidate-ranking stress tests only.
+This is a conditional adversarial benchmark without an occurrence theorem. It does not derive a sector-birth action, matched junction/gluing solution, topology change, occurrence rate, child-sector selection, or observable. It is not evidence that any observed black hole formed a separate fixed sector, not a gravitational-wave detection claim, not a singularity-resolution theorem, not a full quantum-gravity endpoint, and not a cosmic-cycle claim. Catalog examples are scale-setting and candidate-ranking stress tests only.

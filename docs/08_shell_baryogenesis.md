@@ -1,8 +1,10 @@
 # Baryogenesis / visible matter branch
 
+> **Current status - 29 July 2026:** Historical/conditional benchmark, not an explanation of the observed baryon asymmetry. The archived algebra assumes benchmark states, a thin-shell selector, transmission law, CP/thermal ingredients, cleanup, and normalization. Neither source theorem derives those ingredients or the observed yield. See the [Programme Status Note](18_programme_status_note.md).
+
 ## Role
 
-Thin-shell visible matter-branch selection mechanism.
+Archived thin-shell visible matter-branch selection benchmark under assumed ingredients.
 
 ## Canonical record
 
@@ -33,4 +35,4 @@ Thin-shell visible matter-branch selection mechanism.
 - **Journal/submission status:** not submitted
 - **Title changed:** No
 - **Title-change notes:** —
-- **Other notes:** —
+- **Other notes:** Retained as a historical/conditional benchmark; not a physical carrier/selector or observed-yield theorem.

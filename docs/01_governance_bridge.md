@@ -1,6 +1,6 @@
 # Governance Bridge Law
 
-> **Current status - 27 July 2026:** Historical/supporting architecture and priority record. It is not the accepted RAPS local theorem and does not establish the stronger fixed-physical-branch no-transfer condition proposed in [the provenance-typed source law](17_provenance_typed_source_law.md).
+> **Current status - 29 July 2026:** Historical/supporting architecture and priority record. It is not the accepted RAPS local theorem and does not establish the stronger fixed-physical-branch no-transfer condition proposed in [the provenance-typed source law](17_provenance_typed_source_law.md). See the [Programme Status and Supersession Note](18_programme_status_note.md).
 
 ## Role
 

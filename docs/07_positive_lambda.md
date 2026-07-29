@@ -1,6 +1,6 @@
 # Positive-Lambda module
 
-> **Current status - 27 July 2026:** Conditional sign/lifetime component under re-audit. It is not a current UV derivation or theorem forcing positive `Lambda_eff`.
+> **Current status - 29 July 2026:** Conditional late-time sign/lifetime viability benchmark. Its recollapse asymmetry and sign-symmetrized scans remain conditional calculations. It does not establish a physical magnitude distribution, branch measure, selected positive sign, or upstream UV theorem forcing positive `Lambda_eff`. See the [Programme Status Note](18_programme_status_note.md).
 
 ## Role
 

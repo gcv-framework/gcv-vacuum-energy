@@ -1,6 +1,6 @@
 # Growth Sector in GCV
 
-> **Current status - 27 July 2026:** Superseded as a derived nonzero GCV prediction. The archived response law and vectors remain conditional benchmarks; no additional growth deformation is presently derived beyond standard GR+`Lambda_eff` growth. Within the archived response parametrization, the current extra-response baseline is `epsilon = 0`.
+> **Current status - 29 July 2026:** Superseded as a derived nonzero GCV growth prediction. The archived response law, vectors, and survey overlays remain historical conditional benchmarks inherited from the superseded Route-B/CFI source dictionary. No additional GCV-derived growth response is presently established at the two-derivative GR+`Lambda_eff` baseline; ordinary GR growth and gravitational-EFT effects remain physical.
 
 ## Role
 

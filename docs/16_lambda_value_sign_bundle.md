@@ -2,7 +2,7 @@
 
 This note indexes the July 2026 consolidated Lambda value/sign record in the GCV route map.
 
-> **Current status - 27 July 2026:** Conditional and reproducible, not withdrawn. The calculations retain their stated conditional meaning, but the provenance-preserving microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open. The provenance-typed source law does not determine the observed value or sign of `Lambda_eff`.
+> **Current status - 29 July 2026:** Conditional numerical benchmark, not physical value/sign closure. The retained moment map, `d_* ≃ 187.23`, `d_SA = {178, 180, …, 206}`, posterior summaries, and sign-symmetrized viability scans remain citable under their deposited assumptions. The microscopic compact/flux or `K_phys`-to-geometric-`Lambda_eff` map, physical measure and selection law, observed magnitude, and positive sign remain open. The deposited `K = 1968` is `K_arch`, not the proposed `K_phys`. See the [Programme Status Note](18_programme_status_note.md).
 
 ## Record identity
 
@@ -30,7 +30,7 @@ This is the first public consolidated source-assignment bundled edition of the r
 
 ## Citation use
 
-Use this record when citing the consolidated archived residual `Λ_eff` value/sign calculations and state their conditional, under-re-audit status.
+Use this record when citing the consolidated archived residual `Λ_eff` value/sign calculations and state that it is a conditional numerical benchmark, not physical value/sign closure.
 
 Use the component records when citing the original timestamped technical component claims:
 
@@ -41,10 +41,10 @@ Use the component records when citing the original timestamped technical compone
 
 ## Boundary
 
-This record does not reset or replace the earlier component priority trail. It is not a standalone proof of full GCV programme closure, not a unique ultraviolet completion, not a complete cosmological measure, not a UV theorem forcing `Λ_eff > 0`, and not a presently established microscopic map from the archived overlap variables to `K_phys` and geometric `Lambda_eff`.
+This record does not reset or replace the earlier component priority trail. It does not establish full GCV programme closure, a unique ultraviolet completion, a complete cosmological measure, a physical branch measure or selection law, the observed magnitude, the positive sign, a UV theorem forcing `Λ_eff > 0`, or a microscopic map from physical compact/flux or `K_phys` data to geometric `Lambda_eff`. Its deposited `K = 1968` is `K_arch`, not `K_phys`.
 
 ## Short indexing phrase
 
 ```text
-GCV Lambda value/sign source-assignment bundle: conditional archived value-localization and sign-selection calculations under re-audit; the microscopic overlap-to-K_phys/geometric-Lambda_eff map remains open.
+GCV Lambda value/sign source-assignment bundle: conditional numerical benchmark, not physical value/sign closure; K=1968 is K_arch, not K_phys; the microscopic branch-realization, measure, and selection map remains open.
 ```

@@ -4,6 +4,16 @@ This file records priority anchors for GCV claims and route objects. The DOI rec
 
 Priority timestamp and priority tier do not imply current scientific endorsement. Current status is controlled by [CURRENT_STATUS.md](CURRENT_STATUS.md); all historical priority data below are preserved.
 
+## Current programme-classification record
+
+### Programme Status and Supersession Note
+
+- Role: current controlling classification; reports no new scientific result.
+- Concept DOI: [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959)
+- Version DOI v1.0.0: [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960)
+- Status date: 2026-07-29
+- Preservation boundary: changes no earlier file, DOI, version lineage, original date, or frozen OSF registration.
+
 ## Highest-priority source-assignment records
 
 ### Accepted RAPS Source-Assignment paper
@@ -22,7 +32,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - OSF project: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
 - Frozen OSF registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
 - Purpose: timestamps the current proposed stronger fixed-physical-branch source law.
-- Boundary: author preprint under explicit closure hypotheses; not a peer-reviewed UV completion, Ward-identity derivation, or value/sign theorem.
+- Boundary: author preprint under primitive source/fixed-`K_phys` axioms and explicit closure hypotheses. “All-order” is limited to each finite perturbative matter order or finite admitted composition; not a peer-reviewed UV completion, infinite resummation, nonperturbative closure, Ward-identity derivation, quantum gravity, or value/sign theorem.
 
 ### Governance Bridge Law
 
@@ -59,7 +69,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - First public version DOI: [10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395)
 - First public date: 2026-03-06
 - Purpose: timestamps the programme-level CCP synthesis route.
-- Current status: historical synthesis; full-closure interpretation under re-audit.
+- Current status: historical March 2026 synthesis; resolution of all three CCP pillars and physical value/sign closure are not current established conclusions.
 
 ### Logical closure note
 
@@ -77,7 +87,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - Concept DOI: [10.5281/zenodo.17707787](https://doi.org/10.5281/zenodo.17707787)
 - Current canonical DOI: [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470)
 - Purpose: timestamps the flux-fixed residual / squashing-remnant interpretation.
-- Current status: residual global/geometric-label interpretation retained; distinct from the value/sign selection chain.
+- Current status: historical/supporting record, superseded as the current physical reading. Only the global/geometric-label distinction is retained; former neutralisation, mediator, CFI, value-selection, and response language is not controlling.
 
 ### Numerical selection / operational conditioning
 
@@ -85,7 +95,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - Concept DOI: [10.5281/zenodo.18604646](https://doi.org/10.5281/zenodo.18604646)
 - Current canonical DOI: [10.5281/zenodo.18775993](https://doi.org/10.5281/zenodo.18775993)
 - Purpose: timestamps the operational measurement-conditioning layer.
-- Current status: conditional calculation under Lambda re-audit.
+- Current status: historical/supporting conditional numerical benchmark; not a physical branch measure, selection law, or derivation of `Lambda_eff`.
 
 ### Three-bottleneck closeout
 
@@ -93,7 +103,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - Concept DOI: [10.5281/zenodo.18776606](https://doi.org/10.5281/zenodo.18776606)
 - First public version DOI: [10.5281/zenodo.18776607](https://doi.org/10.5281/zenodo.18776607)
 - Purpose: timestamps the near-unity closeout / acceptance-gate layer.
-- Current status: conditional calculation under Lambda re-audit.
+- Current status: conditional posterior-reweighting/localization benchmark; historical “closeout” wording supplies no UV derivation, physical measure, or branch-selection law.
 
 ### UV budget-partition / derived-Lambda mechanism
 
@@ -101,7 +111,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - Concept DOI: [10.5281/zenodo.18827508](https://doi.org/10.5281/zenodo.18827508)
 - Current canonical DOI: [10.5281/zenodo.18859689](https://doi.org/10.5281/zenodo.18859689)
 - Purpose: timestamps the UV-anchored budget-partition value-localization mechanism.
-- Current status: historical conditional benchmark; the microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open.
+- Current status: conditional/historical overlap-share benchmark; no provenance-preserving microscopic map to physical compact/flux data or geometric `Lambda_eff` is established.
 
 ### Positive-Lambda module
 
@@ -109,7 +119,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - Concept DOI: [10.5281/zenodo.18871623](https://doi.org/10.5281/zenodo.18871623)
 - Version DOI: [10.5281/zenodo.18871624](https://doi.org/10.5281/zenodo.18871624)
 - Purpose: timestamps the late-time viability / positive-Λ sign-selection module.
-- Current status: conditional sign/lifetime benchmark under re-audit; not a current UV derivation of positive `Lambda_eff`.
+- Current status: conditional late-time sign/lifetime benchmark; not a physical magnitude distribution, branch measure, selected positive sign, or upstream UV theorem.
 
 ## Matter / shell / growth priority
 
@@ -120,6 +130,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - Version DOI: [10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255)
 - First public date: 2026-04-23
 - Purpose: timestamps the benchmark-local visible-matter / thin-shell baryogenesis selector.
+- Current status: historical/conditional benchmark, not an explanation of the observed asymmetry; the assumed carrier/selector ingredients and observed yield are not derived.
 
 ### Matter-shell throughput / growth viability diagnostic
 
@@ -128,6 +139,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - Version DOI: [10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396)
 - First public date: 2026-04-25
 - Purpose: timestamps the matter-shell throughput / growth-viability diagnostic.
+- Current status: quarantined as physical descent; retained as a conditional numerical toy. Deposited `K = 1968` is `K_arch`, not the proposed `K_phys`.
 
 ## UV and observation priority
 
@@ -147,6 +159,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - Version DOI v1.0.0: [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448)
 - Current date: 2026-05-11
 - Purpose: indexes the gravity role-map metadata record.
+- Current status: current as a descriptive role map; historical as a response-proof chain. The absolute Einstein-Hilbert denominator remains a target, not a source-native derivation.
 
 ### Growth Sector in GCV
 

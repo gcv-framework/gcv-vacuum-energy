@@ -2,9 +2,9 @@
 
 This repository is intended to be a public navigation layer for GCV.
 
-## Current-status indexing rule - 27 July 2026
+## Current-status indexing rule - 29 July 2026
 
-Search descriptions must distinguish current, proposed, conditional, superseded, and historical records. Use [CURRENT_STATUS.md](CURRENT_STATUS.md) as the controlling status page. Preserve exact historical titles and DOI metadata for discoverability, but do not describe every indexed record as a current GCV result.
+Search descriptions must distinguish accepted, proposed, current-within-scope, conditional, historical, superseded, quarantined, and open records. Use the [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960) and [CURRENT_STATUS.md](CURRENT_STATUS.md) as the controlling classification. Preserve exact historical titles and DOI metadata for discoverability, but do not describe every indexed record as a current GCV result.
 
 ## Recommended linking pattern
 
@@ -22,7 +22,7 @@ Canonical current wording:
 ```text
 The accepted GCV Source-Assignment result is a conditional H01-H04 local source-split theorem: the exact spacetime-constant vacuum zero mode is excluded from primitive local stress, while ordinary local excitations remain in the local stress tensor and gravitate normally.
 
-The provenance-typed source-law preprint proposes a stronger fixed-physical-branch no-transfer law under explicit closure hypotheses. It is not a peer-reviewed UV completion or a source law derived from a known parent Ward identity.
+The provenance-typed source-law preprint proposes a stronger fixed-physical-branch no-transfer law under primitive source/fixed-K_phys axioms and explicit closure hypotheses. Its “all-order” scope means each finite perturbative matter order or finite admitted composition. It is not an infinite-resummation or nonperturbative theorem, a peer-reviewed UV completion, a source law derived from a known parent Ward identity, or a value/sign theorem.
 ```
 
 Accepted Source-Assignment record:
@@ -32,6 +32,18 @@ Exact vacuum zero modes in compact top-form sectors: source assignment and radia
 Accepted for publication in Reports in Advances of Physical Sciences
 Manuscript WSPC-RAPS-D-26-00026
 Publisher DOI pending
+```
+
+Programme-status record:
+
+```text
+Title: GCV Programme Status and Supersession Note: Current authority, historical records, conditional benchmarks, and open claims
+Author: Germund Johansson
+Version: v1.0.0
+Status date: 2026/07/29
+Concept DOI: 10.5281/zenodo.21671959
+Version DOI: 10.5281/zenodo.21671960
+Role: controlling programme classification; reports no new scientific result
 ```
 
 Proposed provenance-typed source-law DOI:
@@ -146,13 +158,13 @@ Keywords:
 Short description:
 
 ```text
-First public consolidated source-assignment bundled edition of the archived GCV residual Lambda_eff value/sign calculations. The calculations are conditional and under re-audit because the microscopic overlap-to-K_phys/geometric-Lambda_eff map remains open.
+First public consolidated source-assignment bundled edition of the archived GCV residual Lambda_eff value/sign calculations. This is a conditional numerical benchmark, not physical value/sign closure. Its deposited K=1968 is K_arch, not the proposed K_phys; the microscopic branch-realization, measure, and selection map remains open.
 ```
 
 Claim boundary:
 
 ```text
-This is a conditional and reproducible scoped record, not withdrawn. It is not the first public disclosure of the component claims, does not reset or replace the component priority trail, and does not establish the microscopic overlap-to-K_phys/geometric-Lambda_eff map, full GCV programme closure, a unique ultraviolet completion, a complete cosmological measure, or a UV theorem forcing Lambda_eff > 0.
+This is a conditional and reproducible scoped record, not withdrawn. It is not the first public disclosure of the component claims, does not reset or replace the component priority trail, and does not establish the physical compact/flux or K_phys-to-geometric-Lambda_eff map, a physical branch measure or selection law, the observed magnitude, the positive sign, full GCV programme closure, a unique ultraviolet completion, or a UV theorem forcing Lambda_eff > 0. Its deposited K=1968 is an archived benchmark input, K_arch, not K_phys.
 ```
 
 Scholar metadata checklist:
@@ -204,6 +216,7 @@ Historical route/gate architecture record for GCV: IR GR-exact source-assignment
 
 ## July 2026 DOI metadata indexing block
 
+- GCV Programme Status and Supersession Note v1.0.0: concept DOI [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959); version DOI [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960); status date 2026-07-29; controlling classification record that reports no new scientific result.
 - A provenance-typed source law for exact vacuum zero modes v1.0.0: concept DOI [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692); version DOI [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693); OSF Project [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview); frozen OSF Registration [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview); date 2026-07-26; proposed source law under explicit closure hypotheses.
 - Value localization and sign selection for a source-assigned flux-fixed residual cosmological constant Lambda_eff v1.0.0: version DOI [10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553); concept DOI [10.5281/zenodo.21265552](https://doi.org/10.5281/zenodo.21265552); OSF Project [https://osf.io/y93g2/overview](https://osf.io/y93g2/overview); OSF Registration [https://osf.io/yunjg/overview](https://osf.io/yunjg/overview); date 2026-07-09.
 
@@ -222,11 +235,18 @@ Historical route/gate architecture record for GCV: IR GR-exact source-assignment
 
 ```text
 Governance-UV v1.2.0: historical; superseded as GCV radiative-stability foundation and PB response anchor.
-Lambda value/sign v1.0.0: conditional and reproducible; under re-audit; microscopic selection map open.
+Governance Bridge and the four-pillar/CCP-closure syntheses: historical architecture; not current evidence of full programme closure.
+Lambda value/sign v1.0.0: conditional numerical benchmark, not physical value/sign closure; K=1968 is K_arch, not K_phys; microscopic realization, measure, and selection remain open.
+Baryogenesis: historical/conditional benchmark; not an explanation of the observed asymmetry.
+Matter-shell throughput: quarantined as physical descent; retained as a conditional numerical toy without a derived carrier, support mechanism, selector, extra visible matter, or added growth response.
 Growth Sector v2.0.0: superseded as a derived nonzero GCV prediction; ordinary GR+Lambda_eff growth remains.
 Lensing Sector v1.0.0: superseded as a derived non-GR GCV prediction; standard GR+Lambda_eff lensing remains.
-Bounded Geometry Transients v3.0.0: conditional benchmark without an occurrence theorem; delta_geo(a)=0 at the presently established baseline.
-DESI DR1 response likelihood v2.0.0: surviving phenomenological two-template likelihood; no nonzero response detected; PB1/PB2 are archived reference amplitudes; epsilon=0 is compatible.
+Bounded Geometry Transients v3.0.0: historical/conditional benchmark without an occurrence theorem; no additional transient response is currently derived.
+DESI DR1 response likelihood v2.0.0: historical/conditional fixed-template exercise, not a current GCV response test; no nonzero response was detected in that archived exercise.
+Gravity in GCV: current as a descriptive role map, historical where used as a response-production chain.
+Black-hole exterior no-hair: current within its connected, membrane-free, fixed-sector and symmetry assumptions; no new metric or observable is derived.
+Black-hole local support: conditional static-spherical two-derivative audit; no physical core source, observable, or complete interior dynamics is derived.
+Black-hole sector birth: conditional adversarial benchmark without an occurrence theorem, action, junction/topology construction, rate, selection rule, or observable.
 ```
 
 ## No-hair / black-hole compatibility indexing block
@@ -279,7 +299,7 @@ Keywords:
 Short description:
 
 ```text
-Fixed-sector black-hole/no-hair compatibility record for GCV. In one connected, membrane-free fixed flux sector on the GR-exact GCV branch, the governed exact spacetime-constant vacuum mode cannot become smooth radial exterior hair; classical exterior geometry is inherited from the Einstein-Lambda_eff landing.
+Fixed-sector black-hole/no-hair compatibility record for GCV. Within its connected, membrane-free, fixed-sector and symmetry assumptions on the GR-exact GCV branch, the governed exact spacetime-constant vacuum mode cannot become smooth radial exterior hair; classical exterior geometry is inherited from the Einstein-Lambda_eff landing.
 ```
 
 Claim boundary:
@@ -369,7 +389,7 @@ Fixed-sector GCV black-hole support-baseline record. The paper imports the exter
 Claim boundary:
 
 ```text
-This is not a new black-hole metric proposal, not a singularity-resolution theorem, not an evaporation or information-loss analysis, not a rotating Kerr-interior calculation, and not an observational black-hole measurement. It is a fixed-sector support theorem and no-leak baseline for black-hole interiors.
+This is a conditional static-spherical two-derivative support audit and no-leak baseline. It does not derive a physical interior, regular-core source, distinctive observable, or complete strong-field dynamics. It is not a new black-hole metric proposal, singularity-resolution theorem, evaporation or information-loss analysis, rotating Kerr-interior calculation, or observational black-hole measurement.
 ```
 
 Scholar metadata checklist:
@@ -455,13 +475,13 @@ Keywords:
 Short description:
 
 ```text
-Conditional black-hole sector-birth benchmark for GCV. The record studies a compact finite-thickness local sector-boundary/corner transition that can open a separate child fixed sector without turning the exact spacetime-constant vacuum mode into local black-hole material, without smooth parent-sector Lambda(r) hair, and without leaking child-sector curvature or repayment into the parent exterior.
+Conditional adversarial black-hole sector-birth benchmark for GCV. The record studies an assumed compact finite-thickness local sector-boundary/corner transition under no-leak locks. It does not establish that a separate child fixed sector forms or occurs.
 ```
 
 Claim boundary:
 
 ```text
-This is a conditional benchmark only. It is not a gravitational-wave detection claim, not event evidence, not a singularity-resolution theorem, not a cosmic-cycle claim, and not a constant-mode leak.
+This is a conditional adversarial benchmark without an occurrence theorem. It does not derive a sector-birth action, matched junction/gluing solution, topology change, occurrence rate, child-sector selection, or observable. It is not a gravitational-wave detection claim, event evidence, singularity-resolution theorem, cosmic-cycle claim, or constant-mode leak.
 ```
 
 ## Google / normal web search

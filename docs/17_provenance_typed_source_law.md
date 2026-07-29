@@ -13,9 +13,9 @@
 
 ## Current role
 
-This is the current proposed stronger GCV source law for the fixed-physical-branch subclass. It identifies the complete renormalization-saturated autonomous matter-identity lineage by provenance, quotients that lineage before gravity-facing source variation, retains all nonidentity response, and keeps the compact/flux datum `K_phys` independent.
+This is the proposed stronger GCV source law for the fixed-physical-branch subclass. It postulates the complete renormalization-saturated autonomous matter-identity lineage, projection before gravity-facing source variation, and independent fixed `K_phys` as primitive framework structure; it does not derive those axioms from a microscopic symmetry.
 
-Under the paper's stated saturation, ordering, triangularity, naturality, interface, and fixed-`K` hypotheses, the protected lineage has no retained local-source image and no fixed-branch `K_phys` or `Lambda_eff` image. The conditional closure theorem covers any finite composition of admitted operations. Separately, the scalar host establishes matter-side additive-shift nonbackflow at each finite perturbative order; it does not derive the primitive source or fixed-`K` axioms.
+Under the paper's stated saturation, ordering, triangularity, naturality, interface, and fixed-`K` hypotheses, the protected lineage has no retained local-source image and no fixed-branch `K_phys` or `Lambda_eff` image. “All-order” means any finite composition of admitted operations or, perturbatively, each finite matter order. Separately, the scalar host establishes matter-side compatibility after the primitive axioms are stipulated; it does not derive them.
 
 ## Relation to other source records
 
@@ -33,7 +33,7 @@ The preprint does not claim:
 - a unique or complete UV completion;
 - existence or uniqueness of a complete microscopic realization satisfying every H01-H04 condition;
 - quantized-gravity, ghost, or compact top-form closure;
-- nonperturbative or unrestricted-boundary closure;
+- infinite resummation, nonperturbative closure, or unrestricted null/corner closure;
 - a global flux-to-`Lambda_eff` branch-selection map;
 - the observed value or sign of `Lambda_eff`;
 - or any application-specific Lambda-selection, growth, lensing, transient, baryogenesis, or black-hole result.

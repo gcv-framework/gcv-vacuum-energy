@@ -1,8 +1,10 @@
 # Matter-shell throughput / growth viability diagnostic
 
+> **Current status - 29 July 2026:** Quarantined as physical descent and retained only as a conditional numerical toy. The scan does not derive a shell carrier, show that geometric `Lambda_eff` supplies shell support, establish a selector, create extra visible matter, or add a GCV growth response. Its deposited `K = 1968` is `K_arch`, not the proposed `K_phys`. See the [Programme Status Note](18_programme_status_note.md).
+
 ## Role
 
-Matter-shell growth viability / source-normalized shell diagnostic.
+Archived matter-shell growth-viability / source-normalized shell numerical diagnostic.
 
 ## Canonical record
 
@@ -33,4 +35,4 @@ Matter-shell growth viability / source-normalized shell diagnostic.
 - **Journal/submission status:** not submitted
 - **Title changed:** No
 - **Title-change notes:** —
-- **Other notes:** —
+- **Other notes:** Quarantined as physical descent; no carrier or descent theorem is established.

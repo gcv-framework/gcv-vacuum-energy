@@ -12,6 +12,15 @@ This file records the public provenance trail for the GCV framework records. The
 
 Priority and preservation status are not the same as current scientific status. See [CURRENT_STATUS.md](CURRENT_STATUS.md).
 
+## Programme Status and Supersession Note
+
+- Title: **GCV Programme Status and Supersession Note: Current authority, historical records, conditional benchmarks, and open claims**
+- Concept DOI: [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959)
+- Version DOI v1.0.0: [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960)
+- Status date: 2026-07-29
+- Role: current controlling programme-classification and supersession record.
+- Boundary: reports no new scientific result; does not alter an earlier file, DOI, version lineage, original publication date, or frozen OSF registration.
+
 ## Accepted RAPS Source-Assignment paper
 
 - Title: **Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability**
@@ -19,7 +28,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Manuscript: `WSPC-RAPS-D-26-00026`
 - Publisher DOI: pending
 - Role: accepted conditional H01-H04 local source-split theorem.
-- Boundary: H04 is a defining admissibility/pass-fail restriction, not a microscopic UV theorem; the paper does not establish strict fixed-physical-branch no-transfer or determine the value/sign of `Lambda_eff`.
+- Boundary: H04 is a defining admissibility/pass-fail restriction, not a microscopic UV theorem; exact constant shifts may relabel the broader global branch relation. The paper does not establish independent fixed `K_phys`, strict fixed-`K_phys` no-transfer, a value/sign selection law, or a universal UV completion.
 
 ## Provenance-typed source law
 
@@ -32,7 +41,7 @@ Priority and preservation status are not the same as current scientific status. 
 - OSF registration date: 2026-07-26
 - Zenodo relations: obsoletes Governance-UV concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); references Governance Bridge concept DOI [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380).
 - Status: author preprint; current proposed stronger fixed-physical-branch source law.
-- Boundary: conditional on its stated closure hypotheses; not peer reviewed, not derived from a known parent Ward identity, not a complete UV/quantum-gravity completion, and not a value/sign theorem.
+- Boundary: conditional on its primitive source and independent fixed-`K_phys` axioms and stated closure hypotheses. “All-order” means each finite perturbative matter order or finite composition of admitted operations. It is not peer reviewed, infinite resummation, nonperturbative closure, general null/corner closure, a known-Ward-identity derivation, a complete UV/quantum-gravity completion, or a value/sign theorem.
 - Supporting file: author-controlled, AI-assisted technical companion sharing the same DOI; no separate claim, DOI, or independent-review status.
 
 ## Governance Bridge Law
@@ -61,7 +70,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Public release date: 2026-03-06
 - OSF backup: [https://osf.io/jyh7s/overview](https://osf.io/jyh7s/overview)
 - OSF registration: [https://osf.io/j5pyw/overview](https://osf.io/j5pyw/overview)
-- Current status: historical programme-level CCP synthesis gateway; its full-closure interpretation is under re-audit.
+- Current status: historical March 2026 programme synthesis and priority record. Resolution of all three CCP pillars and physical value/sign closure are not current established conclusions.
 
 ## GR-exact backbone / radiative-stability backbone
 
@@ -82,7 +91,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Current date: 2026-03-07
 - OSF backup: [https://osf.io/hybvc/overview](https://osf.io/hybvc/overview)
 - OSF registration: no registration as no new science
-- Role: short structural entry note.
+- Current status: historical programme summary, superseded as the current one-page map. Programme-level CCP closure, determined value/sign positioning, and the optional nonzero growth response are not current established conclusions.
 
 ### Eight-page structural note / logical closure note
 
@@ -91,7 +100,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Current date: 2026-03-07
 - OSF backup: [https://osf.io/6qknj/overview](https://osf.io/6qknj/overview)
 - OSF registration: no registration as no new science
-- Current status: historical compact proof spine / modular closure map; not an independent current proof of full programme closure.
+- Current status: historical logic spine, superseded as a current proof of full programme closure because the former UV/CFI basis and value/sign and downstream gates are conditional or open.
 
 ## Lambda/value/sign records
 
@@ -107,8 +116,8 @@ Priority and preservation status are not the same as current scientific status. 
 - OSF backup: [https://osf.io/y93g2/overview](https://osf.io/y93g2/overview)
 - OSF registration: [https://osf.io/yunjg/overview](https://osf.io/yunjg/overview)
 - Role: first public consolidated source-assignment bundled edition of the residual `Λ_eff` value/sign module.
-- Current status: conditional and reproducible, not withdrawn; under re-audit.
-- Boundary: not the first public disclosure of the component claims; does not reset or replace the component priority trail; the microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open; not a standalone proof of full GCV programme closure, not a unique UV completion, not a complete cosmological measure, and not a UV theorem forcing `Λ_eff > 0`.
+- Current status: conditional numerical benchmark; not physical value/sign closure.
+- Boundary: not the first public disclosure of the component claims; does not reset or replace the component priority trail. The microscopic compact/flux or `K_phys`-to-geometric-`Lambda_eff` map, physical measure and selection law, observed magnitude, and positive sign remain open. Its deposited `K = 1968` is an archived `K_arch` input, not the proposed `K_phys`.
 
 ### Residual Λ_eff / squashing-remnant interpretation
 
@@ -116,6 +125,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Current DOI: [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470)
 - Current date: 2026-03-23
 - Role: residual Λ_eff / flux-fixed remnant interpretation.
+- Current status: historical/supporting interpretation, superseded as the current physical reading. The geometric-label distinction remains useful; former neutralisation, light-mediator, CFI, value-selection, and growth-response language does not control the current ontology.
 
 ### Numerical Lambda selection / operational conditioning
 
@@ -124,6 +134,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Current date: 2026-02-25
 - OSF backup: [https://osf.io/az8cg/overview](https://osf.io/az8cg/overview)
 - OSF registration: [https://osf.io/mnjh8/overview](https://osf.io/mnjh8/overview)
+- Current status: historical/supporting conditional numerical benchmark. Operational conditioning is not a physical branch measure, selection law, or derivation of `Lambda_eff`.
 
 ### Three-bottleneck closeout
 
@@ -132,6 +143,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Public release date: 2026-03-02
 - OSF backup: [https://osf.io/rctxa/overview](https://osf.io/rctxa/overview)
 - OSF registration: [https://osf.io/4pjtm/overview](https://osf.io/4pjtm/overview)
+- Current status: conditional posterior-reweighting/localization benchmark. Historical “closeout” language does not supply a UV derivation, physical measure, or branch-selection law.
 
 ### UV budget-partition / derived-Lambda mechanism
 
@@ -141,6 +153,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Current date: 2026-03-05
 - OSF backup: [https://osf.io/kjgqe/overview](https://osf.io/kjgqe/overview)
 - OSF registration: [https://osf.io/n8hks/overview](https://osf.io/n8hks/overview)
+- Current status: conditional/historical UV overlap-share benchmark. No provenance-preserving microscopic map from the overlap variable to physical compact/flux branch data or geometric `Lambda_eff` is established.
 
 ### Positive-Lambda module
 
@@ -149,6 +162,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Public release date: 2026-03-05
 - OSF backup: [https://osf.io/d5v2a/overview](https://osf.io/d5v2a/overview)
 - OSF registration: [https://osf.io/exd9c/overview](https://osf.io/exd9c/overview)
+- Current status: conditional late-time sign/lifetime viability benchmark. It does not establish a physical magnitude distribution, branch measure, selected positive sign, or upstream UV sign theorem.
 
 ## UV / response / observational records
 
@@ -169,7 +183,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Public release date: 2026-02-07
 - OSF backup: [https://osf.io/2k58y/overview](https://osf.io/2k58y/overview)
 - OSF registration: [https://osf.io/bwksy/overview](https://osf.io/bwksy/overview)
-- Current status: surviving phenomenological likelihood constraint on two fixed templates; not a constraint on a presently derived nonzero GCV response. PB1/PB2 are archived reference amplitudes and `epsilon = 0` remains compatible with the data.
+- Current status: historical/conditional fixed-template likelihood exercise, not a current GCV response test. The deposited result remains citable under the PB1/PB2 templates and reported no statistically meaningful nonzero detection; the templates' UV-calibrated GCV production interpretation is not current.
 
 ### Gravity in GCV role map
 
@@ -178,6 +192,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Public release date: 2026-05-11
 - OSF backup: [https://osf.io/vq8gh/](https://osf.io/vq8gh/)
 - OSF registration: [https://osf.io/3a7xq/](https://osf.io/3a7xq/)
+- Current status: current as a descriptive role map; historical as a response-proof chain. The absolute Einstein-Hilbert denominator remains a target, not a source-native derivation.
 
 ### Fixed-sector black-hole no-hair compatibility
 
@@ -188,7 +203,8 @@ Priority and preservation status are not the same as current scientific status. 
 - OSF backup: [https://osf.io/exsu6/overview](https://osf.io/exsu6/overview)
 - OSF registration: [https://osf.io/r2xtz/overview](https://osf.io/r2xtz/overview)
 - Role: branch-scoped strong-field compatibility record; fixed-sector black-hole exteriors inherit the GR-exact Einstein-Λ_eff exterior, and the governed exact constant vacuum mode cannot become smooth radial exterior hair in a connected membrane-free flux sector.
-- Boundary: not a new black-hole metric proposal, not an evaporation analysis, not an information-loss solution, not singularity resolution, and not full quantum-horizon microphysics except insofar as such effects would force source-assignment leakage.
+- Current status: current within its connected, membrane-free, fixed-sector and symmetry assumptions.
+- Boundary: no new metric, observable, evaporation, information-loss, singularity, topology-change, or quantum-gravity result follows.
 
 ### Fixed-sector black-hole local support / regular-core obstruction
 
@@ -202,7 +218,8 @@ Priority and preservation status are not the same as current scientific status. 
 - File integrity SHA256: `2ad267b544393e73bd76f976c14b879dc22943d4d8b60dd607d88c2b9f5db63a`
 - Related exterior theorem: [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)
 - Role: standalone fixed-sector black-hole support-baseline record; imports the exterior no-hair theorem and extends the analysis to source-resolved Misner-Sharp mass, local-support tensor reconstruction, regular-core obstruction, fixed-sector/inter-sector thermodynamic separation, membrane/junction handoff, and black-hole no-leak tests.
-- Boundary: not a new black-hole metric proposal, not a singularity-resolution theorem, not evaporation, not information loss, not a rotating Kerr-interior calculation, and not an observational black-hole measurement. It fixes what the exact spacetime-constant vacuum mode cannot become inside one lawful fixed sector.
+- Current status: conditional static-spherical two-derivative support baseline.
+- Boundary: does not derive a physical interior, regular-core source, distinctive observable, or complete strong-field dynamics; not a new black-hole metric, singularity-resolution theorem, evaporation, information loss, rotating Kerr-interior calculation, or observational measurement.
 
 ### Conditional black-hole sector-birth benchmark
 
@@ -213,7 +230,8 @@ Priority and preservation status are not the same as current scientific status. 
 - OSF backup: [https://osf.io/jhgew/overview](https://osf.io/jhgew/overview)
 - OSF registration: [https://osf.io/f6tvp/overview](https://osf.io/f6tvp/overview)
 - Role: conditional compact sector-boundary/corner benchmark for a GCV-compatible black-hole interior sector transition under strict no-leak locks.
-- Boundary: not a gravitational-wave detection claim, not event evidence, not a singularity-resolution theorem, not a cosmic-cycle claim, and not a constant-mode leak.
+- Current status: conditional adversarial benchmark without an occurrence theorem.
+- Boundary: does not derive a sector-birth action, matched junction/gluing solution, topology change, occurrence rate, child-sector selection, or observable; not a gravitational-wave detection claim, event evidence, singularity-resolution theorem, cosmic-cycle claim, or constant-mode leak.
 
 ### Growth Sector in GCV
 
@@ -233,7 +251,7 @@ Priority and preservation status are not the same as current scientific status. 
 - First public version DOI: [10.5281/zenodo.18833997](https://doi.org/10.5281/zenodo.18833997)
 - OSF backup: [https://osf.io/kbvu2/](https://osf.io/kbvu2/)
 - OSF registration: [https://osf.io/p9qrs/](https://osf.io/p9qrs/)
-- Current status: conditional benchmark without an occurrence theorem; no additional geometry transient is presently derived.
+- Current status: historical/conditional benchmark without an occurrence theorem; no additional geometry transient is presently derived.
 
 ### Lensing Sector in GCV
 
@@ -253,6 +271,7 @@ Priority and preservation status are not the same as current scientific status. 
 - Public release date: 2026-04-23
 - OSF backup: [https://osf.io/9uda4/overview](https://osf.io/9uda4/overview)
 - OSF registration: [https://osf.io/zdm54/overview](https://osf.io/zdm54/overview)
+- Current status: historical/conditional benchmark, not an explanation of the observed asymmetry. Benchmark states, selector, transmission, CP/thermal ingredients, cleanup, and normalization are assumed; neither source theorem derives them or the observed yield.
 
 ### Matter-shell throughput / growth viability diagnostic
 
@@ -261,3 +280,5 @@ Priority and preservation status are not the same as current scientific status. 
 - Public release date: 2026-04-25
 - OSF backup: [https://osf.io/upx4m/overview](https://osf.io/upx4m/overview)
 - OSF registration: [https://osf.io/yeuw4/overview](https://osf.io/yeuw4/overview)
+- Current status: quarantined as physical descent; retained as a conditional numerical toy.
+- Boundary: no shell carrier, geometric-`Lambda_eff` shell support, selector, extra visible matter, or additional GCV growth response is derived. Its deposited `K = 1968` is `K_arch`, not the proposed `K_phys`.

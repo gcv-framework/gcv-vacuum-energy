@@ -1,6 +1,6 @@
 # Lensing Sector in GCV
 
-> **Current status - 27 July 2026:** Superseded as a derived GCV governed-slip/non-GR lensing prediction. The response dictionary and compressed overlays remain historical conditional calculations; standard GR+`Lambda_eff` lensing is unchanged.
+> **Current status - 29 July 2026:** Superseded as a derived GCV governed-slip/non-GR lensing prediction. The response dictionary and compressed overlays remain historical conditional calculations. No additional GCV-derived lensing term is presently established at the two-derivative GR+`Lambda_eff` baseline; ordinary GR and gravitational-EFT lensing remain physical.
 
 ## Role
 
