@@ -1,6 +1,6 @@
 # GitHub Upload Instructions
 
-> **Historical instructions:** This checklist predates the 27 July 2026 source-stack/status correction and must not be used as the file list for that update. It is retained only as an earlier repository-maintenance record.
+> **Historical instructions:** This checklist predates the 29 July 2026 programme-status synchronization and must not be used as the file list or commit plan for a current update. It is retained only as an earlier repository-maintenance record. See [CURRENT_STATUS.md](CURRENT_STATUS.md) and the [Programme Status Note](docs/18_programme_status_note.md).
 
 This repository is a hub/index. Do not upload duplicate PDF/source/archive packages to GitHub when the canonical package is already on Zenodo/OSF.
 

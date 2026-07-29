@@ -1,6 +1,6 @@
 # GR-exact backbone / radiative-stability backbone
 
-> **Current status - 27 July 2026:** Historical GR-exact landing/backbone record. Its local Einstein-form equation survives. It is not a current microscopic derivation; see the accepted RAPS Source-Assignment paper and [the provenance-typed source-law preprint](17_provenance_typed_source_law.md).
+> **Current status - 29 July 2026:** Historical/supporting radiative-stability record. Its local Einstein-form equation survives, but it is not the current microscopic proof basis. See the accepted RAPS Source-Assignment paper, [the provenance-typed source-law preprint](17_provenance_typed_source_law.md), and the [Programme Status Note](18_programme_status_note.md).
 
 ## Role
 

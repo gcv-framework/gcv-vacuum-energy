@@ -1,16 +1,20 @@
 # GCV Framework OSF Mirror
 
-This OSF project provides backup and provenance mirrors for the Gauged Constant Vacuum-Mode (GCV) framework records.
+This repository file is a reusable text template for editable OSF project wikis. It does not update OSF automatically and is not itself an OSF project, mirror, or immutable registration.
 
-GCV is a flux-fixed GR framework in which the strictly spacetime-constant vacuum zero mode is excluded from retained local stress, ordinary local excitations remain in the local stress-energy tensor, and independent compact/flux data label the geometric branch. The programme is organized into modular records covering source assignment, residual `Lambda_eff`, conditional value/sign benchmarks, historical UV anchoring, matter-branch/shell mechanisms, route/gate architecture, and observational interfaces.
+GCV is a flux-fixed GR framework in which the strictly spacetime-constant vacuum zero mode is excluded from retained local stress, ordinary local excitations remain in the local stress-energy tensor, and `Lambda_eff` is retained as a geometric branch constant rather than local vacuum matter. The physical compact/flux-to-`Lambda_eff` realization and selection map remains open.
 
-## Current status - 27 July 2026
+## Current status - 29 July 2026
 
-The accepted RAPS Source-Assignment paper is the current conditional H01-H04 local source-split theorem; publisher DOI pending. The current proposed stronger fixed-physical-branch source law is the author preprint [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), under its stated closure hypotheses.
+The controlling classification is the **GCV Programme Status and Supersession Note**: [concept DOI 10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959) · [version DOI 10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960). It reports no new scientific result and does not alter earlier files, timestamps, or immutable registrations.
+
+The accepted RAPS Source-Assignment paper is the current conditional H01-H04 local source-split theorem; publisher DOI pending. The proposed stronger fixed-physical-branch source law is the author preprint [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), under primitive source/fixed-`K_phys` axioms and explicit closure hypotheses. Its “all-order” scope means each finite perturbative matter order or finite admitted composition, not infinite resummation or nonperturbative closure.
 
 Source-law records: [Zenodo concept DOI](https://doi.org/10.5281/zenodo.21590692) · [Zenodo v1.0.0 DOI](https://doi.org/10.5281/zenodo.21590693) · [OSF project pvhyz](https://osf.io/pvhyz/overview) · [frozen OSF registration t4c92](https://osf.io/t4c92/overview).
 
-Governance Bridge remains a historical architecture/priority record, and Governance-UV v1.2.0 / CFI Section 6.2 is superseded as the proposed radiative-stability foundation and response/PB anchor. Lambda value/sign records are conditional and under re-audit; nonzero Growth and Lensing predictions are superseded; Bounded Transients is conditional without occurrence; DESI survives as fixed-template phenomenology.
+Governance Bridge remains a historical architecture/priority record, and Governance-UV v1.2.0 / CFI Section 6.2 is superseded as the current radiative-stability proof basis and response/PB production anchor. Full programme CCP closure and physical value/sign closure are not current established conclusions. Baryogenesis is historical/conditional; matter-shell is quarantined as physical descent; nonzero Growth and Lensing predictions are superseded; Bounded Transients is historical/conditional without occurrence; DESI is a historical/conditional fixed-template exercise.
+
+The black-hole exterior no-hair result remains current within its connected, membrane-free, fixed-sector and symmetry assumptions. The local-support record is a conditional static-spherical two-derivative audit. The sector-birth record is a conditional adversarial benchmark without an occurrence theorem.
 
 The deposited files, DOI records, and immutable registrations remain preserved. The current interpretation is maintained in:
 

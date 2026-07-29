@@ -1,6 +1,6 @@
 # Governance Route / Gate Architecture
 
-> **Current status - 27 July 2026:** The ordering remains useful as a historical route ledger. Its downstream gate-closure labels must not be read as current validation of G2-G6, and the record does not prove the accepted Source-Assignment theorem or the proposed provenance-typed source law. See [Current Scientific Status](../CURRENT_STATUS.md).
+> **Current status - 29 July 2026:** Historical organizational and claim-boundary ledger. The ordering remains useful, but archived `closed`, `pass`, and `closeout` labels do not establish current physical closure of the Lambda, matter-shell, baryogenesis, growth, or transient gates. The record does not prove the accepted Source-Assignment theorem or the proposed provenance-typed source law. See the [Programme Status Note](18_programme_status_note.md).
 
 ## Role
 
@@ -39,10 +39,10 @@ It is a route and claim-boundary ledger, not a new proof, new scan, new UV const
 
 | Record | Role | Difference from this route note |
 |---|---|---|
-| Governance Bridge Law | Upstream source-assignment theorem / UV-facing admissibility law. | Proves or states the bridge. It does not map every downstream matter, shell, growth, and observational gate. |
-| Flagship CCP synthesis | Programme-level CCP route: radiative stability, observed-value localization, positive-Λ realization. | Gives the CCP closure route. It does not organize the post-landing matter-bearing branch-filtration pipeline. |
-| Logical closure note | Compact proof spine explaining why modular CCP closure follows from completed modules. | A logic proof spine, not a branch-viability route atlas. |
-| Matter-shell / growth-viability package | Scoped support-level Λ/shell map, shell throughput, visible-matter selector, and linear growth diagnostic. | Closes middle gates under stated assumptions, but does not define the full route ontology. |
+| Governance Bridge Law | Historical source-assignment architecture / UV-facing admissibility proposal. | Preserves the earlier bridge formulation and priority trail; it is not the accepted theorem or the strict fixed-`K_phys` law. |
+| Flagship CCP synthesis | Historical programme-level route joining radiative stability, value localization, and positive-Λ realization. | Preserves the March 2026 synthesis; its three-pillar and physical value/sign closure claims are not current established conclusions. |
+| Logical closure note | Historical modular logic spine. | Superseded as a current proof of full closure because the former UV/CFI basis and value/sign and downstream gates are conditional or open. |
+| Matter-shell / growth-viability package | Archived Lambda/shell scan and growth-viability diagnostic. | Quarantined as physical descent; it derives no shell carrier, selector, extra visible matter, or added GCV growth response. |
 | Governance Route / Gate Architecture | IR backbone → Governance Bridge translation → GR-exact landing → downstream branch filtration. | Route and review map, not a new proof, scan, UV construction, or global measure. |
 
 ## Canonical terminology
@@ -108,7 +108,7 @@ This record does not claim:
 7. a UV theorem forcing Λ > 0;
 8. a full nonlinear galaxy-population theorem.
 
-It does claim a narrower organizational result: inside the GCV paper stack, the Governance Bridge is the source-assignment translation layer that defines lawful UV-to-IR crossing into the GR-exact branch. After that crossing, the remaining programme is branch filtration.
+Its retained claim is historical and organizational: the April 2026 GCV paper stack represented the Governance Bridge as the source-assignment translation layer and the downstream programme as branch filtration. This does not establish that the physical crossing or downstream gates are currently closed.
 
 ## OSF provenance
 

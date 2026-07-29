@@ -1,6 +1,6 @@
 # Bounded Geometry Transients in GCV
 
-> **Current status - 27 July 2026:** Conditional benchmark without an occurrence theorem. The BD-B profile, d-band alignment, and inverse-solved targets remain reproducible conditional constructions; no extra geometry transient is presently derived. Absent a separate lawful source theorem, `delta_geo(a) = 0`.
+> **Current status - 29 July 2026:** Historical/conditional response benchmark without an occurrence theorem. The conditional profiles, d-band alignment, and inverse-solved targets remain archived. No current source theorem establishes SourceClock, BD-A, BD-B, or a nonzero bounded transient; no added GCV transient is derived at the two-derivative baseline, while ordinary gravitational-EFT effects remain physical.
 
 ## Role
 

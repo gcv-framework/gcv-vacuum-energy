@@ -1,5 +1,7 @@
 # Final Cross-check Report
 
+> **Historical audit — May 2026:** This report preserves the result of the May 2026 metadata pass and is not the current repository validation or scientific classification. In particular, its Gate Architecture “pending” entry was resolved later. For current status, use the [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960), [CURRENT_STATUS.md](CURRENT_STATUS.md), and [tables/doi_index.md](tables/doi_index.md).
+
 Source: May 2026 DOI metadata spreadsheet
 
 ## Summary
@@ -26,4 +28,4 @@ None found for the core route-map build.
 
 ## Interpretation
 
-The generated Markdown pack treats the DOI index plus the May 2026 metadata update as authoritative for DOI and OSF fields. Operational Conditioning is indexed as nested under Numerical Selection. Gate Architecture is listed as pending until DOI/OSF archival status is finalized. Audit and Yukawa/SIDM records are journal-facing route-adjacent modules and do not require v1 OSF registrations for core GCV provenance.
+At the time of this audit, the generated Markdown pack treated the DOI index plus the May 2026 metadata update as authoritative for DOI and OSF fields. Operational Conditioning was indexed as nested under Numerical Selection. Gate Architecture was still listed as pending because its DOI/OSF archival status had not yet been incorporated. Audit and Yukawa/SIDM records were treated as journal-facing route-adjacent modules without a required v1 OSF registration for core GCV provenance. These statements are retained only as the historical May 2026 result.

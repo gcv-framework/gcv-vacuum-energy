@@ -1,5 +1,7 @@
 # Residual Lambda_eff / squashing-remnant interpretation
 
+> **Current status - 29 July 2026:** Historical/supporting interpretation, superseded as the current physical reading. The flux-fixed geometric-label distinction remains useful; the record's neutralisation, light-mediator, CFI, value-selection, and growth-response language does not control the current ontology. See the [Programme Status Note](18_programme_status_note.md).
+
 ## Role
 
 Residual label/discretuum interpretation.

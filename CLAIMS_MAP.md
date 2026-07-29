@@ -2,13 +2,21 @@
 
 This file maps claims to their canonical DOI records. It is not a new scientific record.
 
+## Controlling programme classification
+
+**Current record:** [GCV Programme Status and Supersession Note — 10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960)
+
+**Concept DOI:** [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959)
+
+**Role:** Controls the accepted/proposed/historical/conditional/open classification as of 29 July 2026. It reports no new scientific result and leaves earlier files, timestamps, and registrations unchanged.
+
 ## Accepted Source-Assignment claim
 
-**Claim:** Under H01-H04, the exact spacetime-constant vacuum zero mode is excluded from primitive local stress and the selected fixed-sector local equation has Einstein form, while ordinary retained local excitations gravitate normally.
+**Claim:** Under H01-H04, the exact matter-vacuum zero mode is excluded from primitive local stress and the local equation has Einstein form, while ordinary retained local excitations gravitate normally.
 
 **Current record:** *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*, accepted for publication in *Reports in Advances of Physical Sciences*, manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending.
 
-**Boundary:** This is a conditional local source-split theorem. H04 is a defining admissibility/operator-class restriction and pass/fail condition for candidate microscopic realizations, not a theorem derived from a complete UV theory. The paper does not determine the value or sign of `Lambda_eff`, and its broader branch-relabeling language does not establish strict fixed-physical-branch no-transfer.
+**Boundary:** This is a conditional local source-split theorem. H04 is a defining admissibility/operator-class restriction and pass/fail condition for candidate microscopic realizations, not a theorem derived from a complete UV theory. Exact constant shifts may relabel the broader global branch relation. The paper does not establish independent fixed `K_phys`, strict fixed-`K_phys` no-transfer, a value/sign selection law, or a universal UV completion.
 
 ## Proposed provenance-typed source-law claim
 
@@ -20,7 +28,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **OSF project / frozen registration:** [project](https://osf.io/pvhyz/overview) · [registration](https://osf.io/t4c92/overview)
 
-**Boundary:** Author preprint v1.0.0, not peer reviewed. The source law is postulated as primitive framework structure and is not derived from a known parent Ward identity. It is not a complete UV or quantum-gravity completion, does not prove nonperturbative or unrestricted-boundary closure, and does not determine the observed value or sign of `Lambda_eff`.
+**Boundary:** Author preprint v1.0.0, not peer reviewed. The source law and independent fixed `K_phys` are postulated as primitive framework structure and are not derived from a known parent Ward identity. “All-order” means each finite perturbative matter order or finite composition of admitted operations. It is not an infinite-resummation theorem, nonperturbative closure, general null/corner closure, a complete UV or quantum-gravity completion, or a value/sign theorem.
 
 ## Historical Governance Bridge claim
 
@@ -54,7 +62,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Canonical record:** [Flagship CCP synthesis — 10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395)
 
-**Current boundary:** Historical programme synthesis. Its full-closure interpretation is under re-audit because Governance-UV/CFI no longer supplies the accepted microscopic/source basis for the value/sign chain.
+**Current boundary:** Historical March 2026 programme synthesis and priority record. The claims that all three CCP pillars are resolved and that the programme has physical value/sign closure are not current established conclusions. The structural source split remains controlled by the accepted Source-Assignment theorem.
 
 ## Logical closure claim
 
@@ -62,7 +70,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Canonical record:** [Logical closure note — 10.5281/zenodo.18900693](https://doi.org/10.5281/zenodo.18900693)
 
-**Current boundary:** Historical logic spine only. It introduces no new fits, priors, scans, or code, and it is not a current independent proof of full programme closure.
+**Current boundary:** Historical logic spine, superseded as a current proof of full programme closure. Its closure conclusion depended on a superseded UV/CFI basis and value/sign and downstream gates that are now conditional or open.
 
 ## Residual Λ_eff claim
 
@@ -70,7 +78,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Canonical record:** [Residual Λ_eff — 10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470)
 
-**Current boundary:** The retained statement is that `Lambda_eff` is a global/geometric branch label rather than local vacuum matter. The record supplies an interpretation and toy discretuum support; it does not establish that the protected matter-zero lineage is transferred into `K_phys` or `Lambda_eff`, identify `Lambda_eff` with the raw absolute offset of a particular UV scalar potential, or close the microscopic branch-selection map.
+**Current boundary:** Historical/supporting interpretation, superseded as the current physical reading. The retained statement is that `Lambda_eff` is a global/geometric branch label rather than local vacuum matter. The record's illustrative discretuum remains historical/supporting; its neutralisation, light-mediator, CFI, value-selection, and growth-response language does not control the current ontology.
 
 ## Consolidated Lambda value/sign source-assignment claim
 
@@ -84,7 +92,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **OSF backup / registration:** [project](https://osf.io/y93g2/overview) · [registration](https://osf.io/yunjg/overview)
 
-**Current boundary:** Conditional and reproducible, not withdrawn. It does not reset or replace the component priority trail. The microscopic overlap-to-`K_phys`/geometric-`Lambda_eff` map remains open, so the record does not currently establish physical value/sign closure. The provenance-typed source law does not determine the observed value or sign of `Lambda_eff`.
+**Current boundary:** Conditional numerical benchmark, not physical value/sign closure. It does not reset or replace the component priority trail. The retained moment map, `d_* ≃ 187.23`, `d_SA = {178, 180, …, 206}`, posterior summaries, and sign-symmetrized viability scans remain citable under their deposited assumptions. The microscopic compact/flux or `K_phys`-to-geometric-`Lambda_eff` map, physical measure and selection law, observed magnitude, and positive sign remain open. The deposited `K = 1968` is `K_arch`, not the proposed `K_phys`.
 
 ## Observed-value localization claim
 
@@ -98,7 +106,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Consolidated front-door record:** [Lambda value/sign source-assignment bundle — 10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
 
-**Current boundary:** Reproducible conditional calculation under re-audit, not a presently established microscopic selection of the geometric `Lambda_eff` branch and not a unique continuous value.
+**Current boundary:** Historical/supporting conditional calculations, not a presently established microscopic selection of the geometric `Lambda_eff` branch and not a unique continuous value. Operational conditioning is not a physical measure or selection law, and “closeout” does not supply a UV derivation or branch selector.
 
 ## Positive-Λ claim
 
@@ -108,7 +116,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Consolidated front-door record:** [Lambda value/sign source-assignment bundle — 10.5281/zenodo.21265553](https://doi.org/10.5281/zenodo.21265553)
 
-**Current boundary:** Conditional sign/lifetime benchmark under re-audit, not a current UV derivation or theorem forcing `Lambda_eff > 0`.
+**Current boundary:** Conditional late-time sign/lifetime viability benchmark. It does not establish a physical magnitude distribution, branch measure, selected positive sign, or upstream UV theorem forcing `Lambda_eff > 0`.
 
 ## Historical Governance-UV benchmark claim
 
@@ -126,7 +134,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Concept DOI:** [10.5281/zenodo.20473763](https://doi.org/10.5281/zenodo.20473763)
 
-**Boundary:** Strong-field side/deep compatibility record only. It is not a new black-hole metric proposal, not a semiclassical evaporation analysis, not an information-loss solution, not singularity resolution, and not full quantum-horizon microphysics unless such effects force source-assignment leakage.
+**Boundary:** Current within scope only under the record's connected, membrane-free, fixed-sector and symmetry assumptions. It is not a new black-hole metric or observable, a semiclassical evaporation analysis, an information-loss solution, singularity resolution, topology change, or full quantum-horizon microphysics.
 
 ## Fixed-sector black-hole local-support / regular-core obstruction claim
 
@@ -140,7 +148,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **OSF backup / registration:** [project](https://osf.io/y2eut/overview) · [registration](https://osf.io/gpsxd/overview)
 
-**Boundary:** This is a fixed-sector support theorem and no-leak baseline for black-hole interiors. It is not a new black-hole metric proposal, not a singularity-resolution theorem, not evaporation, not information loss, not a rotating Kerr-interior calculation, and not an observational black-hole measurement.
+**Boundary:** Conditional static-spherical two-derivative support baseline. It does not derive a physical interior, regular-core source, distinctive observable, or complete strong-field dynamics. It is not a new black-hole metric proposal, singularity-resolution theorem, evaporation, information loss, rotating Kerr-interior calculation, or observational black-hole measurement.
 
 ## Conditional black-hole sector-birth benchmark claim
 
@@ -154,23 +162,23 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **OSF backup / registration:** [project](https://osf.io/jhgew/overview) · [registration](https://osf.io/f6tvp/overview)
 
-**Boundary:** Conditional benchmark only. It is not a gravitational-wave detection claim, not event evidence, not a singularity-resolution theorem, not a cosmic-cycle claim, not a full quantum-gravity endpoint, and not a constant-mode leak.
+**Boundary:** Conditional adversarial benchmark without an occurrence theorem. It does not derive a sector-birth action, matched junction/gluing solution, topology change, occurrence rate, child-sector selection, or observable. It is not a gravitational-wave detection claim, event evidence, singularity-resolution theorem, cosmic-cycle claim, full quantum-gravity endpoint, or constant-mode leak.
 
 ## Visible matter-branch / baryogenesis claim
 
-**Claim:** A benchmark-local thin-shell selector can favor a visible matter branch under the retained shell-baryogenesis assumptions.
+**Historical/conditional claim:** Under assumed benchmark states, thin-shell selector, transmission law, CP/thermal ingredients, cleanup, and normalization, the archived algebra can favor a visible matter branch.
 
 **Canonical record:** [Visible matter-branch baryogenesis — 10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255)
 
-**Boundary:** Benchmark-local closeout, not a universal theorem over arbitrary UV completions.
+**Boundary:** Historical/conditional benchmark, not an explanation of the observed baryon asymmetry. Neither the accepted Source-Assignment theorem nor the proposed source-law preprint derives the assumed ingredients or the observed baryon yield.
 
 ## Matter-shell throughput / growth-viability claim
 
-**Claim:** The matter-shell throughput package provides a support-level Λ/shell map, source-normalized shell bridge, visible-matter selector import, and linear growth-viability diagnostic.
+**Conditional numerical content:** The archive contains a support-level Lambda/shell scan, source-normalized shell diagnostic, visible-matter selector import, and linear growth-viability calculation under its deposited assumptions.
 
 **Canonical record:** [Matter-shell throughput / growth viability — 10.5281/zenodo.19768396](https://doi.org/10.5281/zenodo.19768396)
 
-**Boundary:** Linear diagnostic and scoped support bridge, not a full nonlinear galaxy-population theorem.
+**Boundary:** Quarantined as physical descent and retained as a conditional numerical toy. It does not derive a shell carrier, show that geometric `Lambda_eff` supplies shell support, establish a selector, create extra visible matter, or add a GCV growth response. Its deposited `K = 1968` is `K_arch`, not the proposed `K_phys`.
 
 ## Growth-sector observational target claim
 
@@ -178,7 +186,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Canonical record:** [Growth Sector in GCV v2.0.0 — 10.5281/zenodo.20128073](https://doi.org/10.5281/zenodo.20128073)
 
-**Current boundary:** Superseded as a derived nonzero GCV prediction. The archived response law and vectors remain conditional benchmarks. At the presently established landing, the extra response amplitude is `epsilon = 0`; ordinary GR+`Lambda_eff` structure growth remains.
+**Current boundary:** Superseded as a derived nonzero GCV prediction. The archived response law and vectors remain historical conditional benchmarks. No additional GCV-derived growth response is presently established at the two-derivative GR+`Lambda_eff` baseline; ordinary GR growth and gravitational-EFT effects remain physical.
 
 ## Bounded-transient / SourceClock claim
 
@@ -186,7 +194,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Canonical archive:** [Bounded Geometry Transients in GCV v3.0.0 — 10.5281/zenodo.20126080](https://doi.org/10.5281/zenodo.20126080)
 
-**Current boundary:** Conditional benchmark without an occurrence theorem. The former Governance-UV chain does not establish physical activation. Absent a separate lawful source theorem, the additional geometry response is `delta_geo(a) = 0`.
+**Current boundary:** Historical/conditional response benchmark without an occurrence theorem. The former Governance-UV chain does not establish physical activation, and no additional GCV transient is presently derived at the two-derivative baseline. Ordinary gravitational-EFT effects remain physical.
 
 ## Lensing-sector claim
 
@@ -194,12 +202,12 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Canonical archive:** [Lensing Sector in GCV v1.0.0 — 10.5281/zenodo.19213158](https://doi.org/10.5281/zenodo.19213158)
 
-**Current boundary:** Superseded as a derived non-GR GCV lensing prediction. Standard GR+`Lambda_eff` lensing remains.
+**Current boundary:** Superseded as a derived non-GR GCV lensing prediction. Ordinary GR+`Lambda_eff` and gravitational-EFT lensing remain physical.
 
 ## DESI DR1 fixed-template likelihood claim
 
-**Surviving claim:** The v2.0.0 archive provides a reproducible compressed DESI DR1 likelihood constraint on two specified fixed growth-response templates. Neither template shows a statistically meaningful preference for a nonzero amplitude.
+**Historical/conditional claim:** The v2.0.0 archive provides a reproducible compressed DESI DR1 likelihood calculation for two specified fixed growth-response templates. Neither template showed a statistically meaningful preference for a nonzero amplitude.
 
 **Canonical archive:** [DESI DR1 ShapeFit+BAO growth-ratio likelihood constraints — 10.5281/zenodo.18514836](https://doi.org/10.5281/zenodo.18514836)
 
-**Current boundary:** Phenomenological fixed-template constraint, not a constraint on a presently derived nonzero GCV prediction. PB1/PB2 are archived reference amplitudes, and the current extra-response baseline within the parametrization is `epsilon = 0`.
+**Current boundary:** Historical/conditional fixed-template likelihood exercise, not a current GCV response test or a constraint on a presently derived nonzero GCV prediction. PB1/PB2 and their UV-calibrated production interpretation are not current predictions.

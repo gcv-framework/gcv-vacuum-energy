@@ -1,6 +1,6 @@
 # Numerical Lambda selection / selection posterior
 
-> **Current status - 27 July 2026:** Conditional component under the Lambda value/sign re-audit. The archived calculations remain reproducible under their stated inputs, but they do not currently establish a microscopic selection of geometric `Lambda_eff`.
+> **Current status - 29 July 2026:** Historical/supporting conditional numerical benchmark. The capability-conditioned posterior remains citable under its deposited inputs, but operational conditioning is not a physical branch measure, selection law, or derivation of geometric `Lambda_eff`. See the [Programme Status Note](18_programme_status_note.md).
 
 ## Role
 

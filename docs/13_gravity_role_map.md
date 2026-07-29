@@ -1,5 +1,7 @@
 # Gravity in GCV
 
+> **Current status - 29 July 2026:** Current as a descriptive role map; historical as a response-proof chain. The separation of the Einstein-Hilbert coefficient, local source, geometric branch label, and probe-effective quantities remains useful. Former Governance-to-response activation is not current, and the absolute Einstein-Hilbert denominator remains a target rather than a source-native derivation. See the [Programme Status Note](18_programme_status_note.md).
+
 ## Role
 
 Gravity-sector four-layer role map, Einstein-Hilbert coupling, and denominator-target metadata record.

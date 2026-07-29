@@ -1,21 +1,22 @@
 cff-version: 1.2.0
 title: "GCV route map, claim map, citation guide, and provenance index"
-message: "If you use this repository, cite the specific DOI record relevant to the claim and check CURRENT_STATUS.md for whether the record is current, proposed, conditional, superseded, or historical."
+message: "If you use this repository, cite the specific DOI record relevant to the claim and the programme-status version DOI 10.5281/zenodo.21671960 when current classification matters."
 type: dataset
 authors:
   - family-names: Johansson
     given-names: Germund
     affiliation: "Independent researcher, Switzerland"
-date-released: "2026-06-01"
+date-released: "2026-07-29"
 repository-code: "https://github.com/gcv-framework/gcv-vacuum-energy"
 url: "https://github.com/gcv-framework/gcv-vacuum-energy"
-abstract: "Navigation, route-map, citation, provenance, and current-status index for the Gauged Constant Vacuum-Mode (GCV) framework. References include current, proposed, conditional, superseded, and historical records; the authoritative scientific objects remain the versioned DOI records and associated Zenodo/OSF archives."
+abstract: "Navigation, route-map, citation, provenance, and current-status index for the Gauged Constant Vacuum-Mode (GCV) framework. References are classified as accepted, proposed, current-within-scope, conditional, historical, superseded, quarantined, or open; the authoritative scientific objects remain the versioned DOI records and associated Zenodo/OSF archives."
 keywords:
   - GCV
   - Gauged Constant Vacuum-Mode
   - cosmological constant
   - vacuum energy
   - source assignment
+  - programme status
   - Governance Bridge
   - flux-fixed GR
   - GR-exact branch
@@ -24,6 +25,23 @@ keywords:
   - black-hole no-hair
   - fixed-sector black-hole exterior
 references:
+  - type: article
+    title: "GCV Programme Status and Supersession Note: Current authority, historical records, conditional benchmarks, and open claims"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.21671960"
+    year: 2026
+    version: "v1.0.0"
+    status: preprint
+    identifiers:
+      - type: doi
+        value: "10.5281/zenodo.21671959"
+        description: "Concept DOI"
+      - type: doi
+        value: "10.5281/zenodo.21671960"
+        description: "v1.0.0 version DOI"
+    notes: "Current controlling programme-classification record dated 29 July 2026; reports no new scientific result and leaves earlier files, timestamps, and registrations unchanged."
   - type: article
     title: "Exact vacuum zero modes in compact top-form sectors: Source assignment and radiative stability"
     authors:
@@ -55,7 +73,7 @@ references:
       - type: url
         value: "https://osf.io/t4c92/overview"
         description: "Frozen OSF registration"
-    notes: "Current proposed stronger fixed-physical-branch source law under explicit closure hypotheses; not peer reviewed, not a complete UV or quantum-gravity completion, and not a value/sign theorem."
+    notes: "Proposed stronger fixed-physical-branch source law under primitive source/fixed-K_phys axioms and explicit closure hypotheses. All-order means each finite perturbative matter order or finite composition of admitted operations; not peer reviewed, infinite resummation, nonperturbative closure, a complete UV/quantum-gravity completion, or a value/sign theorem."
   - type: article
     title: "The Governance Bridge Law for Radiatively Stable Flux-Fixed General Relativity: A UV-to-IR Source-Assignment Theorem with Unique GR-Exact Branch Landing"
     authors:
@@ -79,7 +97,7 @@ references:
         given-names: Germund
     doi: "10.5281/zenodo.18850395"
     status: preprint
-    notes: "Historical programme synthesis; its full-closure interpretation is under re-audit."
+    notes: "Historical March 2026 programme synthesis; resolution of all three CCP pillars and physical value/sign closure are not current established conclusions."
   - type: article
     title: "Full Governance-UV Existence Proof and Benchmark Parameter Mapping for the GCV Framework"
     authors:
@@ -95,6 +113,31 @@ references:
         given-names: Germund
     doi: "10.5281/zenodo.20118448"
     status: preprint
+    notes: "Current as a descriptive role map; historical as a response-proof chain. The absolute Einstein-Hilbert denominator remains a target."
+  - type: article
+    title: "Value localization and sign selection for a source-assigned flux-fixed residual cosmological constant Lambda_eff"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.21265553"
+    status: preprint
+    notes: "Conditional numerical benchmark, not physical value/sign closure. Deposited K=1968 is an archived K_arch input, not the proposed K_phys."
+  - type: article
+    title: "Visible matter-branch baryogenesis from a thin-shell selection mechanism in radiatively stable flux-fixed GR (GCV)"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.19708255"
+    status: preprint
+    notes: "Historical/conditional benchmark; not an explanation of the observed baryon asymmetry."
+  - type: article
+    title: "Matter-Shell Throughput from Lambda-Support Overlap: A Source-Normalized Bridge and Growth-Viability Diagnostic"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.19768396"
+    status: preprint
+    notes: "Quarantined as physical descent; retained as a conditional numerical toy. Deposited K=1968 is K_arch, not K_phys."
   - type: article
     title: "No constant-mode hair in fixed-sector black-hole exteriors of flux-fixed general relativity"
     authors:
@@ -102,6 +145,23 @@ references:
         given-names: Germund
     doi: "10.5281/zenodo.20473764"
     status: preprint
+    notes: "Current within its connected, membrane-free, fixed-sector and symmetry assumptions; no new metric, observable, topology-change, singularity, evaporation, or quantum-gravity result."
+  - type: article
+    title: "Flux-fixed cosmological curvature and local support in fixed-sector GCV black holes: No constant-mode hair, source-resolved Misner-Sharp mass, and regular-core obstruction"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.20636356"
+    status: preprint
+    notes: "Conditional static-spherical two-derivative support baseline; no derived physical interior, regular-core source, distinctive observable, or complete strong-field dynamics."
+  - type: article
+    title: "A GCV-compatible black-hole sector-birth benchmark: finite-thickness corner support, child flux label, and high-mass reset candidates"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.20953300"
+    status: preprint
+    notes: "Conditional adversarial benchmark without a sector-birth action, matched junction solution, topology change, occurrence theorem, rate, selection law, or observable."
   - type: article
     title: "Bounded Geometry Transients in GCV: Source-Clock d-Band Alignment, Rank Diagnostic, and Inverse-Solved Closure Targets"
     authors:
@@ -109,7 +169,7 @@ references:
         given-names: Germund
     doi: "10.5281/zenodo.20126080"
     status: preprint
-    notes: "Conditional benchmark without an occurrence theorem."
+    notes: "Historical/conditional benchmark without an occurrence theorem."
   - type: article
     title: "Growth Sector in GCV: Rank-Clock Response, Retained Visible-Source Activation, and Falsifier Interface"
     authors:

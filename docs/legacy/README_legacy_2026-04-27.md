@@ -1,5 +1,7 @@
 # GCV Framework — Vacuum Energy, Dark Energy, and the Cosmological Constant Problem
 
+> **Historical frozen copy — 27 April 2026:** The body below preserves the repository wording from that date and includes claims and route descriptions that are not current. Do not use it as a scientific status or authority page. See the [29 July 2026 Programme Status Note](https://doi.org/10.5281/zenodo.21671960) and [CURRENT_STATUS.md](../../CURRENT_STATUS.md).
+
 **GR-exact, radiatively stable approach to the cosmological constant problem.**
 
 This repository provides a high-level entry point to the **Gauged Constant Vacuum-Mode (GCV)** framework: a GR-exact, radiatively stable approach to the cosmological constant problem with a modular late-time / UV research record.
