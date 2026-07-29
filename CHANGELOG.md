@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased — 2026-07-29
+## v1.2.0 — 2026-07-29
 
 - Added the controlling *GCV Programme Status and Supersession Note*: concept DOI [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959), exact v1.0.0 version DOI [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960), status date 29 July 2026.
 - Synchronized the front-door status, route, claims, provenance, citation, dependency, search, and module pages to the note's accepted / proposed / current-within-scope / conditional / historical / superseded / quarantined / open hierarchy.
