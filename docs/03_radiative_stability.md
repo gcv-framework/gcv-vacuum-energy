@@ -1,6 +1,6 @@
 # GR-exact backbone / radiative-stability backbone
 
-> **Current status - 29 July 2026:** Historical/supporting radiative-stability record. Its local Einstein-form equation survives, but it is not the current microscopic proof basis. See the accepted RAPS Source-Assignment paper, [the provenance-typed source-law preprint](17_provenance_typed_source_law.md), and the [Programme Status Note](18_programme_status_note.md).
+> **Current navigation — 30 September 2026:** Historical/supporting radiative-stability record. Its local Einstein-form equation survives. Current source results are documented by the [published Source Assignment article](19_source_assignment.md) and [Source Law v4.1](17_provenance_typed_source_law.md). The [July status classification](18_programme_status_note.md) remains unchanged.
 
 ## Role
 

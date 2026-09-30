@@ -1,6 +1,6 @@
 # Governance Route / Gate Architecture
 
-> **Current status - 29 July 2026:** Historical organizational and claim-boundary ledger. The ordering remains useful, but archived `closed`, `pass`, and `closeout` labels do not establish current physical closure of the Lambda, matter-shell, baryogenesis, growth, or transient gates. The record does not prove the accepted Source-Assignment theorem or the proposed provenance-typed source law. See the [Programme Status Note](18_programme_status_note.md).
+> **Current navigation — 30 September 2026:** Historical organizational and claim-boundary ledger. Archived `closed`, `pass` and `closeout` labels do not establish current physical closure of downstream gates. The record does not prove the [published Source Assignment theorem](19_source_assignment.md) or the [Source Law v4.1 implementation](17_provenance_typed_source_law.md). The [July classification](18_programme_status_note.md) remains unchanged.
 
 ## Role
 

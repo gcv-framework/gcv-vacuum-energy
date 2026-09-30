@@ -2,90 +2,81 @@
 
 This repository is intended to be a public navigation layer for GCV.
 
-## Current-status indexing rule - 29 July 2026
+## Current-status indexing rule — 30 September 2026
 
-Search descriptions must distinguish accepted, proposed, current-within-scope, conditional, historical, superseded, quarantined, and open records. Use the [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960) and [CURRENT_STATUS.md](CURRENT_STATUS.md) as the controlling classification. Preserve exact historical titles and DOI metadata for discoverability, but do not describe every indexed record as a current GCV result.
+Search descriptions should distinguish the published Source Assignment article, the current Source Law preprint, original provenance and historical/conditional/superseded records. Use [CURRENT_STATUS.md](CURRENT_STATUS.md) for the current overview and the [July Programme Status Note](https://doi.org/10.5281/zenodo.21671960) for its classifications of earlier work. Preserve original titles and dates; do not backdate later results.
 
 ## Recommended linking pattern
 
-- Homepage route-map page → GitHub route-map repository
-- GitHub route-map repository → Zenodo DOI records and OSF mirrors
-- YouTube descriptions → homepage route map + GitHub route map
-- OSF wiki → GitHub route map + canonical DOI records
-- Zenodo descriptions, where possible → GitHub route map and homepage route page
-- Paper-specific landing pages → direct PDF + version DOI + concept DOI + OSF project/registration
+- Homepage and paper-specific landing pages → canonical published/version DOI and the relevant GitHub guide.
+- GitHub → [Source Assignment website](https://johansson.digital/additional-papers/source-assignment), [Source Law website](https://johansson.digital/additional-papers/provenance-typed-source-law), DOI records and version-specific provenance.
+- OSF project wikis → current GitHub guidance and canonical records; frozen registrations preserve the version they registered.
+- Future public video descriptions → the current website and relevant paper. The repository media file currently contains placeholders only.
 
-## Core GCV priority indexing block
-
-Canonical current wording:
+## Current description
 
 ```text
-The accepted GCV Source-Assignment result is a conditional H01-H04 local source-split theorem: the exact spacetime-constant vacuum zero mode is excluded from primitive local stress, while ordinary local excitations remain in the local stress tensor and gravitate normally.
+Source Assignment is the published conditional H01-H04 local source-split theorem: within its admitted class, the exact spacetime-constant vacuum zero mode is excluded from primitive local stress, while ordinary local excitations gravitate normally.
 
-The provenance-typed source-law preprint proposes a stronger fixed-physical-branch no-transfer law under primitive source/fixed-K_phys axioms and explicit closure hypotheses. Its “all-order” scope means each finite perturbative matter order or finite admitted composition. It is not an infinite-resummation or nonperturbative theorem, a peer-reviewed UV completion, a source law derived from a known parent Ward identity, or a value/sign theorem.
+Source Law v4.1 is the current preprint on quantum implementation and compatibility in the Standard Model with perturbative gravity. It supplies a conditional local implementation at separately fixed finite loop and EFT orders, given a selected complete-theory matter reference, the source/input rule and independent geometric data. Independent gravitational and genuinely mixed terms remain retained. Finite normalization is equivalent to ordinary EFT at matched renormalized inputs.
 ```
 
-Accepted Source-Assignment record:
+## Published Source Assignment metadata
 
 ```text
-Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability
-Accepted for publication in Reports in Advances of Physical Sciences
-Manuscript WSPC-RAPS-D-26-00026
-Publisher DOI pending
-```
-
-Programme-status record:
-
-```text
-Title: GCV Programme Status and Supersession Note: Current authority, historical records, conditional benchmarks, and open claims
+Title: Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability
 Author: Germund Johansson
-Version: v1.0.0
-Status date: 2026/07/29
-Concept DOI: 10.5281/zenodo.21671959
-Version DOI: 10.5281/zenodo.21671960
-Role: controlling programme classification; reports no new scientific result
+Journal: Reports in Advances of Physical Sciences
+Volume: 10
+Article: 2650015
+Year: 2026
+Published online: 2026-09-19
+DOI: 10.1142/S2424942426500155
+Website: https://johansson.digital/additional-papers/source-assignment
 ```
 
-Proposed provenance-typed source-law DOI:
+## Source Law — current v4.1 metadata
 
 ```text
-Concept DOI: https://doi.org/10.5281/zenodo.21590692
-Version DOI v1.0.0: https://doi.org/10.5281/zenodo.21590693
-OSF project: https://osf.io/pvhyz/overview
-Frozen OSF registration: https://osf.io/t4c92/overview
-```
-
-Historical/superseded records:
-
-```text
-Governance Bridge architecture: https://doi.org/10.5281/zenodo.19676381
-Governance-UV/CFI record superseded as radiative-stability foundation: https://doi.org/10.5281/zenodo.20103850
-```
-
-Core search phrases:
-
-```text
-GCV source-assignment criterion exact spacetime-constant vacuum shifts
-Gauged Constant Vacuum-Mode exact zero mode global flux topological sector
-GCV no-leak source assignment local excitations gravitate normally
-GCV provenance-typed source law fixed-physical-branch no-transfer
-```
-
-## Provenance-typed source-law indexing block
-
-```text
-Title: A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent
+Title: Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity
 Author: Germund Johansson
-Version: v1.0.0
-Date: 2026/07/26
+Version: v4.1.0
+Year: 2026
+Status: author preprint
+Version DOI: 10.5281/zenodo.22687033
 Concept DOI: 10.5281/zenodo.21590692
-Version DOI: 10.5281/zenodo.21590693
-OSF project: https://osf.io/pvhyz/overview
-Frozen OSF registration: https://osf.io/t4c92/overview
-Status: author preprint; proposed primitive source law under explicit closure hypotheses
+Website: https://johansson.digital/additional-papers/provenance-typed-source-law
 ```
 
-The technical companion is a supporting author-controlled, AI-assisted verification and reproducibility file in the same deposit. It has no separate DOI or independent-review authority.
+Use the current title/DOI for the current Source Law page. Its main manuscript, S1 and reproducibility programs are supplied by the v4.1 archive. Archive preparation dates are not publication dates.
+
+## Source Law — original v1 provenance metadata
+
+```text
+Original title: A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent
+Author: Germund Johansson
+Version: v1.0.0
+Original disclosure date: 2026-07-26
+Version DOI: 10.5281/zenodo.21590693
+Concept DOI: 10.5281/zenodo.21590692
+Original OSF project: https://osf.io/pvhyz/overview
+Original frozen OSF registration: https://osf.io/t4c92/overview
+```
+
+Keep these original identifiers with the original disclosure. The July timestamp and v1 registration do not cover the later v4.1 calculations or proofs. The v1 technical companion is an author-controlled supporting file, not the v4.1 supplement or independent review.
+
+## July programme-status and historical records
+
+```text
+Programme Status and Supersession Note v1.0.0: 10.5281/zenodo.21671960
+Concept DOI: 10.5281/zenodo.21671959
+Status date: 2026-07-29
+Role: dated classification of earlier records; no new scientific result
+Governance Bridge architecture: 10.5281/zenodo.19676381
+Governance-UV/CFI, superseded as radiative-stability foundation: 10.5281/zenodo.20103850
+```
+
+The published article, current preprint and original disclosure are distinct citation targets. The July status note does not provide the later September results.
 
 ## Lambda value/sign source-assignment bundle indexing block
 

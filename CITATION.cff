@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "GCV route map, claim map, citation guide, and provenance index"
-message: "If you use this repository, cite the specific DOI record relevant to the claim and the programme-status version DOI 10.5281/zenodo.21671960 when current classification matters."
+message: "Cite the published Source Assignment article (10.1142/S2424942426500155), Source Law v4.1 (10.5281/zenodo.22687033), or the specific historical record relevant to the claim. Use the July programme-status note for its classifications of earlier records."
 type: dataset
 authors:
   - family-names: Johansson
@@ -9,13 +9,16 @@ authors:
 date-released: "2026-07-29"
 repository-code: "https://github.com/gcv-framework/gcv-vacuum-energy"
 url: "https://github.com/gcv-framework/gcv-vacuum-energy"
-abstract: "Navigation, route-map, citation, provenance, and current-status index for the Gauged Constant Vacuum-Mode (GCV) framework. References are classified as accepted, proposed, current-within-scope, conditional, historical, superseded, quarantined, or open; the authoritative scientific objects remain the versioned DOI records and associated Zenodo/OSF archives."
+abstract: "Navigation, route-map, citation, provenance, and current-status index for the Gauged Constant Vacuum-Mode (GCV) framework. References distinguish published Source Assignment, the current Source Law preprint and original provenance, and scoped, conditional, historical, superseded, quarantined or open records; the authoritative scientific objects remain the versioned DOI records and associated Zenodo/OSF archives."
 keywords:
   - GCV
   - Gauged Constant Vacuum-Mode
   - cosmological constant
   - vacuum energy
   - source assignment
+  - source law
+  - quantum compatibility
+  - perturbative gravity
   - programme status
   - Governance Bridge
   - flux-fixed GR
@@ -41,16 +44,35 @@ references:
       - type: doi
         value: "10.5281/zenodo.21671960"
         description: "v1.0.0 version DOI"
-    notes: "Current controlling programme-classification record dated 29 July 2026; reports no new scientific result and leaves earlier files, timestamps, and registrations unchanged."
+    notes: "Dated 29 July 2026 classification of earlier records; reports no new science and preserves earlier files, timestamps and registrations. Later September developments have their own source records."
   - type: article
-    title: "Exact vacuum zero modes in compact top-form sectors: Source assignment and radiative stability"
+    title: "Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability"
     authors:
       - family-names: Johansson
         given-names: Germund
     journal: "Reports in Advances of Physical Sciences"
+    volume: 10
     year: 2026
-    status: in-press
-    notes: "Accepted for publication; manuscript WSPC-RAPS-D-26-00026; publisher DOI pending. Current conditional H01-H04 local source-split theorem."
+    month: 9
+    date-published: "2026-09-19"
+    doi: "10.1142/S2424942426500155"
+    url: "https://johansson.digital/additional-papers/source-assignment"
+    notes: "Published article 2650015. Conditional H01-H04 local source-split theorem; separate from the historical Governance Bridge and the Source Law preprint."
+  - type: article
+    title: "Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity"
+    authors:
+      - family-names: Johansson
+        given-names: Germund
+    doi: "10.5281/zenodo.22687033"
+    year: 2026
+    version: "v4.1.0"
+    status: preprint
+    url: "https://johansson.digital/additional-papers/provenance-typed-source-law"
+    identifiers:
+      - type: doi
+        value: "10.5281/zenodo.21590692"
+        description: "Concept DOI"
+    notes: "Current Source Law preprint. Conditional local quantum implementation in the Standard Model with perturbative gravity at separately fixed finite loop and EFT orders. Supplied matter reference and independent geometric data; retained gravity-origin and genuinely mixed terms. Finite normalization is equivalent to ordinary EFT at matched inputs."
   - type: article
     title: "A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent"
     authors:
@@ -58,6 +80,8 @@ references:
         given-names: Germund
     doi: "10.5281/zenodo.21590693"
     year: 2026
+    month: 7
+    date-published: "2026-07-26"
     version: "v1.0.0"
     status: preprint
     identifiers:
@@ -66,14 +90,15 @@ references:
         description: "Concept DOI"
       - type: doi
         value: "10.5281/zenodo.21590693"
-        description: "v1.0.0 version DOI"
+        description: "Original v1.0.0 version DOI"
       - type: url
         value: "https://osf.io/pvhyz/overview"
-        description: "OSF project"
+        description: "Original v1 OSF project"
       - type: url
         value: "https://osf.io/t4c92/overview"
-        description: "Frozen OSF registration"
-    notes: "Proposed stronger fixed-physical-branch source law under primitive source/fixed-K_phys axioms and explicit closure hypotheses. All-order means each finite perturbative matter order or finite composition of admitted operations; not peer reviewed, infinite resummation, nonperturbative closure, a complete UV/quantum-gravity completion, or a value/sign theorem."
+        description: "Frozen v1 OSF registration"
+    notes: "Original Source Law disclosure and provenance, 26 July 2026. Its conditional finite-matter-order and finite-composition statements belong to v1; this timestamp and registration do not cover the later v4.1 calculations or proofs."
+
   - type: article
     title: "The Governance Bridge Law for Radiatively Stable Flux-Fixed General Relativity: A UV-to-IR Source-Assignment Theorem with Unique GR-Exact Branch Landing"
     authors:
@@ -81,7 +106,7 @@ references:
         given-names: Germund
     doi: "10.5281/zenodo.19676381"
     status: preprint
-    notes: "Historical and supporting source-assignment architecture and priority record; not the accepted RAPS local theorem and not evidence for strict fixed-physical-branch no-transfer."
+    notes: "Historical and supporting source-assignment architecture and priority record; not the published RAPS local theorem and not evidence for strict fixed-physical-branch no-transfer."
   - type: article
     title: "The Governance Route and Gate Architecture of Matter-Bearing Universes in GCV: An IR-Backbone-to-UV-Admissibility Translation, GR-Exact Landing Map, and Downstream Branch-Viability Control Ledger"
     authors:

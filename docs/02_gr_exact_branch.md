@@ -1,6 +1,6 @@
 # GR-exact backbone / radiative-stability backbone
 
-> **Current status - 29 July 2026:** Historical/supporting radiative-stability record. Its local Einstein-form equation, local/global source-split architecture, operator red lines, and priority trail remain useful. Cite the accepted RAPS Source-Assignment paper for the current conditional local theorem and [the provenance-typed preprint](17_provenance_typed_source_law.md) for the separately proposed strict fixed-`K_phys` construction.
+> **Current navigation — 30 September 2026:** Historical/supporting backbone. Its local Einstein-form equation, local/global source-split architecture, operator red lines and priority trail remain useful. Cite [Source Assignment](19_source_assignment.md) for the published conditional theorem and [Source Law v4.1](17_provenance_typed_source_law.md) for the additional source/input rule and quantum implementation.
 
 ## Role
 

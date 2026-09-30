@@ -2,37 +2,28 @@
 
 This file is the dependency route for the GCV programme. It is not a new scientific claim; it indexes the existing DOI and OSF records.
 
-## Current reading - 29 July 2026
+## Current reading — 30 September 2026
 
-The [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960) controls the present classification; [CURRENT_STATUS.md](CURRENT_STATUS.md) synchronizes it into the repository. The tables below preserve historical titles, DOI/version relations, dates, and priority metadata.
+Use [CURRENT_STATUS.md](CURRENT_STATUS.md) for the combined current view. The [July Programme Status Note](https://doi.org/10.5281/zenodo.21671960) continues to classify earlier records; the September publication and Source Law developments are supported by their own records. Historical titles, dates, DOI relations and registrations are preserved.
 
-- The accepted RAPS Source-Assignment paper is the conditional local source-split theorem; publisher DOI pending.
-- [The provenance-typed source law](https://doi.org/10.5281/zenodo.21590693) is a proposed stronger fixed-physical-branch construction under primitive source/fixed-`K_phys` axioms and explicit closure hypotheses; its “all-order” scope is finite perturbative orders and finite admitted compositions.
-- Governance-UV v1.2.0 / CFI Section 6.2 is historical and superseded as the proposed radiative-stability basis and response/PB anchor.
-- Full programme CCP closure and physical value/sign closure are not current established conclusions. Baryogenesis is historical/conditional, matter-shell is quarantined as physical descent, nonzero growth and lensing predictions are superseded, the bounded transient has no occurrence theorem, and DESI is a historical/conditional fixed-template exercise.
+- [Source Assignment](docs/19_source_assignment.md), [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155), is the published conditional local source-split theorem.
+- [Source Law v4.1](docs/17_provenance_typed_source_law.md), [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033), is the current preprint on quantum implementation and compatibility under supplied fixed-reference and geometric inputs, at separately fixed finite loop/EFT orders.
+- [Original Source Law v1](https://doi.org/10.5281/zenodo.21590693) preserves its 26 July 2026 disclosure and provenance.
+- Governance-UV/CFI remains superseded as the radiative-stability foundation and response anchor. The July classifications for value/sign and downstream applications remain in force.
 
 ## Core route
 
-```text
-accepted RAPS Source-Assignment theorem
-→ conditional local Einstein-form landing
+Published Source Assignment supplies the conditional local source split and Einstein-form landing. Source Law v4.1 studies the additional supplied source/input rule and its local quantum implementation; it does not amend the published article or redefine H04. Downstream applications require their own source, occurrence and response derivations.
 
-proposed provenance-typed source law
-→ stronger fixed-physical-branch no-transfer under additional hypotheses
-
-downstream applications
-→ separate source, occurrence, and response derivations
-```
-
-The earlier Governance Bridge and Governance Route / Gate Architecture remain the historical organizational route. They are not evidence that every downstream gate is presently closed.
+The earlier Governance Bridge and Governance Route / Gate Architecture remain historical organizational records. Their gate labels do not establish current downstream physical closure.
 
 ## Layer map
 
 | Layer | What it establishes | Records |
 |---|---|---|
-| Programme status control | Current accepted/proposed/historical/conditional/open classification; no new scientific result. | Programme Status and Supersession Note: [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) |
-| Accepted Source Assignment | Conditional H01-H04 local source split: exact vacuum zero mode excluded from primitive local stress; ordinary local excitations retained. | Accepted RAPS manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending |
-| Proposed provenance-typed source law | Under primitive source and independent fixed-`K_phys` axioms, conditionally preserves no transfer of the saturated matter-zero lineage into retained local stress or fixed-branch data at each finite matter order or finite admitted composition. | Source-law preprint: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) |
+| Earlier-record classification | Dated July classification; no new science or later v4.1 results. | [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) |
+| Published Source Assignment | Conditional H01-H04 local source split and Einstein-form landing. | [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155) · [website](https://johansson.digital/additional-papers/source-assignment) |
+| Source Law v4.1 | Conditional local quantum implementation at separately fixed finite loop/EFT orders; supplied source and geometric inputs, retained gravity/mixed terms, matched-input EFT equivalence. | [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033) · [website](https://johansson.digital/additional-papers/provenance-typed-source-law) |
 | Governance bridge | Historical source-assignment architecture and priority record; its broader branch-relabeling language is not strict fixed-branch no-transfer. | Governance Bridge Law: [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
 | Governance route / gate architecture | Historical organizational map from the IR backbone through candidate gates; it does not validate present closure of those gates. | Governance Route / Gate Architecture: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
 | GR-exact branch | Flux-fixed local Einstein equation and branch-scoped source assignment. | GR-exact backbone / radiative-stability backbone: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)<br>Gravity in GCV role map: [10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
@@ -48,10 +39,13 @@ The earlier Governance Bridge and Governance Route / Gate Architecture remain th
 
 ## Canonical included records
 
+Source Law retains its first-version DOI/date while pointing to v4.1 for current work. Its listed OSF project/registration identify original v1 provenance, not a v4.1 registration.
+
 | ID | Module | Priority | Concept DOI | First version DOI/date | Current DOI/date | OSF backup | OSF registration |
 |---:|---|---|---|---|---|---|---|
 | PS | Programme Status and Supersession Note | Control | [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959) | [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960)<br>2026-07-29 | [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960)<br>2026-07-29 | — | — |
-| 00 | Provenance-typed source law preprint | Critical | [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692) | [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)<br>2026-07-26 | [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)<br>2026-07-26 | [backup](https://osf.io/pvhyz/overview) | [registration](https://osf.io/t4c92/overview) |
+| SA | Published Source Assignment | Critical | — (journal article) | [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155)<br>2026-09-19 (journal publication) | [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155)<br>2026-09-19 | — | — |
+| 00 | Source Law preprint | Critical | [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692) | [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)<br>2026-07-26 (original v1) | [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033)<br>2026 (v4.1) | [original v1 project](https://osf.io/pvhyz/overview) | [original v1 registration](https://osf.io/t4c92/overview) |
 | 01 | Governance Bridge Law | Critical | [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380) | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)<br>2026-04-21 | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)<br>2026-04-21 | [backup](https://osf.io/e3qy8/overview) | [registration](https://osf.io/fv94u/overview) |
 | 02 | Governance Route / Gate Architecture | High | [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410) | [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)<br>2026-04-29 | [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)<br>2026-04-29 | [backup](https://osf.io/vd24w/overview) | [registration](https://osf.io/x6jgu/overview) |
 | 03 | GR-exact backbone / radiative-stability backbone | Critical | [10.5281/zenodo.17636209](https://doi.org/10.5281/zenodo.17636209) | [10.5281/zenodo.17636210](https://doi.org/10.5281/zenodo.17636210)<br>2025-11-18 | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)<br>2026-01-04 | — | — |

@@ -1,5 +1,16 @@
 # Changelog
 
+## Unreleased — published Source Assignment and Source Law v4.1
+
+- Replaced current RAPS acceptance/DOI-pending guidance with the published Source Assignment citation: *Reports in Advances of Physical Sciences* 10, 2650015 (2026), [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155).
+- Added the dedicated Source Assignment guide and links to both current website pages.
+- Updated current Source Law guidance to v4.1, [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033), covering the conditional local Standard-Model/perturbative-gravity implementation at separately fixed finite loop/EFT orders, supplied source/geometric premises, retained gravity/mixed contributions and matched-input EFT equivalence.
+- Preserved original Source Law v1, [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), its 26 July 2026 disclosure and original OSF provenance, without backdating later results.
+- Synchronized citation metadata, current status, claims, routes, provenance, DOI/dependency tables, search guidance and the reusable OSF wiki text.
+- Retained the July classifications for older programme records and left historical releases, changelog entries, deposited records and registrations unchanged.
+
+This is a repository documentation update. It creates no new scientific paper, DOI or registration.
+
 ## v1.2.0 — 2026-07-29
 
 - Added the controlling *GCV Programme Status and Supersession Note*: concept DOI [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959), exact v1.0.0 version DOI [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960), status date 29 July 2026.

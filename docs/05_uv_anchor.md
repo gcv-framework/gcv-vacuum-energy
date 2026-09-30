@@ -1,6 +1,6 @@
 # Full Governance-UV existence proof / CFI 6.2 benchmark mapping
 
-> **Current status - 29 July 2026:** Superseded as the current proof basis for GCV radiative stability and as the Route-B/CFI/PB response-production anchor. CFI Section 6.2 does not establish the required provenance-preserving source law. DOI, version, OSF metadata, and historical conditional calculations are preserved.
+> **Current navigation — 30 September 2026:** Historical Governance-UV / CFI Section 6.2 record, superseded as the radiative-stability foundation and response-production anchor. Use [Source Assignment](19_source_assignment.md) and [Source Law v4.1](17_provenance_typed_source_law.md) for the current source results and their separate scopes. The [July classification](18_programme_status_note.md) remains unchanged.
 
 ## Role
 

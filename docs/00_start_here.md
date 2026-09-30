@@ -4,32 +4,28 @@ Use this repository as a route-map and citation/provenance index, not as a repla
 
 ## Current status
 
-Read the [Programme Status and Supersession Note](18_programme_status_note.md) and [Current Scientific Status](../CURRENT_STATUS.md) first. The controlling note has [version DOI 10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960). The accepted RAPS Source-Assignment paper is the current conditional local source-split theorem; its publisher DOI is pending. [The provenance-typed source law](17_provenance_typed_source_law.md) is a proposed stronger fixed-physical-branch construction under primitive axioms and explicit scope limits, not a peer-reviewed UV completion.
+Start with [Source Assignment](19_source_assignment.md), the published RAPS article, and [Source Law](17_provenance_typed_source_law.md), the current v4.1 preprint on quantum implementation and compatibility. [CURRENT_STATUS.md](../CURRENT_STATUS.md) combines those records with the earlier-record classifications in the [July Programme Status Note](18_programme_status_note.md).
 
-Governance-UV/CFI is superseded as the current radiative-stability proof basis and response/PB anchor. Full programme CCP closure and physical value/sign closure are not current established conclusions. Baryogenesis is historical/conditional, matter-shell is quarantined as physical descent, nonzero Growth and Lensing predictions are superseded, Bounded Transients is a conditional benchmark without occurrence, and DESI is a historical/conditional fixed-template exercise.
+The published local theorem is conditional on H01-H04. Within that class, the exact spacetime-constant vacuum zero mode is excluded from primitive local stress and the fixed-sector local equation has Einstein form. Ordinary local excitations gravitate normally.
 
-## Core GCV priority claim
+Source Law v4.1 studies an additional supplied source/input rule, one complete-theory matter reference and independent geometric data. It gives conditional local compatibility at each separately fixed finite loop and EFT order, including scoped perturbative-gravity results. Finite normalization is equivalent to ordinary EFT at matched inputs; the source selector and observed cosmological constant are not derived.
 
-The accepted local claim is conditional: under H01-H04, the exact spacetime-constant vacuum zero mode is excluded from primitive local stress and the fixed-sector local equation has Einstein form.
-
-Local matter, radiation, fields, curvature-dependent terms, shells, semiclassical stress, perturbations, and other local excitations remain in the local stress tensor and gravitate normally. The source-assignment claim concerns only the exact spacetime-constant vacuum zero mode.
+Governance-UV/CFI remains superseded as the radiative-stability foundation and response anchor. The July classifications for value/sign, baryogenesis, matter-shell, growth, lensing, transients and DESI remain in force; see the current-status page for each scope.
 
 ## Fast path
 
-1. Read the short [README](../README.md).
-2. Read the [Programme Status and Supersession Note](18_programme_status_note.md).
-3. Read the [Route Map](../ROUTE_MAP.md).
-4. Read the [Provenance-Typed Source Law](17_provenance_typed_source_law.md) for the proposed stronger fixed-branch rule and its limitations.
-5. Read the [Governance Route / Gate Architecture page](12_gate_architecture.md) as the historical bridge-to-branch-to-viability map.
-6. Read the [Lambda value/sign source-assignment bundle note](16_lambda_value_sign_bundle.md) for the conditional July 2026 value/sign record.
-7. Use the [Citation Guide](../CITATION.md) to cite the specific module.
-8. Use [Provenance](../PROVENANCE.md) to verify backup and OSF registration records.
+1. Read the [README](../README.md) and [Current Scientific Status](../CURRENT_STATUS.md).
+2. Read [Source Assignment](19_source_assignment.md) for the published theorem and citation.
+3. Read [Source Law](17_provenance_typed_source_law.md) for v4.1's implementation, limits and original v1 provenance.
+4. Use the [Route Map](../ROUTE_MAP.md) and [July Programme Status Note](18_programme_status_note.md) to place earlier records.
+5. Use the [Citation Guide](../CITATION.md) and [Provenance Map](../PROVENANCE.md) for exact citation and timestamp attribution.
 
 ## Most important records
 
-- Accepted RAPS Source-Assignment paper: *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*, manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending
+- Published Source Assignment: *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*, RAPS 10, 2650015 (2026), [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155)
 - Programme Status and Supersession Note: [version DOI 10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960); [concept DOI 10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959)
-- Proposed provenance-typed source law: [version DOI 10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693); [concept DOI 10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692); [OSF project pvhyz](https://osf.io/pvhyz/overview); [frozen registration t4c92](https://osf.io/t4c92/overview)
+- Source Law current v4.1: [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033); concept [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
+- Source Law original v1, 26 July 2026: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693); [original OSF project](https://osf.io/pvhyz/overview); [frozen v1 registration](https://osf.io/t4c92/overview)
 - Historical Governance Bridge Law: [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)
 - Historical Governance Route / Gate Architecture: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 - Historical GR-exact radiative-stability backbone: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
@@ -65,23 +61,15 @@ The exterior no-hair record is current within its connected, membrane-free, fixe
 
 ## Core ontology
 
-```text
-accepted conditional local Source-Assignment theorem
-→ GR-exact landed branch
-
-proposed provenance-typed source law
-→ stronger fixed-physical-branch no-transfer under additional hypotheses
-
-downstream applications
-→ separate source, occurrence, and response derivations
-```
+Published Source Assignment establishes the conditional local source split and GR-exact landing. Source Law v4.1 studies the additional source/input rule and its quantum implementation. Ordinary local matter and retained gravitational/mixed contributions remain physical. Downstream applications require their own derivations.
 
 ## Citation rule
 
 Use the most specific DOI:
 
-- cite the accepted RAPS paper for the conditional local source-split theorem;
-- cite [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) for the proposed stronger fixed-physical-branch source law;
+- cite the published RAPS article, [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155), for the conditional local source-split theorem;
+- cite Source Law v4.1, [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033), for the current implementation and compatibility result;
+- cite original v1, [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), for that version's content and original provenance;
 - cite the Governance Bridge and Governance Route / Gate Architecture only for their historical architecture and priority records;
 - cite the CCP synthesis only for its historical programme-level formulation;
 - cite the Lambda value/sign source-assignment bundle for its conditional numerical calculations, explicitly not as physical value/sign closure;

@@ -2,15 +2,17 @@
 
 ## One-sentence summary
 
-GCV is a flux-fixed GR framework in which the strictly spacetime-constant vacuum zero mode is excluded from retained local stress, ordinary local excitations remain in the local stress-energy tensor, and `Lambda_eff` is retained as a geometric branch constant rather than local vacuum matter. The physical compact/flux-to-`Lambda_eff` realization and selection map remains open.
+GCV studies a conditional source assignment in flux-fixed GR: within the admitted class, the exact spacetime-constant vacuum zero mode is excluded from primitive local stress, ordinary local excitations gravitate normally, and `Lambda_eff` is a geometric branch label. The physical branch realization and value/sign selection remain open.
 
-## Current scientific status - 29 July 2026
+## Current scientific status — 30 September 2026
 
-Read the [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960) and [CURRENT_STATUS.md](CURRENT_STATUS.md) before using the route map. The note's [concept DOI is 10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959); its exact v1.0.0 [version DOI is 10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960). It is the controlling classification as of 29 July 2026 and reports no new scientific result.
+**[Source Assignment](docs/19_source_assignment.md)** is published in *Reports in Advances of Physical Sciences* **10**, 2650015 (2026), DOI [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155). It is the conditional H01-H04 local source-split theorem.
 
-The accepted RAPS Source-Assignment paper remains the current conditional local source-split theorem. The [provenance-typed source-law preprint](https://doi.org/10.5281/zenodo.21590693) is a separate proposed stronger fixed-physical-branch no-transfer law under explicit primitive axioms and closure hypotheses.
+**[Source Law](docs/17_provenance_typed_source_law.md)** is the separate current preprint **v4.1.0**, *Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity*, DOI [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033). It develops the conditional local quantum implementation of a supplied fixed-reference source rule at separately fixed finite loop and EFT orders. The source rule and independent geometric data remain premises; finite normalization is equivalent to ordinary EFT at matched inputs.
 
-Governance-UV v1.2.0 / CFI Section 6.2 is superseded as the current radiative-stability proof basis and downstream response-production anchor. Full programme CCP closure and physical value/sign closure are not current established conclusions. The presently established late-time landing is GR+`Lambda_eff`, without an additional derived growth, lensing, or transient response. Historical records and priority timestamps are preserved.
+Read [CURRENT_STATUS.md](CURRENT_STATUS.md) for the combined current scope. The [Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960) remains the dated **29 July 2026 classification of earlier records**; it reports no new scientific result and does not document the later September developments. The [original Source Law v1](https://doi.org/10.5281/zenodo.21590693) remains the 26 July provenance record.
+
+Governance-UV v1.2.0 / CFI Section 6.2 remains superseded as the radiative-stability foundation and downstream response-production anchor. Full programme CCP closure and physical value/sign closure are not established. The present late-time baseline is GR+`Lambda_eff`, without an additional derived GCV growth, lensing or transient response.
 
 ## Core GCV priority claim
 
@@ -24,15 +26,16 @@ Local matter, radiation, fields, curvature-dependent terms, shells, semiclassica
 G_{μν} + Λ_eff g_{μν} = 8πG T^loc_{μν}
 ```
 
-Here `T^loc` contains local excitations but excludes strictly spacetime-constant vacuum contributions. `Λ_eff` is the geometric branch constant, not local vacuum matter. The proposed source-law preprint separately postulates independent fixed `K_phys`; neither it nor the accepted theorem derives the physical compact/flux or `K_phys`-to-`Λ_eff` realization and selection map. Moving the `Λ_eff` term across the equation does not turn it into matter.
+Within the published admitted class, `T^loc` contains ordinary local excitations and excludes the exact matter-vacuum zero mode. `Λ_eff` is the geometric branch constant, not local vacuum matter. Source Law v4.1 separately supplies one fixed complete-theory matter reference and independent geometric data; neither it nor the published theorem derives the physical branch realization or the observed value/sign of `Λ_eff`. Moving the `Λ_eff` term across the equation does not turn it into matter.
 
 ## Core claim spine
 
 | Layer | Claim | Exact citation |
 |---|---|---|
-| Current programme classification | Controls which records are accepted, proposed, historical, conditional, superseded, quarantined, or open as of 29 July 2026; reports no new science. | [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) |
-| Accepted local source assignment | Under H01-H04, the exact spacetime-constant vacuum zero mode is excluded from primitive local stress while ordinary local excitations gravitate normally. | *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*, accepted by RAPS, manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending |
-| Proposed fixed-branch source law | Under its primitive source and fixed-`K_phys` axioms and stated closure hypotheses, the protected matter-zero lineage has no retained local-source or fixed-branch geometric image at every finite perturbative matter order or finite composition of admitted operations. | [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) |
+| Earlier-record classification | Dated 29 July 2026 classification of historical, conditional, superseded, quarantined and open records; no new science. September source developments are documented separately. | [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) |
+| Published Source Assignment | Conditional H01-H04 local source split; ordinary local excitations gravitate normally. | [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155) |
+| Source Law — current v4.1 preprint | Conditional local quantum implementation in the Standard Model with perturbative gravity at separately fixed finite loop/EFT orders; supplied reference and geometric data, retained gravity/mixed contributions, matched-input EFT equivalence. | [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033) |
+| Source Law — original v1 | Original 26 July 2026 disclosure and provenance; its timestamp applies to that version. | [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) |
 | Historical Governance Bridge | Preserves the earlier source-assignment architecture and priority trail; its broader branch-relabeling language is not evidence for strict fixed-physical-branch no-transfer. | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
 | GR-exact landing | Local gravity lands on Einstein form with flux-fixed `Λ_eff` and local `T^loc`. | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371) |
 | Residual `Λ_eff` | Historical residual / squashing-remnant interpretation; the retained current statement is that `Λ_eff` is a global/geometric branch label rather than local vacuum matter. | [10.5281/zenodo.19185470](https://doi.org/10.5281/zenodo.19185470) |
@@ -48,7 +51,7 @@ Use the most specific DOI for the claim being cited. Use the version DOI for an 
 
 ## Historical role of the Governance Bridge
 
-The Governance Bridge records the earlier source-assignment architecture and translates the IR GR-exact target into UV-facing admissibility language. It does not establish the stricter fixed-physical-branch no-transfer result proposed in the July 2026 provenance-typed source law.
+The Governance Bridge records the earlier source-assignment architecture and translates the IR GR-exact target into UV-facing admissibility language. For the published local theorem use Source Assignment; for the additional source/input rule and current quantum implementation use Source Law v4.1.
 
 It assigns sources before solving:
 
@@ -62,12 +65,15 @@ It assigns sources before solving:
 
 ## Current route DOI anchors
 
+- Published Source Assignment: [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155)
+- Source Law current v4.1.0: [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033)
+
 - Programme Status Note concept DOI: [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959)
 - Programme Status Note v1.0.0 version DOI: [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960)
 - Provenance-typed source law concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
-- Provenance-typed source law v1.0.0 version DOI: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
-- Provenance-typed source law OSF project: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
-- Provenance-typed source law frozen OSF registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
+- Source Law original v1.0.0 version DOI (26 July 2026): [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+- Source Law original v1 OSF project: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
+- Source Law original v1 frozen OSF registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
 - Governance Route / Gate Architecture concept DOI: [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410)
 - Governance Route / Gate Architecture v1.0.0 version DOI: [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411)
 - Governance Route / Gate Architecture OSF mirror: [https://osf.io/vd24w/overview](https://osf.io/vd24w/overview)
@@ -96,9 +102,9 @@ Use the concept DOI for navigation to the evolving record family. Use the versio
 
 | Step | Question | GCV module | Main record |
 |---:|---|---|---|
-| Status control | What is the current classification of the public programme record? | Programme Status and Supersession Note | [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) |
-| 1 | What is the accepted local source-split theorem? | Accepted RAPS Source-Assignment paper | Manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending |
-| 2 | What is the proposed stronger fixed-branch source law? | Provenance-typed source law | [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) |
+| Earlier-record status | How are earlier programme records classified? | July Programme Status and Supersession Note; current synthesis in CURRENT_STATUS.md | [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) |
+| 1 | What is the published local source-split theorem? | Source Assignment | [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155) |
+| 2 | How is a supplied source rule implemented consistently with quantum corrections? | Source Law v4.1 — quantum implementation and compatibility | [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033) |
 | Historical route | How was bridge landing organized against downstream branch viability? | Governance Bridge and Governance Route / Gate Architecture | [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)<br>[10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
 | 3 | What is the GR-exact branch? | Radiative-stability backbone; Gravity in GCV role map | [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)<br>[10.5281/zenodo.20118448](https://doi.org/10.5281/zenodo.20118448) |
 | Side audit | Does the exact constant mode become black-hole exterior hair or local core support? | Fixed-sector black-hole compatibility | [10.5281/zenodo.20473764](https://doi.org/10.5281/zenodo.20473764)<br>[10.5281/zenodo.20636356](https://doi.org/10.5281/zenodo.20636356)<br>[10.5281/zenodo.20953300](https://doi.org/10.5281/zenodo.20953300) |
@@ -115,7 +121,8 @@ Use the concept DOI for navigation to the evolving record family. Use the versio
 - [Current scientific status](CURRENT_STATUS.md)
 - [Programme Status and Supersession Note](docs/18_programme_status_note.md)
 - [Route map](ROUTE_MAP.md)
-- [Provenance-typed source law](docs/17_provenance_typed_source_law.md)
+- [Source Assignment — published RAPS article](docs/19_source_assignment.md)
+- [Source Law — current v4.1 and original v1](docs/17_provenance_typed_source_law.md)
 - [Governance Route / Gate Architecture](docs/12_gate_architecture.md)
 - [Gravity in GCV](docs/13_gravity_role_map.md)
 - [Lensing Sector in GCV](docs/14_lensing_sector.md)
@@ -132,6 +139,8 @@ Use the concept DOI for navigation to the evolving record family. Use the versio
 ## Public links
 
 - Homepage: [johansson.digital](https://johansson.digital)
+- [Source Assignment website page](https://johansson.digital/additional-papers/source-assignment)
+- [Source Law website page](https://johansson.digital/additional-papers/provenance-typed-source-law)
 - GitHub repo: [gcv-framework/gcv-vacuum-energy](https://github.com/gcv-framework/gcv-vacuum-energy)
 - OSF PDF mirror, 2026-01-05: [OSF PDF mirror](https://osf.io/3d2e9/overview)
 - OSF archived-Zenodo evidence mirror, 2026-01-17: [OSF evidence mirror](https://osf.io/pk6jf/overview)
@@ -157,21 +166,13 @@ This repository is not intended to duplicate the full PDF/source packages alread
 
 ## Current GitHub hub status
 
-The current live repository includes the July 2026 Lambda value/sign source-assignment bundle, the June 2026 fixed-sector black-hole chain, homepage landing pages, OSF provenance links, and the canonical GCV source-assignment priority claim.
+This hub indexes the published Source Assignment article, the current Source Law v4.1 preprint and original v1 provenance, together with the earlier programme records.
 
-Current status:
-
-- programme classification synchronized to the 29 July 2026 status note, [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960);
-- accepted RAPS conditional local Source-Assignment theorem identified; publisher DOI pending;
-- proposed provenance-typed fixed-branch source law indexed at [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693);
-- Governance-UV/CFI and affected downstream records reclassified without changing their historical files, registrations, or timestamps;
-- baryogenesis retained only as a historical/conditional benchmark and matter-shell quarantined as physical descent;
-- black-hole exterior, local-support, and sector-birth records separated into their current-within-scope, conditional-audit, and conditional-no-occurrence classifications;
-- July 2026 Lambda value/sign source-assignment bundle indexed;
-- June 2026 fixed-sector black-hole no-hair, local-support, and sector-birth records indexed;
-- concept DOI and version DOI distinctions preserved;
-- route-map entries, citation guidance, DOI index, provenance map, and dependency route updated;
-- GitHub preserved as a navigation, citation, and provenance hub.
+- The RAPS article is cited by its publisher DOI, [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155).
+- The current Source Law implementation and scope are cited to v4.1, [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033); original v1 dates and registrations remain attributed to v1.
+- The July status classifications for Governance-UV/CFI, Lambda value/sign, downstream response, baryogenesis, matter-shell and black-hole records are preserved.
+- Historical DOI records, files, registrations, releases and priority timestamps remain unchanged.
+- GitHub remains a navigation, citation and provenance hub; full scientific packages remain in their DOI archives.
 
 ## 2026-07-09 Lambda value/sign source-assignment bundle
 

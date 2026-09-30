@@ -2,15 +2,16 @@
 
 Use the most specific DOI for the claim being cited. This repository is a hub/index; the authoritative records are the DOI archives.
 
-For current status and claim boundaries, cite the [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960) and read [CURRENT_STATUS.md](CURRENT_STATUS.md). Historical titles and DOI records remain citable for the exact archived calculation or claim they contain.
+Use [CURRENT_STATUS.md](CURRENT_STATUS.md) for the current overview and cite the specific source paper for its result. The [Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960) supplies the dated July classification of earlier records. Historical titles and DOI records remain citable for their exact archived content.
 
 ## Main citation anchors
 
 | Claim / use case | Cite this record |
 |---|---|
-| Current programme classification and supersession status | *GCV Programme Status and Supersession Note* — [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) |
-| Accepted conditional local source-split theorem | *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*; accepted by RAPS, manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending |
-| Proposed stronger fixed-physical-branch source law | *A provenance-typed source law for exact vacuum zero modes* — [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) |
+| July classification and supersession status of earlier records | *GCV Programme Status and Supersession Note* — [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) |
+| Published conditional local source-split theorem | *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*, RAPS 10, 2650015 (2026) — [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155) |
+| Current Source Law quantum implementation and compatibility | *Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity* (v4.1.0), preprint — [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033) |
+| Original Source Law disclosure, 26 July 2026 | *A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent* (v1.0.0) — [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) |
 | Historical Governance Bridge architecture | Governance Bridge Law — [10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381) |
 | Historical ordered gate architecture | Governance Route / Gate Architecture — [10.5281/zenodo.19874411](https://doi.org/10.5281/zenodo.19874411) |
 | Historical GR-exact local-equation backbone | Radiative-stability backbone — [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371) |
@@ -42,26 +43,42 @@ Use [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) when the 
 Johansson, G. (2026). GCV Programme Status and Supersession Note: Current authority, historical records, conditional benchmarks, and open claims (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21671960
 ```
 
-## July 2026 source stack
+## Published Source Assignment
 
-Use the accepted RAPS paper for the conditional local H01-H04 source-split theorem. Until its publisher DOI is assigned, identify it by title, journal-acceptance status, and manuscript number.
+Use the publisher DOI for the conditional H01-H04 local source-split theorem:
 
-Use [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) for the proposed provenance-typed fixed-physical-branch source law. Describe it as an author preprint whose conditional no-transfer result covers each finite perturbative matter order or finite composition of admitted operations under its primitive source and fixed-`K_phys` axioms and other stated hypotheses. Do not cite “all-order” as infinite resummation, nonperturbative closure, unrestricted null/corner closure, a peer-reviewed UV completion, a known-Ward-identity derivation, quantum gravity, or a value/sign theorem.
+```text
+Johansson, G. (2026). Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability. Reports in Advances of Physical Sciences, 10, 2650015. https://doi.org/10.1142/S2424942426500155
+```
 
-Formal preprint citation:
+Published online 19 September 2026. [Website](https://johansson.digital/additional-papers/source-assignment) · [Repository guide](docs/19_source_assignment.md). The Governance Bridge Zenodo record is a separate historical work, not the journal article's DOI.
+
+## Source Law — current v4.1 preprint
+
+```text
+Johansson, G. (2026). Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity (v4.1.0). Zenodo. https://doi.org/10.5281/zenodo.22687033
+```
+
+Use v4.1 for the current implementation, calculations, corrected comparisons and conditional local compatibility statement. Its loop and EFT orders are separately fixed and finite. The source/input rule and independent geometric data are premises; independent gravitational and genuinely mixed terms remain retained. Finite normalization is equivalent to ordinary EFT at matched renormalized inputs. See [Source Law](docs/17_provenance_typed_source_law.md) for its domain and limits.
+
+- Current version DOI: [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033)
+- Concept DOI for the evolving family: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
+- Website: [Source Law](https://johansson.digital/additional-papers/provenance-typed-source-law)
+- Supporting material: main manuscript, S1 and reproducibility programs in the v4.1 archive.
+
+## Source Law — original v1 provenance
 
 ```text
 Johansson, G. (2026). A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21590693
 ```
 
-The technical companion shares this DOI and is a supporting author-controlled, AI-assisted verification/reproducibility file. It is not a separate scientific record or independent review.
+Original disclosure date: **26 July 2026**. Use this citation for that version's content and provenance. Its date does not date the later v4.1 calculations or proofs. The original title's “all-order” wording refers to the stated finite perturbative matter orders or finite admitted compositions, not an infinite-resummation or nonperturbative completion.
 
-Archive and provenance links:
+- Original version DOI: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+- Original OSF project: [pvhyz](https://osf.io/pvhyz/overview)
+- Original frozen OSF registration: [t4c92](https://osf.io/t4c92/overview)
 
-- Concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
-- Version DOI v1.0.0: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
-- OSF project: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
-- Frozen OSF registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
+The v1 technical companion shares that deposit's DOI. It is a supporting author-controlled, AI-assisted verification record, not the v4.1 supplement or independent peer review. The original frozen registration covers v1, not v4.1.
 
 ## July 2026 Lambda value/sign bundle
 
@@ -106,7 +123,7 @@ This is the first public consolidated source-assignment bundled edition of the r
 
 Use the Governance Route / Gate Architecture DOI when citing the historical ordered route from Governance Bridge admissibility to GR-exact landing and downstream matter-bearing / growth-viability gates. Its historical `pass`, `closed`, and `closeout` labels do not establish current physical closure.
 
-Use the Governance Bridge Law DOI only for the historical architecture and priority record. Use the accepted RAPS paper for the current conditional local theorem.
+Use the Governance Bridge Law DOI only for the historical architecture and priority record. Use the published RAPS paper for the current conditional local theorem.
 
 Formal citation:
 

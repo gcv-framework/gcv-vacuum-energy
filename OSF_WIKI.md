@@ -4,13 +4,15 @@ This repository file is a reusable text template for editable OSF project wikis.
 
 GCV is a flux-fixed GR framework in which the strictly spacetime-constant vacuum zero mode is excluded from retained local stress, ordinary local excitations remain in the local stress-energy tensor, and `Lambda_eff` is retained as a geometric branch constant rather than local vacuum matter. The physical compact/flux-to-`Lambda_eff` realization and selection map remains open.
 
-## Current status - 29 July 2026
+## Current status — 30 September 2026
 
-The controlling classification is the **GCV Programme Status and Supersession Note**: [concept DOI 10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959) · [version DOI 10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960). It reports no new scientific result and does not alter earlier files, timestamps, or immutable registrations.
+The **GCV Programme Status and Supersession Note**, [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960), supplies the dated **29 July 2026 classification of earlier records**. It reports no new science and leaves earlier files, dates and registrations unchanged. September source developments are supported by their own records.
 
-The accepted RAPS Source-Assignment paper is the current conditional H01-H04 local source-split theorem; publisher DOI pending. The proposed stronger fixed-physical-branch source law is the author preprint [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), under primitive source/fixed-`K_phys` axioms and explicit closure hypotheses. Its “all-order” scope means each finite perturbative matter order or finite admitted composition, not infinite resummation or nonperturbative closure.
+**Source Assignment** is published in *Reports in Advances of Physical Sciences* 10, 2650015 (2026), [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155). It is the conditional H01-H04 local source-split theorem. [Website](https://johansson.digital/additional-papers/source-assignment).
 
-Source-law records: [Zenodo concept DOI](https://doi.org/10.5281/zenodo.21590692) · [Zenodo v1.0.0 DOI](https://doi.org/10.5281/zenodo.21590693) · [OSF project pvhyz](https://osf.io/pvhyz/overview) · [frozen OSF registration t4c92](https://osf.io/t4c92/overview).
+**Source Law v4.1** is the current author preprint, *Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity*, [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033). It constructs a conditional local quantum implementation under supplied reference/source/geometric inputs at separately fixed finite loop and EFT orders. Independent gravitational and genuinely mixed contributions remain retained. Finite normalization is equivalent to ordinary EFT at matched inputs. [Website](https://johansson.digital/additional-papers/provenance-typed-source-law).
+
+**Original Source Law v1**, [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), preserves the 26 July 2026 disclosure. Its [original OSF project](https://osf.io/pvhyz/overview) and [frozen v1 registration](https://osf.io/t4c92/overview) belong to that version, not the later v4.1 calculations or proofs. The family [concept DOI](https://doi.org/10.5281/zenodo.21590692) remains the evolving-record link.
 
 Governance Bridge remains a historical architecture/priority record, and Governance-UV v1.2.0 / CFI Section 6.2 is superseded as the current radiative-stability proof basis and response/PB production anchor. Full programme CCP closure and physical value/sign closure are not current established conclusions. Baryogenesis is historical/conditional; matter-shell is quarantined as physical descent; nonzero Growth and Lensing predictions are superseded; Bounded Transients is historical/conditional without occurrence; DESI is a historical/conditional fixed-template exercise.
 

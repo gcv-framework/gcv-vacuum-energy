@@ -2,7 +2,7 @@
 
 This file lists common overstatements to avoid.
 
-Current classification is controlled by the [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960), dated 29 July 2026.
+Earlier-record classification follows the [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960), dated 29 July 2026. Current source scope combines the [published Source Assignment article](docs/19_source_assignment.md) and [Source Law v4.1](docs/17_provenance_typed_source_law.md), as summarized in [CURRENT_STATUS.md](CURRENT_STATUS.md).
 
 ## GCV does not claim
 
@@ -11,8 +11,11 @@ Current classification is controlled by the [GCV Programme Status and Supersessi
 - that the Governance Route / Gate Architecture note replaces the CCP synthesis;
 - that the Governance Bridge Law or Governance Route record proves the stricter fixed-physical-branch no-transfer condition;
 - that the provenance-typed source law is peer reviewed, derived from a known parent Ward identity, or a complete UV/quantum-gravity completion;
-- that “all-order” in the source-law title establishes infinite resummation, nonperturbative closure, unrestricted null/corner closure, or anything beyond each finite perturbative matter order or finite admitted composition under the stated hypotheses;
-- that the accepted Source-Assignment theorem derives independent fixed `K_phys` or strict fixed-`K_phys` no-transfer;
+- that the original v1 “all-order” title dates or characterizes every later result; v4.1 states conditional local compatibility at each separately fixed finite loop and EFT order, not convergence, arbitrary-bundle interacting measures, general physical-boundary/null/corner gluing or nonperturbative closure;
+- that finite normalization alone derives the source selector or creates an observable difference from ordinary EFT at matched renormalized inputs;
+- that Source Law cancels independent gravitational or genuinely mixed vacuum contributions, or that its scalar–graviton example is a complete multiloop Standard-Model calculation;
+- that an equal-offset daughter comparison establishes a distinct calibrated local phase response after matching the physical parent;
+- that the published Source-Assignment theorem derives independent fixed `K_phys` or strict fixed-`K_phys` no-transfer;
 - that the source-law preprint determines the observed value or sign of `Lambda_eff` or validates application-specific downstream records;
 - that Governance-UV v1.2.0 / CFI Section 6.2 remains the accepted GCV radiative-stability foundation or PB0-PB2 response anchor;
 - that GCV currently provides a unique UV completion;
@@ -43,8 +46,8 @@ Current classification is controlled by the [GCV Programme Status and Supersessi
 
 ## Correct framing
 
-- The accepted RAPS Source-Assignment paper is the current conditional H01-H04 local source-split theorem; its publisher DOI is pending.
-- The provenance-typed source-law preprint is the proposed stronger fixed-physical-branch construction under primitive source/fixed-`K_phys` axioms and explicit closure hypotheses; its closure statement covers finite orders and finite admitted compositions.
+- The published RAPS Source Assignment article, [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155), is the conditional H01-H04 local source-split theorem.
+- Source Law v4.1, [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033), is the current preprint on conditional local quantum implementation and compatibility under a supplied fixed-reference source/input rule and independent geometric data. It includes scoped perturbative-gravity results; the finite normalization is equivalent to ordinary EFT at matched inputs.
 - The Governance Bridge Law is a historical/supporting source-assignment architecture and priority record.
 - The Governance Route / Gate Architecture note is a historical organizational route ledger; it does not establish current closure of all downstream gates.
 - The GR-exact backbone is a historical local-equation/backbone record; its Einstein-form landing survives.

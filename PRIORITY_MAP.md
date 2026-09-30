@@ -8,7 +8,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 
 ### Programme Status and Supersession Note
 
-- Role: current controlling classification; reports no new scientific result.
+- Role: dated July classification of earlier records; reports no new scientific result. September developments have their own records.
 - Concept DOI: [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959)
 - Version DOI v1.0.0: [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960)
 - Status date: 2026-07-29
@@ -16,23 +16,27 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 
 ## Highest-priority source-assignment records
 
-### Accepted RAPS Source-Assignment paper
+### Published RAPS Source Assignment
 
-- Status: accepted for publication in *Reports in Advances of Physical Sciences*
-- Manuscript: `WSPC-RAPS-D-26-00026`
-- Publisher DOI: pending
-- Purpose: current accepted conditional H01-H04 local source-split theorem.
+- Title: **Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability**
+- Status: published in *Reports in Advances of Physical Sciences* 10, 2650015 (2026)
+- Published online: 2026-09-19
+- Publisher DOI: [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155)
+- Purpose: conditional H01-H04 local source-split theorem; distinct from the earlier Governance Bridge record.
 
-### Provenance-typed source law
+### Source Law — first disclosure and current version
 
 - Priority tier: Critical
 - Concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
-- Version DOI v1.0.0: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
-- First public date: 2026-07-26
-- OSF project: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
-- Frozen OSF registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
-- Purpose: timestamps the current proposed stronger fixed-physical-branch source law.
-- Boundary: author preprint under primitive source/fixed-`K_phys` axioms and explicit closure hypotheses. “All-order” is limited to each finite perturbative matter order or finite admitted composition; not a peer-reviewed UV completion, infinite resummation, nonperturbative closure, Ward-identity derivation, quantum gravity, or value/sign theorem.
+- Original version DOI v1.0.0: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+- Original title: **A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent**
+- First public date: **2026-07-26**
+- Original OSF project: [pvhyz](https://osf.io/pvhyz/overview)
+- Original frozen OSF registration: [t4c92](https://osf.io/t4c92/overview)
+- Current version DOI v4.1.0: [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033) (2026)
+- Current title: **Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity**
+- Purpose: preserve the original disclosure and direct readers to the current conditional quantum implementation.
+- Boundary: the original timestamp applies to v1's content. Later v4.1 calculations, proof repairs and corrected comparisons are attributed to v4.1, not backdated to July. The v1 registration is not a registration of v4.1.
 
 ### Governance Bridge Law
 
@@ -60,7 +64,7 @@ Priority timestamp and priority tier do not imply current scientific endorsement
 - Concept DOI: [10.5281/zenodo.17636209](https://doi.org/10.5281/zenodo.17636209)
 - Current canonical DOI: [10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
 - Purpose: timestamps the GR-exact local equation and radiative-stability backbone.
-- Current status: historical backbone; cite the accepted RAPS result for the current conditional local theorem.
+- Current status: historical backbone; cite the published RAPS result for the current conditional local theorem.
 
 ### Flagship CCP synthesis
 

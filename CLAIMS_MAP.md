@@ -8,27 +8,29 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Concept DOI:** [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959)
 
-**Role:** Controls the accepted/proposed/historical/conditional/open classification as of 29 July 2026. It reports no new scientific result and leaves earlier files, timestamps, and registrations unchanged.
+**Role:** Classifies earlier records as of 29 July 2026, reports no new scientific result and leaves earlier files, timestamps and registrations unchanged. The September publication and Source Law v4.1 are documented separately below.
 
-## Accepted Source-Assignment claim
+## Published Source Assignment
 
-**Claim:** Under H01-H04, the exact matter-vacuum zero mode is excluded from primitive local stress and the local equation has Einstein form, while ordinary retained local excitations gravitate normally.
+**Claim:** Under H01-H04, the exact matter-vacuum zero mode is excluded from primitive local stress and the fixed-sector local equation has Einstein form, while ordinary local excitations gravitate normally. H04 is a defining operator-inventory/admissibility condition, not a microscopic UV theorem. Exact constant shifts may relabel the broader global branch relation.
 
-**Current record:** *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*, accepted for publication in *Reports in Advances of Physical Sciences*, manuscript `WSPC-RAPS-D-26-00026`; publisher DOI pending.
+**Record:** *Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability*, *Reports in Advances of Physical Sciences* 10, 2650015 (2026), [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155).
 
-**Boundary:** This is a conditional local source-split theorem. H04 is a defining admissibility/operator-class restriction and pass/fail condition for candidate microscopic realizations, not a theorem derived from a complete UV theory. Exact constant shifts may relabel the broader global branch relation. The paper does not establish independent fixed `K_phys`, strict fixed-`K_phys` no-transfer, a value/sign selection law, or a universal UV completion.
+**Boundary:** No universal UV completion, observed value/sign selection or derivation of the later fixed-reference source/input rule is established. See [Source Assignment](docs/19_source_assignment.md).
 
-## Proposed provenance-typed source-law claim
+## Source Law — current v4.1 preprint
 
-**Claim:** Conditional on exhaustive provenance saturation, quotient/projection before source variation, triangular and natural transport of admitted quantum and interface operations, the required ordering, and an independently fixed compact datum `K_phys`, the protected matter-zero lineage has zero retained local-source image and zero fixed-branch `K_phys`/`Lambda_eff` image. The conditional closure theorem covers any finite composition of admitted operations. Separately, the scalar host establishes matter-side additive-shift nonbackflow at each finite perturbative order; it does not derive the primitive source or fixed-`K` axioms.
+**Claim:** Conditional local quantum implementation of a supplied source rule in the minimal three-generation Standard Model with perturbative gravity, at each separately fixed finite loop and EFT order. One complete-theory matter reference and independent geometric data are inputs. The local curvature-independent matter potential evaluated at that reference, together with its complete covariant volume family, is excluded from Einstein sourcing; phase differences, state and curvature response, independent gravitational coefficients and genuinely mixed contributions remain retained. At matched renormalized inputs, finite normalization is equivalent to ordinary EFT.
 
-**Current proposed record:** [A provenance-typed source law for exact vacuum zero modes — 10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+**Record:** *Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity* (v4.1.0), [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033); [concept DOI](https://doi.org/10.5281/zenodo.21590692).
 
-**Concept DOI:** [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
+**Domain:** The ordinary anomaly-restoration host, sufficient counterterms, locality/infrared and full transport/matching hypotheses, a trivializable perturbative gauge/spin sector, no physical boundary, and admitted analytic invertible presentation changes. The explicit two-loop scalar–graviton example is not a full multiloop Standard-Model calculation.
 
-**OSF project / frozen registration:** [project](https://osf.io/pvhyz/overview) · [registration](https://osf.io/t4c92/overview)
+**Boundary:** The source/input rule and reference are premises. There is no derivation of the selector, observed cosmological constant, arbitrary-bundle interacting measure, general boundary/gluing theory or nonperturbative completion. Independent gravitational and genuinely mixed vacuum terms are not canceled. The corrected phase comparison supplies no distinct calibrated local response at matched physical parent inputs. The published Source Assignment article and its H04 condition remain separate.
 
-**Boundary:** Author preprint v1.0.0, not peer reviewed. The source law and independent fixed `K_phys` are postulated as primitive framework structure and are not derived from a known parent Ward identity. “All-order” means each finite perturbative matter order or finite composition of admitted operations. It is not an infinite-resummation theorem, nonperturbative closure, general null/corner closure, a complete UV or quantum-gravity completion, or a value/sign theorem.
+**Original disclosure:** Source Law v1.0.0, 26 July 2026, [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), with [OSF project](https://osf.io/pvhyz/overview) and [frozen v1 registration](https://osf.io/t4c92/overview). Its original title, finite-matter-order construction and timestamp are preserved as v1 provenance, not attributed to the later v4.1 results.
+
+See [Source Law](docs/17_provenance_typed_source_law.md) for the current scope and version relationship.
 
 ## Historical Governance Bridge claim
 
@@ -36,7 +38,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Historical record:** [Governance Bridge Law — 10.5281/zenodo.19676381](https://doi.org/10.5281/zenodo.19676381)
 
-**Current boundary:** This record preserves the architecture and priority trail. It is not the accepted RAPS local theorem and its broader global language is not evidence for the stricter fixed-physical-branch no-transfer condition.
+**Current boundary:** This record preserves the architecture and priority trail. It is not the published RAPS local theorem and its broader global language is not evidence for the stricter fixed-physical-branch no-transfer condition.
 
 ## Governance-route / gate-architecture claim
 
@@ -46,7 +48,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Concept DOI:** [10.5281/zenodo.19874410](https://doi.org/10.5281/zenodo.19874410)
 
-**Boundary:** This remains an organizational route and claim-boundary ledger. It does not re-prove the accepted Source-Assignment theorem or the proposed provenance-typed source law, and it does not establish that its downstream gates are currently closed.
+**Boundary:** This remains an organizational route and claim-boundary ledger. It does not re-prove the published Source-Assignment theorem or Source Law v4.1, and it does not establish that its downstream gates are currently closed.
 
 ## GR-exact branch / radiative-stability claim
 
@@ -54,7 +56,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Canonical record:** [Radiative-stability backbone — 10.5281/zenodo.18144371](https://doi.org/10.5281/zenodo.18144371)
 
-**Boundary:** Historical GR-exact landing/backbone record. Its local Einstein-form equation survives; cite the accepted RAPS paper for the current conditional theorem and the provenance-typed preprint for the proposed stronger fixed-branch source law.
+**Boundary:** Historical GR-exact landing/backbone record. Its local Einstein-form equation survives; cite the published RAPS paper for the current conditional theorem and Source Law v4.1 for its additional source/input rule and conditional quantum implementation.
 
 ## Programme-level CCP synthesis claim
 
@@ -62,7 +64,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Canonical record:** [Flagship CCP synthesis — 10.5281/zenodo.18850395](https://doi.org/10.5281/zenodo.18850395)
 
-**Current boundary:** Historical March 2026 programme synthesis and priority record. The claims that all three CCP pillars are resolved and that the programme has physical value/sign closure are not current established conclusions. The structural source split remains controlled by the accepted Source-Assignment theorem.
+**Current boundary:** Historical March 2026 programme synthesis and priority record. The claims that all three CCP pillars are resolved and that the programme has physical value/sign closure are not current established conclusions. The structural source split remains controlled by the published Source-Assignment theorem.
 
 ## Logical closure claim
 
@@ -170,7 +172,7 @@ This file maps claims to their canonical DOI records. It is not a new scientific
 
 **Canonical record:** [Visible matter-branch baryogenesis — 10.5281/zenodo.19708255](https://doi.org/10.5281/zenodo.19708255)
 
-**Boundary:** Historical/conditional benchmark, not an explanation of the observed baryon asymmetry. Neither the accepted Source-Assignment theorem nor the proposed source-law preprint derives the assumed ingredients or the observed baryon yield.
+**Boundary:** Historical/conditional benchmark, not an explanation of the observed baryon asymmetry. Neither the published Source-Assignment theorem nor Source Law v4.1 derives the assumed ingredients or the observed baryon yield.
 
 ## Matter-shell throughput / growth-viability claim
 

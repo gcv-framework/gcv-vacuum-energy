@@ -1,34 +1,39 @@
 # Current Scientific Status
 
-**Status date:** 29 July 2026
+**Repository status date:** 30 September 2026
 
-This page synchronizes the repository to the controlling [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960), v1.0.0. The note has [concept DOI 10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959) and exact [version DOI 10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960). It reports no new scientific result; it classifies the current authority and scope of earlier records. Historical files, titles, DOI records, release dates, OSF registrations, and priority timestamps remain unchanged.
+This page combines the published Source Assignment article and the current Source Law v4.1 preprint with the earlier-record classifications in the [GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960), dated 29 July 2026. That note retains its original date, [concept DOI](https://doi.org/10.5281/zenodo.21671959), version and scope; September developments are supported by their own records. Historical files, titles, DOI records, release dates, OSF registrations and priority timestamps remain unchanged.
 
-## Current source stack
+## Current source records
 
-| Record | Current status | Claim boundary |
+| Record | Status and role | Claim boundary |
 |---|---|---|
-| **[GCV Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960)** | Current controlling classification, dated 29 July 2026. | It reports no new mechanism, theorem, calculation, prediction, or observation. It controls the accepted/proposed/historical/conditional/open hierarchy used here. |
-| **Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability** | Accepted for publication in *Reports in Advances of Physical Sciences* (manuscript `WSPC-RAPS-D-26-00026`); publisher DOI pending. This is the accepted conditional local source-assignment theorem. | Under H01-H04, the exact matter-vacuum zero mode is excluded from primitive local stress and the local equation has Einstein form, while ordinary local excitations gravitate normally. Exact constant shifts may relabel the broader global branch relation. H04 is a defining admissibility/pass-fail condition, not a microscopic UV theorem. The paper does not establish independent fixed `K_phys`, strict fixed-`K_phys` no-transfer, value/sign selection, or a universal UV completion. |
-| **[A provenance-typed source law for exact vacuum zero modes](https://doi.org/10.5281/zenodo.21590693)** | Author preprint v1.0.0, 26 July 2026. This is the proposed stronger fixed-physical-branch source law. | It conditionally proves no transfer of the saturated matter-zero lineage into retained local stress or the independent fixed branch under its stated primitive source and fixed-`K_phys` axioms and closure hypotheses. “All-order” means each finite perturbative matter order or finite composition of admitted operations. It does not establish infinite resummation, nonperturbative closure, general null/corner closure, quantum gravity, a known-Ward-identity derivation, or the value/sign of `Lambda_eff`. |
-| **Governance Bridge Law** | Historical architecture and priority record. | Its broader branch-relabeling language does not establish the stricter fixed-physical-branch no-transfer condition. |
-| **Governance-UV v1.2.0 / CFI Section 6.2** | Historical record, superseded as the current proof basis for radiative stability and as a Route-B/PB response-production anchor. | It does not establish the provenance-typed source law's required closure structure or fixed-branch no-transfer result. Its archived calculations remain historical conditional benchmarks. |
+| **[Source Assignment](docs/19_source_assignment.md)** — [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155) | Published in *Reports in Advances of Physical Sciences* 10, 2650015 (2026), online 19 September 2026. | Under H01-H04, the exact matter-vacuum zero mode is excluded from primitive local stress and the fixed-sector local equation has Einstein form, while ordinary local excitations gravitate normally. H04 is a defining operator-inventory/admissibility condition, not a microscopic UV theorem. Exact constant shifts may relabel the broader global branch relation. No value/sign selection or universal UV completion is established. |
+| **[Source Law v4.1](docs/17_provenance_typed_source_law.md)** — [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033) | Current author preprint: *Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity*. | Conditional local quantum implementation of a supplied source rule in the minimal three-generation Standard Model with perturbative gravity, at each separately fixed finite loop and EFT order. One complete-theory matter reference and independent geometric data are inputs. The local curvature-independent matter potential evaluated at that reference, together with its complete covariant volume family, is excluded from Einstein sourcing; phase differences, state and curvature response, independent gravitational coefficients and genuinely mixed contributions remain retained. At matched renormalized inputs, finite normalization is equivalent to ordinary EFT. |
+| **Original Source Law v1** — [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) | Original disclosure, 26 July 2026, with its own assumptions and provenance. | The original timestamp and frozen registration cover that record, not the later v4.1 implementation or proofs. |
+| **Programme Status and Supersession Note** — [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960) | Dated July classification of earlier records; reports no new science. | It is not the source for the later v4.1 calculations or the September publication metadata. |
+| **Governance Bridge Law** | Historical architecture and priority record. | Separate from the published RAPS article and the later Source Law implementation. |
+| **Governance-UV v1.2.0 / CFI Section 6.2** | Historical, superseded as the radiative-stability foundation and response-production anchor. | Its archived calculations remain historical conditional benchmarks. |
 
-The accepted Source-Assignment result is not superseded. The provenance-typed preprint proposes a stronger source law and tests its preservation within a more restrictive fixed-physical-branch subclass.
+The published Source Assignment result is not superseded. Source Law adds a supplied fixed-reference source/input rule and tests its conditional quantum compatibility; it does not amend the published article or redefine its H04 operator-inventory condition.
 
-Source-law archive identifiers: [concept DOI 10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692) · [version DOI 10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) · [OSF project pvhyz](https://osf.io/pvhyz/overview) · [frozen OSF registration t4c92](https://osf.io/t4c92/overview).
+Source Law archive: [concept DOI](https://doi.org/10.5281/zenodo.21590692) · [current v4.1](https://doi.org/10.5281/zenodo.22687033) · [original v1](https://doi.org/10.5281/zenodo.21590693). Original v1 provenance: [OSF project pvhyz](https://osf.io/pvhyz/overview) · [frozen registration t4c92](https://osf.io/t4c92/overview).
 
-## Source ontology
+## Source ontology and quantum scope
 
-In the proposed stronger source-law preprint, independent fixed `K_phys` is a primitive branch axiom. It is not derived from a microscopic symmetry, identified with the archived counting input `K = 1968`, or supplied by the accepted Source-Assignment theorem. The deposited numerical input `K = 1968` in the Lambda and matter-shell records is denoted `K_arch` for current-status purposes.
+In Source Law v4.1, one complete-theory matter reference, the selective source/input rule and independent geometric data are supplied inputs. The construction assigns only the local curvature-independent matter potential evaluated at that reference and its complete covariant volume family, including its graviton vertices. It retains matter and phase-energy differences, thermal/state and curvature response, independent gravitational coefficients and genuinely mixed contributions. The deposited counting input `K = 1968` in the Lambda and matter-shell records remains `K_arch`; it is not the independent geometric datum `K_phys`.
 
-At the accepted two-derivative landing, `Lambda_eff` is a geometric branch constant rather than local vacuum matter:
+At the published two-derivative landing, `Lambda_eff` is a geometric branch label rather than local vacuum matter:
 
 ```text
 G_mn + Lambda_eff g_mn = 8 pi G T_mn^loc.
 ```
 
-Moving the `Lambda_eff g_mn` term to the right-hand side does not turn it into matter. After landing, retained local matter responds normally to curvature and local stress. Curvature-dependent EFT operators, the renormalized Einstein-Hilbert coefficient, and higher-curvature or nonlocal gravitational responses remain physical. A provenance-preserving microscopic map from independently identified physical compact/flux or `K_phys` data to the realized geometric `Lambda_eff` remains open.
+Moving the geometric term across the equation does not turn it into matter. Ordinary renormalization of the Einstein-Hilbert coefficient and retained higher-curvature/nonlocal response remain physical.
+
+The v4.1 compatibility statement is local and perturbative at each separately fixed finite loop and EFT order, under the stated ordinary anomaly-restoration, counterterm, infrared, transport and matching assumptions, in a trivializable gauge/spin sector with no physical boundary. It includes scoped perturbative-gravity calculations; it does not establish general quantum-gravity, arbitrary-bundle, boundary or nonperturbative closure. Finite normalization is equivalent to ordinary EFT at matched renormalized inputs. The physical source/input rule is an additional premise.
+
+The v4.1 phase comparison retains the full phase-energy increment. Matching the physical parent removes the apparent local discrepancy of the earlier equal-offset daughter comparison on a common admitted history; no general global equivalence follows.
 
 ## Downstream record status
 
@@ -53,13 +58,15 @@ The GR+`Lambda_eff` background and ordinary local perturbations remain. The abse
 
 ## Application boundary
 
-The provenance-typed source-law preprint does not by itself establish any application-specific Lambda-selection, growth, lensing, transient, baryogenesis, black-hole, or other downstream result. Each application retains its own assumptions and requires its own derivation and status audit.
+Source Law v4.1 does not by itself establish any application-specific Lambda-selection, growth, lensing, transient, baryogenesis, black-hole, or other downstream result. Each application retains its own assumptions and requires its own derivation and status audit.
 
 The fixed-sector black-hole records remain separately scoped compatibility or benchmark records with the three distinct classifications listed above. This status update does not alter their archived files.
 
-## Technical companion
+## Supporting materials
 
-The technical companion included in the source-law v1.0.0 deposit is an author-controlled, AI-assisted adversarial verification and reproducibility record. It shares DOI [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693), introduces no separate axiom, theorem, numerical result, or application claim, and is not independent peer review, external certification, or evidence of community endorsement. The main manuscript is the claim-bearing file.
+The v4.1 archive supplies the main manuscript, Supplementary Material S1 and reproducibility programs with recorded outputs. The main/S1 specify the current definitions, calculations, corrected comparisons and proof hypotheses.
+
+The original v1 technical companion remains an author-controlled, AI-assisted supporting record within [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693). It is not the v4.1 supplement, independent peer review, external certification or community endorsement.
 
 ## Preservation rule
 
@@ -67,12 +74,11 @@ The editable descriptions of affected Zenodo records and the corresponding OSF W
 
 ## Claims that remain open
 
-- Microscopic derivation of the proposed primitive source projection and independent fixed-`K_phys` axiom.
-- A physical compact/flux or `K_phys`-to-`Lambda_eff` branch-realization map, measure, and selection law.
-- A derivation of the observed magnitude and positive sign of geometric `Lambda_eff`.
+- Microscopic derivation of the source selector, complete-theory reference and independent geometric inputs.
+- A physical branch-realization map, measure and selection law determining the observed magnitude and positive sign of `Lambda_eff`.
 - A non-circular source-native derivation of the absolute Einstein-Hilbert denominator.
-- Any additional distinctive nonzero GCV growth, lensing, or bounded-transient response.
+- Any additional distinctive GCV growth, lensing or bounded-transient response.
 - A physical baryogenesis carrier/selector and matter-shell descent theorem.
-- Quantized graviton/ghost/top-form closure, topology-changing or membrane-mediated branch dynamics, and general null/corner gluing.
-- Derived black-hole interiors, sector birth, occurrence rates, and distinctive strong-field observables.
-- Infinite resummation, nonperturbative closure, and quantum gravity.
+- Global bundle/measure extensions, physical-boundary and general null/corner gluing, and compact top-form or topology-changing dynamics beyond the stated local perturbative domain.
+- Derived black-hole interiors, sector birth, occurrence rates and distinctive strong-field observables.
+- Infinite resummation, nonperturbative closure and a complete quantum-gravity construction.

@@ -2,14 +2,14 @@
 
 This table gives the conceptual dependency order. It is not a proof; it is a navigation map.
 
-## Current source and application map - 29 July 2026
+## Current source and application map — 30 September 2026
 
 | Lane | Record or layer | Current role |
 |---|---|---|
-| Programme status | [Programme Status and Supersession Note](https://doi.org/10.5281/zenodo.21671960) | Controls the accepted/proposed/historical/conditional/open classification; reports no new scientific result. |
-| Accepted local theorem | Accepted RAPS Source-Assignment paper | Conditional H01-H04 local source split and Einstein-form landing; publisher DOI pending. |
-| Proposed stronger law | Provenance-typed source law, [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693) | Stronger fixed-physical-branch no-transfer law under primitive axioms and explicit closure hypotheses; finite perturbative orders/finite admitted compositions only; not a prerequisite for the accepted local landing. |
-| Geometric ontology | Accepted `Lambda_eff` landing; proposed independent fixed `K_phys` | `Lambda_eff` is geometric rather than local matter. The physical compact/flux or `K_phys`-to-`Lambda_eff` realization and selection map remains open; archived `K=1968` is `K_arch`. |
+| Earlier-record classification | [July Programme Status Note](https://doi.org/10.5281/zenodo.21671960) | Classifies earlier records; no new science. September source developments have their own records. |
+| Published local theorem | [Source Assignment](../docs/19_source_assignment.md), [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155) | Conditional H01-H04 local source split and Einstein-form landing. |
+| Quantum implementation | [Source Law v4.1](../docs/17_provenance_typed_source_law.md), [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033) | Conditional local compatibility at separately fixed finite loop/EFT orders under supplied source/reference/geometric inputs; not a prerequisite for the published local theorem. |
+| Geometric ontology | Geometric `Lambda_eff`; independent geometric inputs in Source Law | The physical realization and value/sign selection remain open. Retained gravitational/mixed terms remain physical; archived `K=1968` is `K_arch`. |
 | Downstream applications | Application-specific records | Retain their separate scopes and require their own source, occurrence, and response derivations; the source law does not establish them automatically. |
 
 Current affected downstream status: full programme CCP and physical value/sign closure are not current established conclusions; baryogenesis is historical/conditional; matter-shell is quarantined as physical descent; nonzero Growth and Lensing predictions are superseded; Bounded Transients is historical/conditional without an occurrence theorem; DESI is a historical/conditional fixed-template exercise. See [Current Scientific Status](../CURRENT_STATUS.md).

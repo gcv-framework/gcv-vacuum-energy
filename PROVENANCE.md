@@ -18,31 +18,43 @@ Priority and preservation status are not the same as current scientific status. 
 - Concept DOI: [10.5281/zenodo.21671959](https://doi.org/10.5281/zenodo.21671959)
 - Version DOI v1.0.0: [10.5281/zenodo.21671960](https://doi.org/10.5281/zenodo.21671960)
 - Status date: 2026-07-29
-- Role: current controlling programme-classification and supersession record.
+- Role: dated 29 July 2026 classification and supersession record for earlier work; September source developments have their own records.
 - Boundary: reports no new scientific result; does not alter an earlier file, DOI, version lineage, original publication date, or frozen OSF registration.
 
-## Accepted RAPS Source-Assignment paper
+## Published RAPS Source Assignment
 
 - Title: **Exact vacuum zero modes in compact top-form sectors: source assignment and radiative stability**
-- Status: accepted for publication in *Reports in Advances of Physical Sciences*
-- Manuscript: `WSPC-RAPS-D-26-00026`
-- Publisher DOI: pending
-- Role: accepted conditional H01-H04 local source-split theorem.
-- Boundary: H04 is a defining admissibility/pass-fail restriction, not a microscopic UV theorem; exact constant shifts may relabel the broader global branch relation. The paper does not establish independent fixed `K_phys`, strict fixed-`K_phys` no-transfer, a value/sign selection law, or a universal UV completion.
+- Status: published in *Reports in Advances of Physical Sciences* 10, 2650015 (2026)
+- Published online: 2026-09-19
+- Publisher DOI: [10.1142/S2424942426500155](https://doi.org/10.1142/S2424942426500155)
+- Website: [Source Assignment](https://johansson.digital/additional-papers/source-assignment)
+- Role and boundary: Under H01-H04, the exact matter-vacuum zero mode is excluded from primitive local stress and the fixed-sector local equation has Einstein form, while ordinary local excitations gravitate normally. H04 is a defining operator-inventory/admissibility condition, not a microscopic UV theorem. Exact constant shifts may relabel the broader global branch relation.
 
-## Provenance-typed source law
+The historical Governance Bridge DOI remains a distinct work and priority record; it is not the publisher DOI of this article.
 
-- Title: **A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent**
+## Source Law — current v4.1
+
+- Current title: **Vacuum source assignment and quantum compatibility in the Standard Model with perturbative gravity**
+- Status: author preprint v4.1.0 (2026)
+- Current version DOI: [10.5281/zenodo.22687033](https://doi.org/10.5281/zenodo.22687033)
 - Concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
-- Version DOI v1.0.0: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
-- Public release date: 2026-07-26
-- OSF backup: [https://osf.io/pvhyz/overview](https://osf.io/pvhyz/overview)
-- OSF frozen registration: [https://osf.io/t4c92/overview](https://osf.io/t4c92/overview)
-- OSF registration date: 2026-07-26
-- Zenodo relations: obsoletes Governance-UV concept DOI [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); references Governance Bridge concept DOI [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380).
-- Status: author preprint; current proposed stronger fixed-physical-branch source law.
-- Boundary: conditional on its primitive source and independent fixed-`K_phys` axioms and stated closure hypotheses. “All-order” means each finite perturbative matter order or finite composition of admitted operations. It is not peer reviewed, infinite resummation, nonperturbative closure, general null/corner closure, a known-Ward-identity derivation, a complete UV/quantum-gravity completion, or a value/sign theorem.
-- Supporting file: author-controlled, AI-assisted technical companion sharing the same DOI; no separate claim, DOI, or independent-review status.
+- Website: [Source Law](https://johansson.digital/additional-papers/provenance-typed-source-law)
+- Current record: main manuscript, S1, sources and reproducibility programs with recorded outputs.
+- Scope: conditional local quantum implementation at separately fixed finite loop/EFT orders; supplied reference/source rule and independent geometric data, retained gravity/mixed contributions, matched-input EFT equivalence. See [Source Law](docs/17_provenance_typed_source_law.md).
+
+## Source Law — original v1 provenance
+
+- Original title: **A provenance-typed source law for exact vacuum zero modes: All-order matter radiative stability and boundary codescent**
+- Original version DOI v1.0.0: [10.5281/zenodo.21590693](https://doi.org/10.5281/zenodo.21590693)
+- Concept DOI: [10.5281/zenodo.21590692](https://doi.org/10.5281/zenodo.21590692)
+- Original public release date: 2026-07-26
+- Original OSF project: [pvhyz](https://osf.io/pvhyz/overview)
+- Original frozen registration: [t4c92](https://osf.io/t4c92/overview), dated 2026-07-26
+- Original Zenodo relations: obsoletes Governance-UV concept [10.5281/zenodo.18438489](https://doi.org/10.5281/zenodo.18438489); references Governance Bridge concept [10.5281/zenodo.19676380](https://doi.org/10.5281/zenodo.19676380).
+- Status: original author-preprint disclosure, with its stated primitive axioms, finite-order/finite-composition hypotheses and matter-side construction.
+- Supporting file: author-controlled, AI-assisted technical companion in the same v1 deposit; no separate claim, DOI or independent-review status.
+
+The July timestamp and frozen registration apply to the original record. They do not date or register the later v4.1 calculations, coupled source proof or corrected comparisons. The first-version title, files and identifiers remain preserved. Cite each version for the content it actually contains.
 
 ## Governance Bridge Law
 
@@ -52,7 +64,7 @@ Priority and preservation status are not the same as current scientific status. 
 - OSF backup: [https://osf.io/e3qy8/overview](https://osf.io/e3qy8/overview)
 - OSF registration: [https://osf.io/fv94u/overview](https://osf.io/fv94u/overview)
 - Current status: historical/supporting source-assignment architecture and priority record.
-- Boundary: not the accepted RAPS local theorem and not evidence for the provenance-typed source law's strict fixed-physical-branch no-transfer condition.
+- Boundary: not the published RAPS local theorem and not evidence for the provenance-typed source law's strict fixed-physical-branch no-transfer condition.
 
 ## Governance Route / Gate Architecture
 
