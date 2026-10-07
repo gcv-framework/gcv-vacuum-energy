@@ -6,7 +6,8 @@ authors:
   - family-names: Johansson
     given-names: Germund
     affiliation: "Independent researcher, Switzerland"
-date-released: "2026-07-29"
+version: "1.3.0"
+date-released: "2026-10-07"
 repository-code: "https://github.com/gcv-framework/gcv-vacuum-energy"
 url: "https://github.com/gcv-framework/gcv-vacuum-energy"
 abstract: "Navigation, route-map, citation, provenance, and current-status index for the Gauged Constant Vacuum-Mode (GCV) framework. References distinguish published Source Assignment, the current Source Law preprint and original provenance, and scoped, conditional, historical, superseded, quarantined or open records; the authoritative scientific objects remain the versioned DOI records and associated Zenodo/OSF archives."
